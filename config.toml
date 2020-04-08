@@ -1,0 +1,55 @@
+baseurl = "http://www.xiaotiandai.com"
+title = "Dr. Xiaotian Dai"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-60989638-2" # Enable Google Analytics by entering your tracking id
+
+[Author]
+  name = "Xiaotian Dai"
+  bio = "Research Associate at University of York. PhD in Real-Time Systems, MSc / BSc in Control Systems."
+  avatar = "img/avatar.png"
+
+[Params]
+  subtitle = "Research Associate at University of York" # Subtitle of your site
+  description = "" # Description of your site
+  copyright = "Xiaotian Dai" # copyright holder, otherwise will use site title
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  toc = true
+  post_navigation = false
+  post_meta = ["date", "categories"] # Order of post meta information. Use ["none"] to turn off completely.
+  postSections = ["post"] # ["blog", "news"] alternative that shows more than one section's pages
+  dateformat = "2006-01-02" # change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  PygmentsCodeFences = true
+  PygmentsStyle = "monokai"
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 8 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  #facebook = "username"
+  #twitter = "username"
+  linkedin = "xdai3"
+  #telegram = "username"
+  github = "automaticdai"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "automatic.dai@gmail.com"
+  #google_plus = "profileid"
+
