@@ -17,7 +17,7 @@ toc: false
 
 ## Research Projects
 
-#### (2019 - 2022) MOCHA: Modelling and Optimising Complex Heterogenous Architectures ([homepage](https://www.cs.york.ac.uk/rts/mocha/))
+#### (2019 - 2022) MOCHA: Modelling and Optimising Complex Heterogenous Architectures [(homepage)](https://www.cs.york.ac.uk/rts/mocha/)
 
 **PostDoc RA, funded by Huawei Technologies Co. Ltd, £985,927**
 
@@ -26,7 +26,7 @@ The applications and resources (processors, networks and memory) for real-time s
 The key challenges that emerge are whether the models reflect how the system would behave during operation, how systems should deal with unexpected or rarely occurring scenarios, and then how to optimise systems based on the behaviours of the systems. It is specifically to address the high overheads of current systems and the low cache hit rates that are currently achieved.
 
 
-#### (2018 - 2019) DEIS: Dependability Engineering Innovation for CPS ([homepage](http://www.deis-project.eu/))
+#### (2018 - 2019) DEIS: Dependability Engineering Innovation for CPS [(homepage)](http://www.deis-project.eu/)
 
 **PostDoc RA, EU-funded Horizon 2020 project, €4.9M**
 
@@ -51,17 +51,17 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ## Research Involvement
 In additional to my regular duties, I also actively cooperative with researchers from other research projects. Below are some projects that I am being / was involved as a collaborator:
 
-#### (2019 - 2020) CyPhyAssure ([homepage](https://www.cs.york.ac.uk/circus/CyPhyAssure/))
+#### (2019 - 2020) CyPhyAssure [(homepage)](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 
 - Contributed to formal methods for safety cases using SACM.
 - Contributed to tool integration of safety case and Issabelle server.
 
-#### (2019) FiC: Future factories in the Cloud ([homepage](https://research.chalmers.se/en/project/7231))
+#### (2019) FiC: Future factories in the Cloud [(homepage)](https://research.chalmers.se/en/project/7231)
 
 - Proposed using timing-related statisitcs to form dynamic geo-fencing systems.
 - Contributed to timing analysis methods of geo-fencing systems.
 
-#### (2019) AAIP: The Assuring Autonomy International Programme ([homepage](https://www.york.ac.uk/assuring-autonomy/))
+#### (2019) AAIP: The Assuring Autonomy International Programme [(homepage)](https://www.york.ac.uk/assuring-autonomy/)
 
 - Contributed to failure mitigation of sensory data.
 - Involved in a various of discussions / meetings.
