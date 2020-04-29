@@ -3,13 +3,14 @@ title: Robots
 date: 2018-03-09
 authorbox: false
 sidebar: false
-menu: main
 toc: false
+draft: false
 ---
 
 Robotics is not only part of research but also where my passion is. I am a robot enthusiast and I have been building robots since 2009. Below is a selection of my projects that were built for research (or just for fun):
 
 ## Omni Robot for SLAM, 2018 -  (still developing)
+
 My next step is to build a robot for SLAM and Navigation! I decide to choose ROS as there are some ready-to-use packages, which I think would give me a boost. The main processor is a Raspberry Pi 3 and the low-level controller is a STM32 based control board. The LiDAR is a Slamtec A1 which costs just about 100 pounds. The camera is a very fast 120 fps PS3 EYE, which is nice for machine vision purpose. I can't fit my Kinect onto this platform as I am not sure it has enough computation power, also converting power is an issue.
 
 ![DSC02954](/assets/DSC02954.jpg)
@@ -24,6 +25,7 @@ My next step is to build a robot for SLAM and Navigation! I decide to choose ROS
 ---
 
 ## Line-Circle Filter, 2018
+
 \[[Github](https://github.com/automaticdai/LC-filter)\] \[[Paper](https://arxiv.org/pdf/1707.08095.pdf)\] A geometric filter that is able to use machine learning technique as a definition of Trust factor with relation to geometric orientations and constraints. LC filter minimizes the data usage for detection or other applications like SLAM in which prevent the systems from critical over calculations during entrance to overwhelming landmarks. This filter is designed for edge-base detection or advance cameras like event-camera. As another outstanding property, due to two layer expert evaluations, LC filter simply can estimate the incoming objects to the camera with only reliance to vehicle IMU sensor.
 
 
@@ -33,6 +35,7 @@ My next step is to build a robot for SLAM and Navigation! I decide to choose ROS
 ---
 
 ## Self-balance Two wheel Robot, 2017
+
 A side project during the summer holiday. The hardware of this self-balance robot is off-the-shelf, which ease myself and make me focus on the software. The system is controlled by a STM32F103 Cortex-M3 microcontroller. The main sensor is a MPU6050 6-axis motion sensor. The attitude estimation is achieved by a complementary filter and a PI controller. As I don't have a model of the system, I can only manually tune the controller parameters, which is crucial to achieve satisfied stability.
 
 ![DSC04163](/assets/DSC04163.jpg)
@@ -58,6 +61,7 @@ A side project during the summer holiday. The hardware of this self-balance robo
 ---
 
 ## YM4 FIRA Educational Robot, 2015
+
 This is a FIRA form factor robot that is designed for educational purpose. The platform is built by a friend's company: Embedded Dream Studio. I was involved in the Arduino library design and PID controller improvement.
 
 ![DSC04170](/assets/DSC04170.jpg)
@@ -107,6 +111,7 @@ This is a FIRA form factor robot that is designed for educational purpose. The p
 ---
 
 ## Closed-loop Helicopter Control with Matlab and Labview, 2014
+
 This is a course project when I was in the University of Sheffield. A closed-loop controller for a model helicopter need to be firstly developed in MATLAB/Simulink. To simulate the controller with hardware-in-the-loop, NI LabVIEW is used which uses the same control structure and parameters from previous simulation. A Data Acquisition Device, myDAQ, is used as an interface to connect LabVIEW to the helicopter hardware.
 
 ![DSC01024](/assets/DSC01024.jpg)
