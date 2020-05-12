@@ -7,26 +7,29 @@ menu: main
 toc: false
 ---
 
-## Professional Affiliations
+## Affiliations
+### Professional Affiliations
 
 - Group member of Real-Time Systems Research Group (RTSRG), University of York, UK
 - Previous member of High Integrity Systems Engineering (HISE), University of York, UK
 
 
-## Organisations
+### Organisations
 
 - Member of IEEE, ACM and IET
 - Member of IEEE Robotics and Automation Society (IEEE RAS)
 - Member of IEEE Computer Society (IEEE CS)
 
+---
 
-## Program Committee
+## Community Activities
+### Program Committee
 
 - PC member, Euromicro Conference on Digital System Design (ECDSD 2020)
 - PC member, IEEE International Conference on Embedded Software and Systems (ICESS 2020)
 
 
-## Conferences Reviewer
+### Conferences Reviewer
 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2019, 2020)
 - Euromicro Conference on Real-Time Systems (ECRTS 2019 AE)
@@ -34,7 +37,9 @@ toc: false
 - Design, Automation and Test in Europe Conference (DATE 2020)
 
 
-## Journals Reviewer
+### Journals Reviewer
 
 - IEEE Access
 - Journal of Circuits, Systems and Computers
+
+---
