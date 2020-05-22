@@ -31,10 +31,11 @@ toc: false
 
 ### Conferences Reviewer
 
-- IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2019, 2020)
+- IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2019, RTAS 2020)
 - Euromicro Conference on Real-Time Systems (ECRTS 2019 AE)
 - Design Automation Conference (DAC 2020)
 - Design, Automation and Test in Europe Conference (DATE 2020)
+- International Conference on Embedded Software (EMSOFT 2020)
 
 
 ### Journals Reviewer
