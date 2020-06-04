@@ -42,5 +42,6 @@ toc: false
 
 - IEEE Access
 - Journal of Circuits, Systems and Computers
+- Microprocessors and Microsystems (MICPRO)
 
 ---
