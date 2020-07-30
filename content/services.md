@@ -25,7 +25,7 @@ toc: false
 ## Community Activities
 ### Program Committee
 
-- PC member, Euromicro Conference on Digital System Design (ECDSD 2020)
+- PC member, Euromicro Conference on Digital System Design (DSD 2020)
 - PC member, IEEE International Conference on Embedded Software and Systems (ICESS 2020)
 
 
