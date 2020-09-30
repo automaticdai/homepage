@@ -9,9 +9,18 @@ toc: false
 
 ## Reseach Interests
 
-- **Real-Time Systems (RTS)**: task scheduling models, timing analysis and verification, feedback scheduling, real-time operating systems (RTOS), real-time programming languages, control and real-time scheduling co-design and real-time communication.
-- **Robotics and Autonomous Systems (RAS)**: vision-based localization and tracking, computation efficiency, sensor insufficiency, high performance computing architecture, deep reinforcement learning (DRL) and transfer learning (TL).
-- **Cyber-Physical Systems (CPS)**: Model-based systems engineering (MBSE) in CPS, model-based safety assurance of CPS, autonomous driving, intelligent transportation and smart city.
+My main research interests is in real-time systems, including:
+
+- **Real-time scheduling and allocation on multi-core**
+- **Flexible methods for task and network scheduling**
+- **Feedback-based task scheduling**
+- **Control-scheduling co-design**
+- **Real-time I/O and high performance computing architecture**
+
+I also have involved in other relevant topics:
+
+- **Robotics**: vision-based localization and tracking; computational efficiency of machine learning.
+- **Systems Engineering**: Model-based systems engineering (MBSE); model-based safety assurance (using SACM).
 
 ---
 

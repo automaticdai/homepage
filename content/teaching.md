@@ -9,7 +9,7 @@ toc: false
 
 ## Current
 
-I am a teaching assistant for:
+I am currently a teaching assistant for the following course(s):
 
 - DART: Design of Analysable Real-Time Systems (Spring 2019-2020)
 
@@ -18,8 +18,8 @@ I am a teaching assistant for:
 
 University of York:
 
-  - EMRP: Embedded System Projects II (Autumn 2016-2017)
-  - EMPR: Embedded System Projects I (Spring 2016-2017)
+  - EMPR-II: Embedded System Projects II (Autumn 2016-2017)
+  - EMPR-I: Embedded System Projects I (Spring 2016-2017)
   - MFCS: Mathematical Foundations of Computer Systems (Spring 2016-2017)
   - PROM: Programmable Microcontroller (Summer 2015-2016, Summer 2016-2017)
   - ICAR: Introduction to Computer Architecture (Spring 2015-2016)
