@@ -4,47 +4,50 @@ date: 2018-04-09
 authorbox: false
 sidebar: false
 menu: main
+weight: 2
 toc: false
+---
+
 ---
 
 ## Reseach Interests
 
-My main research interests is in real-time systems, including:
+My main research interests include:
 
-- **Real-time scheduling and allocation on multi-core**
-- **Flexible methods for task and network scheduling**
-- **Feedback-based task scheduling**
-- **Control-scheduling co-design**
-- **Real-time I/O and high performance computing architecture**
+- Real-time and embedded systems
+- Real-time scheduling and allocation on single core and multi-cores
+- Flexible and feedback-based methods for task and time sensitive network scheduling
+- Control-scheduling co-design and design automation
+- Real-time I/O and high performance computing architecture
 
-I also have involved in other relevant topics:
+Other interests:
 
-- **Robotics**: vision-based localization and tracking; computational efficiency of machine learning.
-- **Systems Engineering**: Model-based systems engineering (MBSE); model-based safety assurance (using SACM).
+- Robotics: vision-based localization and tracking; computational efficiency; machine learning.
+- Systems Engineering: Model-based systems engineering (MBSE); model-based safety assurance (using SACM).
 
 ---
 
 ## Research Projects
 
-#### (2019 - 2022) MOCHA: Modelling and Optimising Complex Heterogenous Architectures [(homepage)](https://www.cs.york.ac.uk/rts/mocha/)
+### [✦ MOCHA: Modelling and Optimising Complex Heterogenous Architectures](https://www.cs.york.ac.uk/rts/mocha/)
 
-**PostDoc RA, funded by Huawei Technologies Co. Ltd, £985,927**
+**(2019 - 2022) PostDoc, funded by Huawei Technologies Co. Ltd, £985,927**
 
 The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
 
 The key challenges that emerge are whether the models reflect how the system would behave during operation, how systems should deal with unexpected or rarely occurring scenarios, and then how to optimise systems based on the behaviours of the systems. It is specifically to address the high overheads of current systems and the low cache hit rates that are currently achieved.
 
 
-#### (2018 - 2019) DEIS: Dependability Engineering Innovation for CPS [(homepage)](http://www.deis-project.eu/)
+### [✦ DEIS: Dependability Engineering Innovation for CPS](http://www.deis-project.eu/)
 
-**PostDoc RA, EU-funded Horizon 2020 project, €4.9M**
+**(2018 - 2019) PostDoc, EU-funded Horizon 2020 project, €4.9M**
 
 Cyber-Physical-Systems (CPS) provide the potential for vast economic and societal impact in domains such as automotive, health care and home automation. The open and cooperative nature of CPS poses a significant new challenge in assuring dependability. The DEIS project addresses this important and unsolved challenge by developing technologies that enable a science of dependable system integration. Such technologies facilitate the efficient synthesis of components and systems based on their dependability information. The key innovation in the approach of the DEIS project is the concept of Digital Dependability Identity (DDI). A DDI contains all the information that uniquely describes the dependability characteristics of a CPS component. DDIs are used for the integration of components into systems during development as well as for the dynamic integration of systems into systems of systems in the field.
 
 
-#### (2015 - 2018) ATAS: Adaptive Task Scheduling Framework for CPS
+### ✦ ATAS: Adaptive Task Scheduling Framework for CPS
 
-**PhD research project, University of York**
+**(2015 - 2018) PhD project, University of York**
 
 In a Cyber-Physical Control System (CPCS), there is often a hybrid of hard real-time tasks which have stringent timing requirements and soft real-time tasks that are computationally intensive. The task scheduling of such systems is challenging and requires flexible schemes that can meet the timing requirements without being over-conservative.
 
@@ -58,19 +61,19 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ---
 
 ## Research Involvement
-In additional to my regular duties, I also actively cooperative with researchers from other research projects. Below are some projects that I am being / was involved as a collaborator:
+In additional to my regular duties, I also cooperated with other researchers. Below are some research projects that I am being / was involved as a collaborator:
 
-#### (2019 - 2020) CyPhyAssure [(homepage)](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
+### [✦ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 
 - Contributed to formal methods for safety cases using SACM.
 - Contributed to tool integration of safety case and Issabelle server.
 
-#### (2019) FiC: Future factories in the Cloud [(homepage)](https://research.chalmers.se/en/project/7231)
+### [✦ FiC: Future factories in the Cloud](https://research.chalmers.se/en/project/7231)
 
 - Proposed using timing-related statisitcs to form dynamic geo-fencing systems.
 - Contributed to timing analysis methods of geo-fencing systems.
 
-#### (2019) AAIP: The Assuring Autonomy International Programme [(homepage)](https://www.york.ac.uk/assuring-autonomy/)
+### [✦ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
 
 - Contributed to failure mitigation of sensory data.
 - Involved in a various of discussions / meetings.

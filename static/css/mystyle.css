@@ -1,4 +1,20 @@
+.flex {
+  padding-right: 50px;
+}
+
 .flex-container {
   display: flex;
 	flex-wrap: wrap;
 }
+
+.circular-img {
+  position: relative;
+  width: 230px;
+  height: 280px;
+  overflow: hidden;
+  border-radius: 5%;
+}
+
+.container-twocolumn { display: flex; align-items: baseline;}
+.column-2-1 { display: inline-block; width: 120px; white-space: normal; }
+.column-2-2 { display: inline-block; width: 900px; white-space: normal; }
