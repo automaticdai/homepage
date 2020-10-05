@@ -10,7 +10,13 @@ toc: false
 
 ---
 
+For a full list of publications, please visit my [dblp](https://dblp.org/pid/199/5323.html) | [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate).
+
+---
+
 ## >> Publications by Date
+
+---
 
 ### 2020
 
@@ -19,7 +25,6 @@ toc: false
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks". International Conference on Computer Aided  Design (*ICCAD*). 2020.
 
 [8] {{<tag-conference>}} Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang. ["Timing-Accurate General-Purpose I-O for Multi- and Many-Core Systems: Scheduling and Hardware Support"](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf). Design Automation Conference (*DAC*). 2020.
-
 
 ### 2019
 
@@ -35,8 +40,6 @@ toc: false
 
 ### 2018 (\& before)
 
-
-
 [2] {{<tag-thesis>}} <u>Xiaotian Dai</u>. ["Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems"](http://etheses.whiterose.ac.uk/23950/). PhD Thesis. University of York. 2018. (\*) Best Thesis Award of Computer Science.
 
 [1] {{<tag-conference>}} <u>Xiaotian Dai</u>, Alan Burns. ["Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems"](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6). International Conference on Reliable Software Technologies (*Ada-Europe*). 2017.
@@ -45,7 +48,9 @@ toc: false
 
 ## >> Publication by Topic
 
-### \#Real-Time Scheduling
+---
+
+### \# Real-Time Scheduling
 
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks". International Conference on Computer Aided  Design (*ICCAD*). 2020.
 
@@ -58,19 +63,19 @@ toc: false
 [1] {{<tag-conference>}} <u>Xiaotian Dai</u>, Alan Burns. ["Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems"](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6). International Conference on Reliable Software Technologies (*Ada-Europe*). 2017.
 
 
-### \#Real-Time and Embedded Systems
+### \# Real-Time and Embedded Systems
 
 [8] {{<tag-conference>}} Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang. ["Timing-Accurate General-Purpose I-O for Multi- and Many-Core Systems: Scheduling and Hardware Support"](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf). Design Automation Conference (*DAC*). 2020.
 
 [5] {{<tag-conference>}} Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei. ["MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9052193). 40th IEEE Real-Time Systems Symposium (*RTSS*). 2019.
 
 
-### \#Safety Assurance
+### \# Safety Assurance
 
 [3] {{<tag-journal>}} Ran Wei, Tim Kelly, <u>Xiaotian Dai</u>, Shuai Zhao, Richard Hawkins. ["Model Based System Assurance Using the Structured Assurance Case Metamodel"](https://www.sciencedirect.com/science/article/pii/S0164121219301062?via%3Dihub). Journal of Software Systems (*JSS*). 2019.
 
 
-### \#Robotic and Autonomous Systems
+### \# Robotic and Autonomous Systems
 
 [10] {{<tag-journal>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. "Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection". Preprint to ArXiv. 2020.
 

@@ -9,8 +9,8 @@
 
 .circular-img {
   position: relative;
-  width: 230px;
-  height: 280px;
+  width: 260px;
+  height: 300px;
   overflow: hidden;
   border-radius: 5%;
 }
