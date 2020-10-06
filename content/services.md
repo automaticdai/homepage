@@ -10,47 +10,57 @@ toc: false
 
 ---
 
+{{% layout-row %}}
+{{% layout-column %}}
 ## Professional Affiliations
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
+- (Former) Member of High Integrity Systems Engineering (HISE), University of York, UK
+{{% /layout-column %}}
 
-Former:
-- Member of High Integrity Systems Engineering (HISE), University of York, UK
-
----
-
+{{% layout-column %}}
 ## Organisations
 
 - Member of IEEE 
-  - Member of IEEE Computer Society (IEEE CS)
-  - Member of IEEE Robotics and Automation Society (IEEE RAS)
+- Member of IEEE Computer Society (IEEE CS)
+- Member of IEEE Robotics and Automation Society (IEEE RAS)
 - Member of ACM
 - Member of IET (MIET)
+{{% /layout-column %}}
+{{% /layout-row %}}
 
 ---
 
 ## Program Committee
 
-- *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *PC Member & CPS Track Session Chair*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- *Publicity Chair & PC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *CPS Track Session Chair & PC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 - *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 - *PC Member (Artifact Evaluation)*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2019-AE</u>)
+
 
 ---
 
 ## Reviewer
+
+{{% layout-row %}}
+{{% layout-column %}}
 ### Conference Reviewer
 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, RTAS 2020</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2020</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
+{{% /layout-column %}}
 
+{{% layout-column %}}
 ### Journal Reviewer
 
 - IEEE Access
 - IEEE Transactions on Sustainable Energy
 - Journal of Circuits, Systems and Computers
 - Microprocessors and Microsystems (MICPRO)
+{{% /layout-column %}}
+{{% /layout-row %}}
 
 ---

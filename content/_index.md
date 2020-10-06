@@ -28,23 +28,20 @@ Find me on: | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) 
 
 ## Biography
 
-Xiaotian Dai received a PhD degree from University of York in 2019 (with Best Thesis). He joined RTSRG in 2015 as a PhD research student, supervised by [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/). His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS). Flexible scheduling task models and methods are proposed and implemented to investigate the scheduling impact on control performance.
+Xiaotian Dai received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/). His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS). Flexible scheduling task models and methods are proposed and implemented to investigate the scheduling impact on control performance.
 He received a MSc in Control Systems from the University of Sheffield in 2014, and a BSc in Automatic Control in 2011. 
+
 
 ---
 
-## Recent News
+## News & Events
 
-- Nov 2020: (conference) Talk@ICCAD 2020, online -  *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [slides to upload]
-- Sep 2020: (call-for-paper) The 29th International Conference on Real-Time Networks and Systems (RTNS 2021) is calling for participate, [visit the conference website](https://rtns2021.univ-nantes.fr/)
+List of upcoming and past events:
 
-
---- 
-
-## Past Events
-
-- Apr 2020: (award) Best Thesis Award for my PhD thesis, University of York
-- Mar 2020: (workshop) Present@Fifth Annual UK System Research Challenges Workshop (cancelled due to COVID19)
+- {{% label-new %}} Nov 2020: (conference) Talk@ICCAD 2020, online -  *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [slides to upload]
+- {{% label-new %}} Sep 2020: (call-for-paper) The 29th International Conference on Real-Time Networks and Systems (RTNS 2021) is calling for participate, [visit the conference website](https://rtns2021.univ-nantes.fr/)
+- {{% label-new %}} Apr 2020: (award) Best Thesis Award for my PhD thesis, University of York 
+- {{% label-new %}} Mar 2020: (workshop) Present@Fifth Annual UK System Research Challenges Workshop (cancelled due to COVID19)
 - Oct 2019: (conference) Talk@ESWEEK 2019, New York - *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
 - Dec 2018: (seminar) *Adaptive Task Scheduling of Real-Time Control Tasks* @ University of York, UK \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
 - June 2017: (conference) Talk@Ada-Europe 2017, Vienna - *Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems* \[[slides](./files/ppt_xdai_predicting_wcet.pdf)\]

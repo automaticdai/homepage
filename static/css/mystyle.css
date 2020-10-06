@@ -18,3 +18,6 @@
 .container-twocolumn { display: flex; align-items: baseline;}
 .column-2-1 { display: inline-block; width: 120px; white-space: normal; }
 .column-2-2 { display: inline-block; width: 900px; white-space: normal; }
+
+.row{ display: flex; clear: both; align-items: flex-start;}
+.col-md {display: inline-block; width: 50%; padding-right: 50px; white-space: normal;}

@@ -31,3 +31,5 @@ I am/was responsible for the following final projects:
 - Scheduling of time-sensitve networks (TSN)
 
 Please submit your application through the university project portal.
+
+---
