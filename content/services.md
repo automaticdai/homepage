@@ -10,15 +10,14 @@ toc: false
 
 ---
 
-{{% layout-row %}}
-{{% layout-column %}}
 ## Professional Affiliations
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
 - (Former) Member of High Integrity Systems Engineering (HISE), University of York, UK
-{{% /layout-column %}}
 
-{{% layout-column %}}
+
+---
+
 ## Organisations
 
 - Member of IEEE 
@@ -26,8 +25,7 @@ toc: false
 - Member of IEEE Robotics and Automation Society (IEEE RAS)
 - Member of ACM
 - Member of IET (MIET)
-{{% /layout-column %}}
-{{% /layout-row %}}
+
 
 ---
 
