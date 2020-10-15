@@ -20,6 +20,8 @@ For a full list of publications, please visit my [dblp](https://dblp.org/pid/199
 
 ### 2020
 
+[11] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency". 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
+
 [10] {{<tag-journal>}} Seyed Amir Tafrishi, <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. "Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection". Preprint to ArXiv. 2020.
 
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks". International Conference on Computer Aided  Design (*ICCAD*). 2020.
@@ -51,6 +53,8 @@ For a full list of publications, please visit my [dblp](https://dblp.org/pid/199
 ---
 
 ### \# Real-Time Scheduling
+
+[11] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency". 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks". International Conference on Computer Aided  Design (*ICCAD*). 2020.
 
