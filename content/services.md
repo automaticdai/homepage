@@ -53,7 +53,7 @@ toc: false
 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019</u>, <u>RTAS 2020</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
-- Design, Automation and Test in Europe Conference (<u>DATE 2020</u>)
+- Design, Automation and Test in Europe Conference (<u>DATE 2020</u>, <u>DATE 2021</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 {{% /layout-column %}}
 

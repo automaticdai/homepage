@@ -23,12 +23,12 @@ I am/was a Teaching Assistant for the following modules at the University of Yor
 
 ---
 
-## Undergraduate / Msc Projects
+## Undergraduate / MSc Projects
 
 I am/was responsible for the following final projects:
 
 - Dynamic geo-fencing for mobile robots
-- Scheduling of time-sensitve networks (TSN)
+- Scheduling of Time-Sensitve Networks (TSN)
 
 Please submit your application through the university project portal.
 

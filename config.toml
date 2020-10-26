@@ -1,4 +1,4 @@
-baseurl = "http://www.xiaotiandai.com"
+baseurl = "/"
 title = "Xiaotian (Steven) Dai"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
