@@ -12,18 +12,13 @@ toc: false
 
 ## Reseach Interests
 
-My main research interests include:
+My main research interests are:
 
-- Real-time and embedded systems
-- Real-time scheduling and allocation on single-/multi-cores
-- Flexible and feedback-based methods for task and network scheduling
-- Control-scheduling co-design and design automation
-- Real-time I/O and high performance computing architecture
-
-Other published topics:
-
-- Robotics: vision-based localization and tracking; computational efficiency; machine learning.
-- Systems Engineering: Model-based systems engineering (MBSE); model-based safety assurance (using SACM).
+- Real-time systems, including scheduling and allocation on single- and multi-cores;
+- Flexible and feedback-based methods for task/network scheduling;
+- Control-scheduling co-design and design automation;
+- Real-time I/O and high performance computing architecture;
+- Robotics and autonomous systems, e.g., model-based safety assurance (SACM), vision-based tracking and efficient computating.
 
 ---
 
