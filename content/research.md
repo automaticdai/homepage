@@ -14,11 +14,11 @@ toc: false
 
 My main research interests are:
 
-- Real-time systems, including scheduling and allocation on single- and multi-cores;
+- Real-time scheduling and allocation on single- and multi-cores;
 - Flexible and feedback-based methods for task/network scheduling;
-- Control-scheduling co-design and design automation;
-- Real-time I/O and high performance computing architecture;
-- Robotics and autonomous systems, e.g., model-based safety assurance (SACM), vision-based tracking and efficient computating.
+- Control-scheduling co-design and design automation of CPS;
+- Real-time I/O and high predictability computing architecture;
+- Improving timing and safety of autonomous systems.
 
 ---
 
@@ -42,7 +42,7 @@ Cyber-Physical-Systems (CPS) provide the potential for vast economic and societa
 
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
 
-**(2015 - 2018) PhD project, University of York**
+**(2015 - 2018) PhD research project, University of York**
 
 In a Cyber-Physical Control System (CPCS), there is often a hybrid of hard real-time tasks which have stringent timing requirements and soft real-time tasks that are computationally intensive. The task scheduling of such systems is challenging and requires flexible schemes that can meet the timing requirements without being over-conservative.
 
@@ -56,7 +56,7 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ---
 
 ## Research Involvement
-In additional to my regular duties, I also cooperated with other researchers. Below are some research projects that I am being / was involved as a collaborator:
+In additional to my regular duties, I also cooperated with other researchers. Below are some research projects that I am being/was involved as a collaborator:
 
 ### [➤ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 
@@ -71,6 +71,6 @@ In additional to my regular duties, I also cooperated with other researchers. Be
 ### [➤ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
 
 - Contributed to failure mitigation of sensory data.
-- Involved in a various of discussions / meetings.
+- Involved in a various of regular discussions / meetings.
 
 ---

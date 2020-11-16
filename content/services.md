@@ -20,7 +20,7 @@ toc: false
 
 ## Organisations
 
-- Member of IEEE, IEEE CS, IEEE RAS 
+- Member of IEEE, IEEE CS and IEEE RAS 
 - Member of ACM
 - Member of IET (MIET)
 
@@ -30,7 +30,8 @@ toc: false
 ## Conference Chair
 
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *Session Chair (DCPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
+- *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 
 
 ---
