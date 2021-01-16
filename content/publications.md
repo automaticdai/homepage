@@ -16,11 +16,12 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## >> Publications by Date
 
----
+
+### 2021
+
+[11] {{<tag-journal>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
 ### 2020
-
-[11] {{<tag-preprint>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Preprint to ArXiv. 2020.
 
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
@@ -30,10 +31,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 [7] {{<tag-conference>}} Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang. ["All in One Network for Driver Attention Monitoring"](http://eprints.whiterose.ac.uk/158675/). 45th International Conference on Acoustics,Speech and Processing (*ICASSP*). 2020.
 
+[6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) This work is accepted and presented at *Ada-Europe* 2019.
 
 ### 2019 (\& before)
-
-[6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) This work is accepted and presented at *Ada-Europe* 2019.
 
 [5] {{<tag-conference>}} Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei. ["MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9052193). 40th IEEE Real-Time Systems Symposium (*RTSS*). 2019.
 
@@ -51,14 +51,14 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
-### \#Real-Time Task/Network Scheduling
+### \# Real-Time Task and Network Scheduling
 
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. ["Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks"](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf). International Conference on Computer Aided  Design (*ICCAD*). 2020.
 
 
-### \#Flexible and Adaptive Scheduling
+### \# Flexible and Adaptive Scheduling
 
 [6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) This work is accepted and presented at *Ada-Europe* 2019.
 
@@ -69,16 +69,16 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 [1] {{<tag-conference>}} <u>Xiaotian Dai</u>, Alan Burns. ["Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems"](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6). International Conference on Reliable Software Technologies (*Ada-Europe*). 2017.
 
 
-### \#Hardware for Predictable Real-Time Systems
+### \# Hardware for Predictable Real-Time Systems
 
 [8] {{<tag-conference>}} Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang. ["Timing-Accurate General-Purpose I-O for Multi- and Many-Core Systems: Scheduling and Hardware Support"](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf). Design Automation Conference (*DAC*). 2020.
 
 [5] {{<tag-conference>}} Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei. ["MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9052193). 40th IEEE Real-Time Systems Symposium (*RTSS*). 2019.
 
 
-### \#Safety of Robotic and Autonomous Systems
+### \# Timing and Safety of Robotic and Autonomous Systems
 
-[-] {{<tag-preprint>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Preprint to ArXiv. 2020.
+[11] {{<tag-journal>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
 [7] {{<tag-conference>}} Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang. ["All in One Network for Driver Attention Monitoring"](http://eprints.whiterose.ac.uk/158675/). 45th International Conference on Acoustics,Speech and Processing (*ICASSP*). 2020.
 

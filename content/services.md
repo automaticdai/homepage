@@ -13,7 +13,7 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
-- (Former) Member of High Integrity Systems Engineering (HISE), University of York, UK
+- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
 
 
 ---
@@ -22,7 +22,7 @@ toc: false
 
 - Member of IEEE, IEEE CS and IEEE RAS 
 - Member of ACM
-- Member of IET (MIET)
+- Member of IET (M.IET)
 
 
 ---
@@ -38,10 +38,11 @@ toc: false
 
 ## PC Member
 
+- *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021</u>)
 - *PC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *PC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 - *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
-- *PC Member (Artifact Evaluation)*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2019-AE</u>)
+- *PC Member (Artifacts)*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2019-AE</u>)
 
 
 ---
@@ -49,6 +50,7 @@ toc: false
 ## Reviewer
 
 {{% layout-row %}}
+
 {{% layout-column %}}
 ### Conference Reviewer
 
@@ -56,6 +58,9 @@ toc: false
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2020</u>, <u>DATE 2021</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
+- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 {{% /layout-column %}}
 
 {{% layout-column %}}
@@ -65,7 +70,9 @@ toc: false
 - IEEE Transactions on Sustainable Energy
 - Journal of Circuits, Systems and Computers
 - Microprocessors and Microsystems (MICPRO)
+- Computers & Operations Research (COR)
 {{% /layout-column %}}
+
 {{% /layout-row %}}
 
 ---

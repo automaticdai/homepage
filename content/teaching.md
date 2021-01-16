@@ -12,7 +12,7 @@ toc: false
 
 ## Undergraduate Courses
 
-I am/was a Teaching Assistant for the following modules at the University of York:
+I am a Teaching Assistant for the following modules at the University of York:
 
 - DART: Design of Analysable Real-Time Systems (Spring 2019-2020)
 - EMPR-II: Embedded System Projects II (Autumn 2016-2017)
@@ -25,11 +25,11 @@ I am/was a Teaching Assistant for the following modules at the University of Yor
 
 ## Undergraduate / MSc Projects
 
-I am/was responsible for the following final projects:
+I am responsible for the following final year projects:
 
 - Dynamic geo-fencing for mobile robots
 - Scheduling and simulation of Time-Sensitve Networks (TSN)
 
-Please submit your application through the university project portal.
+Please submit your application following the university project instructions.
 
 ---
