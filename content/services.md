@@ -20,9 +20,8 @@ toc: false
 
 ## Organisations
 
-- Member of IEEE, IEEE CS and IEEE RAS 
-- Member of ACM
-- Member of IET (M.IET)
+- Member of ACM and IEEE
+- Member of IET (MIET)
 
 
 ---
@@ -38,6 +37,7 @@ toc: false
 
 ## PC Member
 
+- *PC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium - Brief Industry Paper Track (<u>RTAS 2021</u>) 
 - *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021</u>)
 - *PC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *PC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
@@ -55,11 +55,11 @@ toc: false
 ### Conference Reviewer
 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019</u>, <u>RTAS 2020</u>)
+- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2020</u>, <u>DATE 2021</u>)
-- International Conference on Embedded Software (<u>EMSOFT 2020</u>)
-- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 {{% /layout-column %}}
 
@@ -68,6 +68,7 @@ toc: false
 
 - IEEE Access
 - IEEE Transactions on Sustainable Energy
+- Journal of Sytems Architecture (JSA)
 - Journal of Circuits, Systems and Computers
 - Microprocessors and Microsystems (MICPRO)
 - Computers & Operations Research (COR)

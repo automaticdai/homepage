@@ -10,7 +10,9 @@ toc: false
 
 ---
 
-## Undergraduate Courses
+
+## University of York, UK
+### - Undergraduate Courses
 
 I am a Teaching Assistant for the following modules at the University of York:
 
@@ -21,15 +23,19 @@ I am a Teaching Assistant for the following modules at the University of York:
 - PROM: Programmable Microcontroller (Summer 2015-2016, Summer 2016-2017)
 - ICAR: Introduction to Computer Architecture (Spring 2015-2016)
 
----
 
-## Undergraduate / MSc Projects
+### - Undergraduate / MSc Projects
 
 I am responsible for the following final year projects:
 
 - Dynamic geo-fencing for mobile robots
 - Scheduling and simulation of Time-Sensitve Networks (TSN)
 
-Please submit your application following the university project instructions.
+Please submit your application following the university project instructions. You can contact me before submission if you want to enquiry more details.
+
+
+### - PhD Supervision
+
+Please be aware that, by university policy, I am only able to **co-supervise** PhD students with a primary supervisor who is a permanent university employee. Any staff with the title Lecture/Reader/Professor is considered as a permanent staff. Hence, please do submit PhD applications to the primary supervisor other than me. I am happy to provide more information if needed.
 
 ---
