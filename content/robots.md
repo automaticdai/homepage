@@ -4,7 +4,6 @@ date: 2018-03-09
 authorbox: false
 sidebar: false
 toc: false
-menu: main
 draft: false
 ---
 
