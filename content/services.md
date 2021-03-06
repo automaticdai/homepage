@@ -27,9 +27,9 @@ toc: false
 
 ---
 
-## Conference Chair
+## Conference Chairing
 
-- *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 - *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 
