@@ -19,7 +19,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### 2021
 
-[12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. "Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
+[12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
 [11] {{<tag-journal>}} Seyed Amir Tafrishi,  <u>Xiaotian Dai</u>,  Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
@@ -73,7 +73,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### \# Hardware for Predictable Real-Time Systems
 
-[12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. "Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
+[12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
 [8] {{<tag-conference>}} Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang. ["Timing-Accurate General-Purpose I-O for Multi- and Many-Core Systems: Scheduling and Hardware Support"](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf). Design Automation Conference (*DAC*). 2020.
 
