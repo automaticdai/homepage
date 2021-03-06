@@ -69,6 +69,7 @@ toc: false
 
 - IEEE Access
 - IEEE Transactions on Sustainable Energy
+- ACM Transactions on Embedded Computing Systems (TECS)
 - Journal of Sytems Architecture (JSA)
 - Journal of Circuits, Systems and Computers
 - Microprocessors and Microsystems (MICPRO)
