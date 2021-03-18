@@ -10,10 +10,7 @@ toc: false
 
 ---
 
-
-
-
-## > Undergraduate Courses
+## ➤ Undergraduate Courses
 (@University of York, UK)
 
 I am/was a Teaching Assistant for the following modules:
@@ -26,7 +23,7 @@ I am/was a Teaching Assistant for the following modules:
 - ICAR: Introduction to Computer Architecture (Spring 2015-2016)
 
 
-## > Undergraduate / MSc Projects
+## ➤ Undergraduate / MSc Projects
 (@University of York, UK)
 
 I am responsible for the following final year projects:
@@ -37,7 +34,7 @@ I am responsible for the following final year projects:
 Please submit your application following the university project instructions. You can contact me before submission if you want to enquiry more details on each project.
 
 
-## > PhD Supervision
+## ➤ PhD Supervision
 
 Please be aware that, by university policy, I am only able to **co-supervise** PhD students with a primary supervisor in place who is a permanent university employee. Any staff with the title Lecture/Senior Lecture/Reader/Professor is considered as a permanent academic staff. Please do submit PhD applications to the primary supervisor and include me if you want my co-surpervision. I am happy to give more information on request.
 

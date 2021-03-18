@@ -24,22 +24,18 @@ My main research interests are in real-time systems and autonomous systems, incl
 
 ## Research Projects
 
-### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
+### [➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures]((https://www.cs.york.ac.uk/rts/mocha/))
 
 **(2019 - 2022) PostDoc, funded by Huawei Technologies Co. Ltd, £985,927**
-
-[[Project Homepage](https://www.cs.york.ac.uk/rts/mocha/)]
 
 The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
 
 The key challenges that emerge are whether the models reflect how the system would behave during operation, how systems should deal with unexpected or rarely occurring scenarios, and then how to optimise systems based on the behaviours of the systems. It is specifically to address the high overheads of current systems and the low cache hit rates that are currently achieved.
 
 
-### ➤ DEIS: Dependability Engineering Innovation for CPS
+### [➤ DEIS: Dependability Engineering Innovation for CPS](http://www.deis-project.eu/)
 
 **(2018 - 2019) PostDoc, EU-funded Horizon 2020 project, €4.9M**
-
-[[Project Homepage](http://www.deis-project.eu/)]
 
 Cyber-Physical-Systems (CPS) provide the potential for vast economic and societal impact in domains such as automotive, health care and home automation. The open and cooperative nature of CPS poses a significant new challenge in assuring dependability. The DEIS project addresses this important and unsolved challenge by developing technologies that enable a science of dependable system integration. Such technologies facilitate the efficient synthesis of components and systems based on their dependability information. The key innovation in the approach of the DEIS project is the concept of Digital Dependability Identity (DDI). A DDI contains all the information that uniquely describes the dependability characteristics of a CPS component. DDIs are used for the integration of components into systems during development as well as for the dynamic integration of systems into systems of systems in the field.
 
