@@ -17,14 +17,16 @@ My main research interests are in real-time systems and autonomous systems, incl
 - Real-time scheduling and allocation on single- and multi-cores;
 - Flexible and feedback-based methods for task/network scheduling;
 - Control-scheduling co-design and design automation of CPS;
-- Real-time I/O and high predictability computing architecture;
+- Real-time I/O and time predictable computer architecture;
 - Assuring timing and safety of robotic and autonomous systems.
+
+I am open for any collaboration related to these fields.
 
 ---
 
 ## Research Projects
 
-### [➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures]((https://www.cs.york.ac.uk/rts/mocha/))
+### [➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures](https://www.cs.york.ac.uk/rts/mocha/)
 
 **(2019 - 2022) PostDoc, funded by Huawei Technologies Co. Ltd, £985,927**
 

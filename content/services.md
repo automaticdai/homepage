@@ -29,7 +29,8 @@ toc: false
 
 ## Conference Chairing
 
-- *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 - *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 
@@ -55,11 +56,11 @@ toc: false
 {{% layout-column %}}
 ### Conference Reviewer
 
-- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, 2020, 2021</u>)
+- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, RTAS 2020, RTAS 2021</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
-- Design, Automation and Test in Europe Conference (<u>DATE 2020, 2021</u>)
+- Design, Automation and Test in Europe Conference (<u>DATE 2020, DATE 2021</u>)
 - Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
 {{% /layout-column %}}
@@ -71,8 +72,8 @@ toc: false
 - IEEE Transactions on Sustainable Energy
 - ACM Transactions on Embedded Computing Systems (TECS)
 - Journal of Sytems Architecture (JSA)
-- Journal of Circuits, Systems and Computers
 - Microprocessors and Microsystems (MICPRO)
+- Journal of Circuits, Systems and Computers
 - Computers & Operations Research (COR)
 {{% /layout-column %}}
 
