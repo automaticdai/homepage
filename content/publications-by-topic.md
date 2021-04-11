@@ -16,6 +16,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## >> Publication by Topic
 
+[(Publication by date)](/publications/)
+
 ---
 
 ### \# Real-Time Task and Network Scheduling

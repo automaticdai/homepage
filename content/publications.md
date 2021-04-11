@@ -16,7 +16,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## >> Publications by Date
 
-[(Publication organized by topic)](/publications-by-topic/)
+[(Publication by topic)](/publications-by-topic/)
 
 ### 2021
 
