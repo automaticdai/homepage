@@ -20,8 +20,8 @@ toc: false
 
 ## Organisations
 
-- Member of ACM
-- Member of IEEE, IEEE Computer Society, IEEE Robotics and Automation Society
+- Member of ACM, ACM Special Interest Group on Embedded Systems (ACM SIGBED)
+- Member of IEEE, IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
 - Member of IET (MIET)
 
 
