@@ -39,13 +39,14 @@ He serves as a reviewer and a PC member for many real-time and design automation
 
 ## Recent Events
 
+- May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
 - Apr 2021: (<u>service</u>) RTNS'21 - Systems Session Chair
 - Jan 2021: (<u>service</u>) RTAS'21 - PC member (Brief Industry Paper Track)
 - Jan 2021: (<u>service</u>) Ada-Europe'21 - PC member
 - Dec 2020: (<u>workshop</u>) Dec 10, 2020, @Fifth Annual UK System Research Challenges Workshop --- Overview of MOCHA project by Dr. Iain Bate
-- Dec 2020: (<u>conference</u>) Dec 13, 2020, @RTSS'20 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video](https://www.youtube.com/watch?v=DriyJdDGtNc)]
+- Dec 2020: (<u>conference</u>) Dec 13 @ RTSS'20 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video](https://www.youtube.com/watch?v=DriyJdDGtNc)]
 - Nov 2020: (<u>service</u>) ICESS'20 - Resource Management session chair
-- Nov 2020: (<u>conference</u>) Nov 11, 2020, @ICCAD'20 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video](https://www.youtube.com/watch?v=fPSlHvK1NGc)]
+- Nov 2020: (<u>conference</u>) Nov 11 @ ICCAD'20 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video](https://www.youtube.com/watch?v=fPSlHvK1NGc)]
 - Oct 2020: (<u>call-for-papers</u>) RTNS'21 is calling for participate: \[[conference website](https://rtns2021.univ-nantes.fr/)\]
 - Sep 2020: (<u>service</u>) RTNS'21 - Publicity Chair & PC member
 - Apr 2020: (<u>award</u>) *Best Thesis Award* for my PhD thesis at University of York 
@@ -55,8 +56,8 @@ He serves as a reviewer and a PC member for many real-time and design automation
 ---
 
 ## Past Events
-- Oct 2019: (<u>conference</u>) @ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
+- Oct 2019: (<u>conference</u>) @ ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
 - Apr 2019: (<u>service</u>) ECRTS'19 PC member (Artifacts Evaluation)
-- Dec 2018: (<u>seminar</u>) @University of York, UK --- *Adaptive Task Scheduling of Real-Time Control Tasks*  \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
+- Dec 2018: (<u>seminar</u>) @ University of York, UK --- *Adaptive Task Scheduling of Real-Time Control Tasks*  \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
 
 ---

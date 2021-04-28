@@ -73,6 +73,7 @@ toc: false
 - ACM Transactions on Embedded Computing Systems (TECS)
 - Journal of Sytems Architecture (JSA)
 - Microprocessors and Microsystems (MICPRO)
+- Software - Practice and Experience
 - Journal of Circuits, Systems and Computers
 - Computers & Operations Research (COR)
 {{% /layout-column %}}
