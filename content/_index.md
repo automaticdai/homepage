@@ -39,6 +39,7 @@ He serves as a reviewer and a PC member for many real-time and design automation
 
 ## Recent Events
 
+- May 2021: (<u>service</u>) ICESS'21 - PC member
 - May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
 - Apr 2021: (<u>service</u>) RTNS'21 - Systems Session Chair
 - Jan 2021: (<u>service</u>) RTAS'21 - PC member (Brief Industry Paper Track)

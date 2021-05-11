@@ -39,6 +39,7 @@ toc: false
 
 ## PC Member
 
+- *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2021</u>)
 - *PC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2021-BiP</u>) 
 - *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021</u>)
 - *PC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
@@ -58,6 +59,7 @@ toc: false
 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, RTAS 2020, RTAS 2021</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2020, DATE 2021</u>)
