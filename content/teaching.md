@@ -28,14 +28,13 @@ I am/was a Teaching Assistant for the following modules:
 Students that I am supervised / co-surpervised:
 
 - 2021, MSc, Zhijian Wang, Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources
-- 2021, MSc, Smart Intersection Control with Back-Pressure Algorithms (co-supervised)
+- 2021, MSc, Zixun Yu, Smart Intersection Control with Back-Pressure Algorithms (co-supervised)
 - 2021, BSc, Dean Kenny, Simulation and Latency Analysis of Time Sensitive Networks
-- 2021, BSc, Jay Brooks, Large Scale Scheduling of Time Sensitive Networks (co-supervised)
+- 2021, BSc, Jay Brooks, Large Scale Scheduling of Time Sensitive Networks
 
 I am also open for the following final year projects:
 
 - Dynamic geo-fencing for mobile robots
-- Timing assurance of CPU-GPU hetergeneous platform 
 - Scheduling and simulation of Time-Sensitve Networks
 
 Please submit your application following the university project instructions. You can contact me before submission if you want to enquiry more details on each project.
@@ -43,8 +42,15 @@ Please submit your application following the university project instructions. Yo
 
 ### ➤ PhD Supervision
 
-- 2019-current, Zou Jie, Resource Efficient Real-Time Scheduling for Autonomous Driving Systems (co-supervised)
+Current PhD students:
 
-Please be aware that, by the university policy, I am only able to **co-supervise** PhD students with a primary supervisor in place who is a permanent university employee. Any staff with the title Lecture/Senior Lecture/Reader/Professor is considered as a permanent academic staff. Please do submit PhD applications to the primary supervisor and include me if you want my co-surpervision. I am happy to give more information on request.
+- 2019-, Zou Jie, Resource Efficient Real-Time Scheduling for Autonomous Driving Systems (co-supervised)
+
+Currently PhD topics for application:
+
+- Timing assurance of CPU-GPU hetergeneous platform 
+- Scheduling and assurance of autonomous driving and robots
+
+Please be aware that, by the university policy, I am only able to **co-supervise** PhD students with a primary supervisor in place who is a permanent university staff (with title Lecture/Senior Lecture/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me if you want my co-surpervision. I am happy to give more information on request.
 
 ---
