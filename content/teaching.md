@@ -10,10 +10,9 @@ toc: false
 
 ---
 
-## @University of York:
-### ➤ Undergraduate Courses
+## ➤ Undergraduate Courses
 
-I am/was a Teaching Assistant for the following modules:
+I am/was a Teaching Assistant for the following modules @University of York:
 
 - DART: Design of Analysable Real-Time Systems (Spring 2019-2020)
 - EMPR-II: Embedded System Projects II (Autumn 2016-2017)
@@ -23,34 +22,33 @@ I am/was a Teaching Assistant for the following modules:
 - ICAR: Introduction to Computer Architecture (Spring 2015-2016)
 
 
-### ➤ Undergraduate / MSc Projects
 
-Students that I am supervised / co-surpervised:
+## ➤ Undergraduate / MSc Projects supervision
 
-- 2021, MSc, Zhijian Wang, Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources
-- 2021, MSc, Zixun Yu, Smart Intersection Control with Back-Pressure Algorithms (co-supervised)
-- 2021, BSc, Dean Kenny, Simulation and Latency Analysis of Time Sensitive Networks
-- 2021, BSc, Jay Brooks, Large Scale Scheduling of Time Sensitive Networks
+Students that I am supervised, or co-surpervised:
 
-I am also open for the following final year projects:
-
-- Dynamic geo-fencing for mobile robots
-- Scheduling and simulation of Time-Sensitve Networks
-
-Please submit your application following the university project instructions. You can contact me before submission if you want to enquiry more details on each project.
+- MSc, Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_ (2021)
+- MSc, Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised (2021)
+- UG, Dean Kenny, _Simulation and Latency Analysis of Time Sensitive Networks_ (2021)
+- UG, Jay Brooks, _Large Scale Scheduling of Time Sensitive Networks_ (2021)
 
 
-### ➤ PhD Supervision
+
+## ➤ PhD supervision
 
 Current PhD students:
 
-- 2019-, Zou Jie, Resource Efficient Real-Time Scheduling for Autonomous Driving Systems (co-supervised)
+- Zou Jie, _Resource Efficient Real-Time Scheduling for Autonomous Driving Systems_, co-supervised (2019-2022)
 
-Currently PhD topics for application:
+I am interesed in the following PhD topics:
 
 - Timing assurance of CPU-GPU hetergeneous platform 
-- Scheduling and assurance of autonomous driving and robots
+- Task scheduling and assurance of autonomous driving
+- Scheduling of multi-agent systems 
+- Real-Time Linux and ROS 2
 
-Please be aware that, by the university policy, I am only able to **co-supervise** PhD students with a primary supervisor in place who is a permanent university staff (with title Lecture/Senior Lecture/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me if you want my co-surpervision. I am happy to give more information on request.
+
+Please be aware that, by the university policy, I am only able to _co-supervise_ PhD students with a primary supervisor in place who is a permanent university staff (with title Lecture/Senior Lecture/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me if you want my co-surpervision. I am happy to give more information on request.
+
 
 ---

@@ -12,7 +12,7 @@ toc: false
 
 ## Research Interests
 
-My main research interests are in real-time systems and autonomous systems, including:
+My main research is in the area of real-time systems and autonomous systems:
 
 - Real-time scheduling and allocation on single- and multi-cores;
 - Flexible and feedback-based methods for task/network scheduling;
@@ -20,7 +20,7 @@ My main research interests are in real-time systems and autonomous systems, incl
 - Real-time I/O and time predictable computer architecture;
 - Assuring timing and safety of robotic and autonomous systems.
 
-I am open for any collaboration related to these fields.
+I am open to any form of collaboration related to these fields.
 
 ---
 

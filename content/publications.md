@@ -14,7 +14,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
-## >> Publications by Date
+## Publications by Date
 
 [(Publication by topic)](/publications-by-topic/)
 

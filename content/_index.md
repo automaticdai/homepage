@@ -21,7 +21,7 @@ Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2
 
 My research is mainly on real-time scheduling and system design with a focus on improving scheduling flexibility and adaptiveness. I also have published work in timing predictability of autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
 
-As part of my research and as a hobby, I make robotic / electronic projects in part-time. You can find more about these projects on this page: [robot projects](/robots/). I have an educational [blog on real-time systems](https://blog.xiaotiandai.com). I maintain a tracking page of real-time / embedded systems conferences on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
+As part of my research and as a hobby, I make robotic projects in part-time. You can find more about these projects on this page: [robot projects](/robots/). I have an educational [blog on real-time systems](https://blog.xiaotiandai.com). I also maintain a tracking page of real-time / embedded systems conferences on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [GitHub](https://github.com/automaticdai) | [Twitter](https://twitter.com/stevenxdai) \]
 
@@ -30,7 +30,7 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## Biography
 
-Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS). Various flexible scheduling task models and methods are proposed and implemented to investigate the scheduling impact on control performance.
+Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), where various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance.
 He received a M.Sc. in Control Systems from the University of Sheffield in 2014, and a B.Sc. in Automatic Control in 2011.
 He serves as a reviewer and a PC member for many real-time and design automation conferences.
 
