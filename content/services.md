@@ -13,15 +13,16 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
-- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
+- (informal) Member of High Integrity Systems Engineering (HISE), University of York, UK
 
 
 ---
 
 ## Organisations
 
-- Member of ACM, ACM Special Interest Group on Embedded Systems (ACM SIGBED)
-- Member of IEEE, IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
+- Member of IEEE Computer Society (IEEE CS)
+- Member of IEEE Robotics and Automation Society (IEEE RAS)
 - Member of IET (MIET)
 
 
@@ -58,9 +59,9 @@ toc: false
 
 - IEEE Real-Time Systems Symposium (<u>RTSS 2021</u>)
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2021, RTAS 2020, RTAS 2019</u>)
+- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (<u>RTCSA 2021</u>)
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
-- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
@@ -74,10 +75,10 @@ toc: false
 - IEEE Access
 - IEEE Transactions on Sustainable Energy
 - ACM Transactions on Embedded Computing Systems (TECS)
-- Elsevier | Journal of Sytems Architecture (JSA)
-- Elsevier | Microprocessors and Microsystems (MICPRO)
-- Elsevier | Computers & Operations Research (COR)
-- Wiley | Software - Practice and Experience
+- Journal of Sytems Architecture (JSA), Elsevier
+- Microprocessors and Microsystems (MICPRO), Elsevier
+- Computers & Operations Research (COR), Elsevier
+- Software - Practice and Experience, Wiley
 - Journal of Circuits, Systems and Computers
 {{% /layout-column %}}
 
