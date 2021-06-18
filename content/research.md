@@ -20,7 +20,7 @@ My main research is in the area of real-time systems and autonomous systems:
 - Real-time I/O and time predictable computer architecture;
 - Assuring timing and safety of robotic and autonomous systems.
 
-I am open to any form of collaboration related to these fields.
+I am open to any form of collaboration worldwidely related to these fields.
 
 ---
 
@@ -56,6 +56,12 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ## Research Involvement
 In additional to my regular duties, I also cooperated with other researchers. Below are some research projects that I am being/was involved as a collaborator:
 
+### [➤ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
+
+- Contributed to robot demonstrations for AAIP projects.
+- Contributed to failure mitigation of sensory data.
+- Involved in regular meetings and discussions.
+
 ### [➤ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 
 - Contributed to formal methods for safety cases using SACM.
@@ -65,10 +71,5 @@ In additional to my regular duties, I also cooperated with other researchers. Be
 
 - Proposed using timing-related statisitcs to form dynamic geo-fencing systems.
 - Contributed to timing analysis methods of geo-fencing systems.
-
-### [➤ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
-
-- Contributed to failure mitigation of sensory data.
-- Involved in a various of regular meetings and discussions.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Robots
+title: Robotics Projects
 date: 2018-03-09
 authorbox: false
 sidebar: false
@@ -7,13 +7,23 @@ toc: false
 draft: false
 ---
 
-Robotics is not only part of my research but also where my passion is --- I am a robot enthusiast and I have been building robots since 2009 (when I was a 2nd year undergraduate student). Below is a selection of my robotic projects that were built for research (or just for fun).
+Robotics is not only part of my research but also where my passion is --- I am a robot enthusiast and I have started building robots since 2009 (when I was a 2nd year undergraduate student). Below is a selection of my robotics projects that were built for research (or just as a hobbist).
+
+---
+
+## Service Robot for Institute for Safe Autonomy (2021)
+
+Institute for Safe Autonomy (ISA) is a new building for conducting safety and autonomous systems related-research. As part of the building plan, some service mobile robots will be deployed into the building for the purpose of delivery, guidance and research.
+
+I will come back for more details once the project is progressed.
 
 ---
 
 ## Line-Circle Square Filter (2020)
 
-{{<tag-journal>}} Seyed Amir Tafrishi, Xiaotian Dai, and Vahid Esmaeilzadeh Kandjani. "Line-Circle-Square (LCS): A multilayered geometric filter for edge-based detection." Robotics and Autonomous Systems (2020): 103732.
+{{<tag-journal>}} Seyed Amir Tafrishi, Xiaotian Dai, and Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A multilayered geometric filter for edge-based detection"](https://arxiv.org/pdf/2008.09315). Robotics and Autonomous Systems (2020): 103732.
+  
+\[[Paper](https://arxiv.org/pdf/2008.09315)\] \[[Github](https://github.com/automaticdai/LCS-filter/)\]
 
 The Line–Circle–Square (LCS) filter, claims that mobile robots without a large database for object recognition and highly advanced prediction methods can deal with incoming objects that the camera captures in real-time. The proposed filter applies detection, tracking and learning to each defined expert to extract higher level information for judging scenes without over-calculation. The interactive learning feed between each expert increases the consistency of detected landmarks that works against overwhelming detected features in crowded scenes. Our experts are dependent on trust factors’ covariance under the geometric definitions to ignore, emerge and compare detected landmarks. 
 
@@ -24,7 +34,7 @@ The Line–Circle–Square (LCS) filter, claims that mobile robots without a lar
 
 ---
 
-## Omni Robot for SLAM (2018 - now)
+## Omni Robot for SLAM (2018)
 
 My next step is to build a robot for SLAM and Navigation! I decide to choose ROS as there are some ready-to-use packages, which I think would give me a boost. The main processor is a Raspberry Pi 3 and the low-level controller is a STM32 based control board. The LiDAR is a Slamtec RPLiDAR A1 which costs just about 100 pounds. The camera is a very fast 120 fps PS3 EYE, which is nice for machine vision purpose. I can't fit my Kinect onto this platform as I am not sure it has enough computation power, also converting power is an issue.
 
@@ -41,9 +51,9 @@ My next step is to build a robot for SLAM and Navigation! I decide to choose ROS
 
 ## Line-Circle Filter (2018)
 
-\[[Paper](https://arxiv.org/pdf/1707.08095.pdf)\] \[[Github](https://github.com/automaticdai/LCS-filter/tree/lc-filter)\]
+{{<tag-conference>}} Seyed Amir Tafrishi, and Vahid E. Kandjani. ["Line-circle: A geometric filter for single camera edge-based object detection"](https://arxiv.org/pdf/1707.08095). 2017 5th RSI International Conference on Robotics and Mechatronics (ICRoM). IEEE, 2017.
 
-{{<tag-conference>}} Seyed Amir Tafrishi, and Vahid E. Kandjani. "Line-circle: A geometric filter for single camera edge-based object detection." 2017 5th RSI International Conference on Robotics and Mechatronics (ICRoM). IEEE, 2017.
+\[[Paper](https://arxiv.org/pdf/1707.08095.pdf)\] \[[Github](https://github.com/automaticdai/LCS-filter/tree/lc-filter)\]
 
 A geometric filter that is able to use machine learning technique as a definition of Trust factor with relation to geometric orientations and constraints. LC filter minimizes the data usage for detection or other applications like SLAM in which prevent the systems from critical over calculations during entrance to overwhelming landmarks. This filter is designed for edge-base detection or advance cameras like event-camera. As another outstanding property, due to two layer expert evaluations, LC filter simply can estimate the incoming objects to the camera with only reliance to vehicle IMU sensor.
 
@@ -82,7 +92,7 @@ A side project during the summer holiday. The hardware of this self-balance robo
 
 ## YM4 FIRA Educational Robot (2015)
 
-[\[GitHub\]](https://github.com/automaticdai/arduino-ym4-robot-lib)
+[[GitHub](https://github.com/automaticdai/arduino-ym4-robot-lib)]
 
 This is a FIRA form factor robot that is designed for educational purpose. The platform is built by a friend's company: Embedded Dream Studio. I was involved in the Arduino library design and PID controller improvement.
 

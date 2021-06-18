@@ -18,7 +18,7 @@ I am/was a Teaching Assistant for the following modules at the University of Yor
 - EMPR-I: Embedded System Projects I (Spring 2016-2017)
 - EMPR-II: Embedded System Projects II (Autumn 2016-2017)
 - MFCS: Mathematical Foundations of Computer Systems (Spring 2016-2017)
-- PROM: Programmable Microcontroller (Summer 2015-2016, Summer 2016-2017)
+- PROM: Programmable Microcontroller (Summer 2016-2017, Summer 2015-2016)
 - ICAR: Introduction to Computer Architecture (Spring 2015-2016)
 
 
