@@ -22,6 +22,7 @@ My main research is in the area of real-time systems and autonomous systems:
 
 I am open to any form of collaboration worldwidely related to these fields.
 
+
 ---
 
 ## Research Projects
@@ -71,5 +72,6 @@ In additional to my regular duties, I also cooperated with other researchers. Be
 
 - Proposed using timing-related statisitcs to form dynamic geo-fencing systems.
 - Contributed to timing analysis methods of geo-fencing systems.
+
 
 ---

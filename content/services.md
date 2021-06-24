@@ -13,7 +13,7 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
-- (informal) Member of High Integrity Systems Engineering (HISE), University of York, UK
+- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
 
 
 ---

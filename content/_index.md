@@ -21,9 +21,10 @@ Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2
 
 My research is mainly focus on real-time scheduling and real-time system design and anlysis with a focus on improving scheduling flexibility and adaptiveness. I also have produced work in timing predictability for next generation of systems including autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
 
+
 ---
 
-Some extras:
+Extra info:
 
 - As part of my research / hobby, I make robotic projects in part-time. You can find more about these projects on this web page: [robot projects](/robots/). 
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems. 
@@ -31,18 +32,19 @@ Some extras:
 
 You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
+
 ---
 
 ## Biography
 
 Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), where various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance.
 He received a M.Sc. in Control Systems from the University of Sheffield in 2014, and a B.Sc. in Automatic Control in 2011.
-He serves as a reviewer and a PC member for many top real-time and design automation conferences.
+He serves as a reviewer and a Program Committee member for many top real-time and design automation conferences.
 
 
 ---
 
-## Recent Events
+## Events
 
 - May 2021: (<u>service</u>) ICESS'21 - PC member
 - May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
@@ -59,11 +61,14 @@ He serves as a reviewer and a PC member for many top real-time and design automa
 - Apr 2020: (<u>service</u>) ICESS'20 - PC member
 - Feb 2020: (<u>service</u>) DSD'20 - Design of CPS Session Chair & PC member
 
+
 ---
 
 ## Past Events
+
 - Oct 2019: (<u>conference</u>) @ ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
 - Apr 2019: (<u>service</u>) ECRTS'19 PC member (Artifacts Evaluation)
 - Dec 2018: (<u>seminar</u>) @ University of York, UK --- *Adaptive Task Scheduling of Real-Time Control Tasks*  \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
+
 
 ---

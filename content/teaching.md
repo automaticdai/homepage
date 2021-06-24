@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-## ➤ Undergraduate Courses
+## Undergraduate Courses
 
 I am/was a Teaching Assistant for the following modules at the University of York:
 
