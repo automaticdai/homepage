@@ -22,7 +22,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### Real-Time Task and Network Scheduling
 
-[13] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. "Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges". IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.
+[13] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. ["Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges"](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf). IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.
 
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
