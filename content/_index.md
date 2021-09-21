@@ -46,6 +46,7 @@ He serves as a reviewer and a Program Committee member for many top real-time an
 
 ## Events
 
+- Sep 2021: (<u>service</u>) Ada-Europe'22 - PC member
 - May 2021: (<u>service</u>) ICESS'21 - PC member
 - May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
 - Apr 2021: (<u>service</u>) RTNS'21 - Systems Session Chair
@@ -60,12 +61,6 @@ He serves as a reviewer and a Program Committee member for many top real-time an
 - Apr 2020: (<u>award</u>) *Best Thesis Award* for my PhD thesis at University of York 
 - Apr 2020: (<u>service</u>) ICESS'20 - PC member
 - Feb 2020: (<u>service</u>) DSD'20 - Design of CPS Session Chair & PC member
-
-
----
-
-## Past Events
-
 - Oct 2019: (<u>conference</u>) @ ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
 - Apr 2019: (<u>service</u>) ECRTS'19 PC member (Artifacts Evaluation)
 - Dec 2018: (<u>seminar</u>) @ University of York, UK --- *Adaptive Task Scheduling of Real-Time Control Tasks*  \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
