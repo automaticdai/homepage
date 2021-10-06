@@ -62,6 +62,7 @@ toc: false
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (<u>RTCSA 2021</u>)
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS 2021, ICESS 2020</u>)
+- IEEE Conference on Robotics and Automation (<u>ICRA 2022</u>) 
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
 - Design Automation Conference (<u>DAC 2020</u>)

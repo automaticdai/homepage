@@ -12,7 +12,7 @@ toc: false
 
 ## Undergraduate Courses
 
-I am/was a Teaching Assistant for the following modules at the University of York:
+@ University of York:
 
 - DART: Design of Analysable Real-Time Systems (Spring 2019-2020)
 - EMPR-I: Embedded System Projects I (Spring 2016-2017)

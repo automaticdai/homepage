@@ -24,7 +24,7 @@ My research is mainly focus on real-time scheduling and real-time system design 
 
 ---
 
-Extra info:
+Extra information:
 
 - As part of my research / hobby, I make robotic projects in part-time. You can find more about these projects on this web page: [robot projects](/robots/). 
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems. 

@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-## PhD Research Students Supervision
+## PhD Supervision
 
 I am interesed to supervise the following PhD topics:
 
@@ -22,7 +22,7 @@ I am interesed to supervise the following PhD topics:
 
 Current PhD students:
 
-- Zou Jie, _Resource Efficient Real-Time Scheduling for Autonomous Driving Systems_, co-supervised with John McDermid (2019-2022)
+- Zou Jie, _Resource Efficient Real-Time Scheduling for Autonomous Driving Systems_, co-supervised (2019-)
 
 
 Please be aware that, by the university policy, I am only able to _co-supervise_ PhD students with a primary supervisor in place who is a permanent university staff (with title Lecturer/Senior Lecturer/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me if you want my co-surpervision. I am happy to give more information on request.
@@ -36,8 +36,16 @@ Please be aware that, by the university policy, I am only able to _co-supervise_
 
 ## Undergraduate Final Year Projects
 
-- Dean Kenny, _Simulating and Improving the Scheduling in Time-Sensitive Networks_ (2021)
-- Jay Brooks, _Large Scale Scheduling of Time Sensitive Networks_, co-supervised (2021)
+Projects available:
+
+- Simulating and improving the scheduling in Time-Sensitive Networks
+- Large scale scheduling of Time-Sensitive Networks
+- Time-aware geo-fencing for mobile robots
+
+Previous students:
+
+- Dean Kenny (2021)
+- Jay Brooks, co-supervised (2021)
 
 
 ---
