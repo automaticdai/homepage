@@ -14,7 +14,7 @@ toc: false
 
 ## Introduction
 
-I am a postdoctoral research associate working on the MOCHA research project with [Dr. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
+I am a postdoctoral research associate working on the MOCHA research project with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
 The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G communication stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
 
 Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2018-2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
