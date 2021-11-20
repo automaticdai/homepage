@@ -1,8 +1,9 @@
 ---
-title: Robotics Projects
+title: Robotic Projects
 date: 2018-03-09
 authorbox: false
 sidebar: false
+weight: 5
 toc: false
 draft: false
 ---
