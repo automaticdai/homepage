@@ -31,6 +31,9 @@ The Line–Circle–Square (LCS) filter, claims that mobile robots without a lar
 
 ▲ Demo of the LCS filter on an autonomous driving dataset
 
+{{< youtube id="hh6B4aF7jDI" autoplay="false" >}}
+
+▲ Video that introduces LCS-filter
 
 ---
 
@@ -42,7 +45,7 @@ My next step is to build a robot for SLAM and Navigation! I decide to choose ROS
 
 ▲ Picture of the robot platform. The robot has three omni wheels. On top layer there is a low-cost LiDAR (RPLiDAR-A1) produced by Slamtec. The middle layer contains a high framerate camera and a Raspberry Pi 3. On the bottom layer there is a low-level microcontroller and a motor driver.
 
-{{< youtube id="tbpPylPjlzc" autoplay="false" >}}
+{{< youtube id="CJTeLEGHMuI" autoplay="false" >}}
 
 ▲ Demo of the RPLiDAR-A1 and Hector Mapping (YouTube)
 
@@ -183,18 +186,6 @@ This is a course project when I was at the University of Sheffield. A closed-loo
 ![YFSMega](/assets/YFSMega-1024x768.jpg)
 
 ▲ PCB - ATmega128 Robot Controller (made from sketch)
-
----
-
-## RoboFish Waterpolo Competition (2010)
-
-{{< youtube id="klyyAdgx8Ww" autoplay="false" >}}
-
-▲ RoboFish Waterpolo Competition. The RoboFish is controlled using a PC with global vision on top of the pool.
-
-{{< youtube id="-pSHwlZhVns" autoplay="false" >}}
-
-▲ RoboFish Simulation (with multiple agents)
 
 ---
 
