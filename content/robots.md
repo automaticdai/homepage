@@ -1,10 +1,10 @@
 ---
-title: Robotic Projects
+title: Robots
 date: 2018-03-09
 authorbox: false
 sidebar: false
 menu: main
-weight: 5
+weight: 7
 toc: false
 draft: false
 ---
