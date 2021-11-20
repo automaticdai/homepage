@@ -3,6 +3,7 @@ title: Robotic Projects
 date: 2018-03-09
 authorbox: false
 sidebar: false
+menu: robots
 weight: 5
 toc: false
 draft: false
