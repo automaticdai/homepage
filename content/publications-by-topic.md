@@ -29,7 +29,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. ["Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks"](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf). International Conference on Computer Aided  Design (*ICCAD*). 2020.
 
 
-### Flexible and Adaptive Scheduling
+### Adaptive Scheduling for Cyber-Physical Systems
 
 [6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) Accepted and presented at *Ada-Europe* 2019.
 
@@ -42,6 +42,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### Predictable Hardware for Real-Time Systems
 
+[14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems". 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
+
 [12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
 [8] {{<tag-conference>}} Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang. ["Timing-Accurate General-Purpose I/O for Multi- and Many-Core Systems: Scheduling and Hardware Support"](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf). Design Automation Conference (*DAC*). 2020.
@@ -51,7 +53,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### Timing and Safety of Robotic and Autonomous Systems
 
-[11] {{<tag-journal>}} Seyed Amir Tafrishi, <u>Xiaotian Dai</u>, Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
+[11] {{<tag-journal>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Vahid E. Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
 [7] {{<tag-conference>}} Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang. ["All in One Network for Driver Attention Monitoring"](http://eprints.whiterose.ac.uk/158675/). 45th International Conference on Acoustics,Speech and Processing (*ICASSP*). 2020.
 

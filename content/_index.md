@@ -26,9 +26,9 @@ My research is mainly focus on real-time scheduling and real-time system design 
 
 Extra information:
 
-- As part of my research / hobby, I make robotic projects in part-time. You can find more about these projects on this web page: [robot projects](/robots/). 
+- I have been building robots since 2009. You can find more about these projects on [this page](/robots/). 
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems. 
-- I maintain a tracking website of real-time/embedded systems conferences on this web page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
+- I am maintaining a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 
 You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
@@ -44,10 +44,11 @@ He serves as a reviewer and a Program Committee member for many top real-time an
 
 ---
 
-## Events
+## News
 
-- Sep 2021: (<u>service</u>) Ada-Europe'22 - PC member
-- May 2021: (<u>service</u>) ICESS'21 - PC member
+- Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop --- Progress of MOCHA project
+- Sep 2021: (<u>service</u>) Ada-Europe'22 - invited as PC member
+- May 2021: (<u>service</u>) ICESS'21 - invited as PC member
 - May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
 - Apr 2021: (<u>service</u>) RTNS'21 - Systems Session Chair
 - Jan 2021: (<u>service</u>) RTAS'21 - PC member (Brief Industry Paper Track)

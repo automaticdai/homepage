@@ -14,11 +14,10 @@ toc: false
 
 I am interesed to supervise the following PhD topics:
 
-- Timing assurance of CPU-GPU hetergeneous platform;
-- Task scheduling and assurance of autonomous driving systems;
-- Inteference and contention analysis of multi-cores;
-- Multi-agent systems scheduling, management and coordination; 
-- Scheduling of ROS 2 (Robot Operating System).
+- Scheduling of CPU-GPU hetergeneous platform;
+- Timing assurance of robotic and autonomous systems;
+- Inteference and contention modelling and analysis of multi-cores;
+- Multi-agent systems scheduling, management and coordination. 
 
 Current PhD students:
 

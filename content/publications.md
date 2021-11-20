@@ -20,11 +20,13 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### 2021
 
+[14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems". 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
+
 [13] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. ["Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges"](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf). IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.
 
 [12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
-[11] {{<tag-journal>}} Seyed Amir Tafrishi, <u>Xiaotian Dai</u>, Vahid Esmaeilzadeh Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
+[11] {{<tag-journal>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Vahid E. Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
 
 ### 2020

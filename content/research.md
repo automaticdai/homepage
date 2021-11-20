@@ -20,7 +20,7 @@ My research covers the area of real-time systems and autonomous systems:
 - Time predictable real-time I/O and architecture;
 - Assuring timing and safety of robotic and autonomous systems.
 
-I am open to any form of collaboration related to these fields.
+I am flexible to have collaboration related to these topics and fields.
 
 
 ---
