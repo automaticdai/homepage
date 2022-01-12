@@ -1,9 +1,8 @@
 ---
-title: Robots
-date: 2018-03-09
+title: Robotic Projects
+date: 2022-01-12
 authorbox: false
 sidebar: false
-menu: main
 weight: 6
 toc: false
 draft: false

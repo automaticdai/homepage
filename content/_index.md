@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2018-04-09
+date: 2022-01-12
 authorbox: false
 sidebar: false
 menu: main
@@ -17,7 +17,7 @@ toc: false
 I am a postdoctoral research associate working on the MOCHA research project with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
 The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G communication stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
 
-Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2018-2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
+Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
 
 My research is mainly focus on real-time scheduling and real-time system design and anlysis with a focus on improving scheduling flexibility and adaptiveness. I also have produced work in timing predictability for next generation of systems including autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
 
@@ -26,9 +26,9 @@ My research is mainly focus on real-time scheduling and real-time system design 
 
 Extra information:
 
-- I have been building robots since 2009. You can find more about these projects on [this page](/robots/). 
-- I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems. 
-- I am maintaining a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
+- I build robots since 2009. Check this page for more details: [robotic projects](/robots/). 
+- I maintain a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
+- I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems.
 
 You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
@@ -39,17 +39,17 @@ You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?h
 
 Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), where various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance.
 He received a M.Sc. in Control Systems from the University of Sheffield in 2014, and a B.Sc. in Automatic Control in 2011.
-He serves as a reviewer and a Program Committee member for many top real-time and design automation conferences.
+He serves as a reviewer and a PC member for many top real-time, embedded and design automation conferences.
 
 
 ---
 
 ## News
 
-- Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop --- Progress of MOCHA project
-- Sep 2021: (<u>service</u>) Ada-Europe'22 - invited as PC member
-- May 2021: (<u>service</u>) ICESS'21 - invited as PC member
-- May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session on Digital Twin
+- Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop - *Digital Twin for Embedded & Real-Time Systems*
+- Sep 2021: (<u>service</u>) Ada-Europe'22 - invited as a PC member
+- May 2021: (<u>service</u>) ICESS'21 - invited as a PC member
+- May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Session, *Challenges on Digital Twin*
 - Apr 2021: (<u>service</u>) RTNS'21 - Systems Session Chair
 - Jan 2021: (<u>service</u>) RTAS'21 - PC member (Brief Industry Paper Track)
 - Jan 2021: (<u>service</u>) Ada-Europe'21 - PC member

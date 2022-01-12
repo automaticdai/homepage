@@ -1,6 +1,6 @@
 ---
 title: Supervision
-date: 2021-04-09
+date: 2022-01-12
 authorbox: false
 sidebar: false
 menu: main

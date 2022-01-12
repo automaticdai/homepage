@@ -1,6 +1,6 @@
 ---
 title: Teaching
-date: 2018-04-09
+date: 2022-01-12
 authorbox: false
 sidebar: false
 menu: main
@@ -14,6 +14,7 @@ toc: false
 
 @ University of York:
 
+- HIPC: High Performance Computing Systems (Spring 2021-2022)
 - DART: Design of Analysable Real-Time Systems (Spring 2019-2020)
 - EMPR-I: Embedded System Projects I (Spring 2016-2017)
 - EMPR-II: Embedded System Projects II (Autumn 2016-2017)

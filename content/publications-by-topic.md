@@ -1,6 +1,6 @@
 ---
 title: Publications (by Topic)
-date: 2018-04-09
+date: 2022-01-12
 authorbox: false
 sidebar: false
 menu: false
@@ -42,7 +42,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ### Predictable Hardware for Real-Time Systems
 
-[14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems". 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
+[14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. ["HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9622396). 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
 
 [12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
