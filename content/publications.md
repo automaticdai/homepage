@@ -18,6 +18,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 [(Publication by topic)](/publications-by-topic/)
 
+### 2022
+[15] {{<tag-conference>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns. "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling". American Control Conference (*ACC*). 2022.
+
 ### 2021
 
 [14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. ["HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9622396). 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.

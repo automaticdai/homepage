@@ -14,12 +14,12 @@ toc: false
 
 ## Introduction
 
-I am a postdoctoral research associate working on the MOCHA research project with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
+I am a postdoctoral research associate on the MOCHA research project working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
 The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G communication stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
 
 Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
 
-My research is mainly focus on real-time scheduling and real-time system design and anlysis with a focus on improving scheduling flexibility and adaptiveness. I also have produced work in timing predictability for next generation of systems including autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
+My research is mainly focus on real-time scheduling, system design and anlysis with a focus on improving scheduling flexibility and adaptiveness. The reseach has lead to some novel scheduling methods and predictable hardware. I also have research work in timing predictability for emerging systems including autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
 
 
 ---
@@ -46,6 +46,7 @@ He serves as a reviewer and a PC member for many top real-time, embedded and des
 
 ## News
 
+- Jan 2022: (<u>service</u>) RAGE'22 workshop @ DAC 2022 - invited as a PC member
 - Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop - *Digital Twin for Embedded & Real-Time Systems*
 - Sep 2021: (<u>service</u>) Ada-Europe'22 - invited as a PC member
 - May 2021: (<u>service</u>) ICESS'21 - invited as a PC member

@@ -40,6 +40,7 @@ toc: false
 
 ## PC Member
 
+ -*PC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
 - *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2021, ICESS 2020</u>)
 - *PC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2021-BP</u>) 
 - *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2022, AEiC 2021</u>)
@@ -68,7 +69,7 @@ toc: false
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2021, DATE 2020</u>)
 - Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
-- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2021</u>)
+- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2022, AEiC 2021</u>)
 {{% /layout-column %}}
 
 {{% layout-column %}}
@@ -82,6 +83,7 @@ toc: false
 - Computers & Operations Research (COR), Elsevier
 - Software - Practice and Experience, Wiley
 - Journal of Circuits, Systems and Computers
+- Connection Science
 {{% /layout-column %}}
 
 {{% /layout-row %}}

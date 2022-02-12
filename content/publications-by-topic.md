@@ -20,9 +20,12 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
-### Real-Time Task and Network Scheduling
+### Digital Twin for Real-Time and Embedded Systems
 
 [13] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. ["Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges"](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf). IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.
+
+
+### Real-Time Task and Network Scheduling
 
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
@@ -30,6 +33,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 
 ### Adaptive Scheduling for Cyber-Physical Systems
+
+[15] {{<tag-conference>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns. "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling". American Control Conference (*ACC*). 2022.
 
 [6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) Accepted and presented at *Ada-Europe* 2019.
 
