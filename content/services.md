@@ -40,7 +40,7 @@ toc: false
 
 ## PC Member
 
- -*PC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
+- *PC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
 - *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2021, ICESS 2020</u>)
 - *PC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2021-BP</u>) 
 - *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2022, AEiC 2021</u>)
