@@ -14,10 +14,9 @@ toc: false
 
 ## Introduction
 
-I am a postdoctoral research associate on the MOCHA research project working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). 
-The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G communication stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
+I am a postdoctoral research associate on the MOCHA research project working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G/6G communication base stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
 
-Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
+Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Dr. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). The DEIS project involves model-based safety assurance (using OMG standard [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/)) that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
 
 My research is mainly focus on real-time scheduling, system design and anlysis with a focus on improving scheduling flexibility and adaptiveness. The reseach has lead to some novel scheduling methods and predictable hardware. I also have research work in timing predictability for emerging systems including autonomous, robotic and cyber-physical systems to ensure safety, robustness and resilience. 
 
@@ -26,7 +25,7 @@ My research is mainly focus on real-time scheduling, system design and anlysis w
 
 Extra information:
 
-- I build robots since 2009. Check this page for more details: [robotic projects](/robots/). 
+- I make robots since 2009. Check this page for more details: [robotic projects](/robots/). 
 - I maintain a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems.
 
@@ -37,15 +36,14 @@ You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?h
 
 ## Biography
 
-Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), where various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance.
-He received a M.Sc. in Control Systems from the University of Sheffield in 2014, and a B.Sc. in Automatic Control in 2011.
-He serves as a reviewer and a PC member for many top real-time, embedded and design automation conferences.
+Xiaotian Dai is a research associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), where various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance. He received a M.Sc. in Control Systems from the University of Sheffield in 2014, and a B.Sc. in Automatic Control in 2011. He serves as a reviewer and a PC member for many top real-time, embedded and design automation conferences.
 
 
 ---
 
 ## News
 
+- Feb 2022: (<u>service</u>) ECRTS'22 - invited as a PC member (Artifacts Evaluation)
 - Jan 2022: (<u>service</u>) RAGE'22 workshop @ DAC 2022 - invited as a PC member
 - Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop - *Digital Twin for Embedded & Real-Time Systems*
 - Sep 2021: (<u>service</u>) Ada-Europe'22 - invited as a PC member
@@ -65,7 +63,6 @@ He serves as a reviewer and a PC member for many top real-time, embedded and des
 - Feb 2020: (<u>service</u>) DSD'20 - Design of CPS Session Chair & PC member
 - Oct 2019: (<u>conference</u>) @ ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
 - Apr 2019: (<u>service</u>) ECRTS'19 PC member (Artifacts Evaluation)
-- Dec 2018: (<u>seminar</u>) @ University of York, UK --- *Adaptive Task Scheduling of Real-Time Control Tasks*  \[[slides](./files/ppt_adaptive_task_scheduling.pdf)\]
 
 
 ---
