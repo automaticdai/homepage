@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2022-01-12
+date: 2022-05-09
 authorbox: false
 sidebar: false
 menu: main
@@ -14,14 +14,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
-## Publications by Date
-
-[(Publication by topic)](/publications-by-topic/)
-
-### 2022
 [15] {{<tag-conference>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns. "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling". American Control Conference (*ACC*). 2022.
-
-### 2021
 
 [14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. ["HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9622396). 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
 
@@ -30,9 +23,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 [12] {{<tag-journal>}} Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan. ["Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/document/9354856). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 2021.
 
 [11] {{<tag-journal>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Vahid E. Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
-
-
-### 2020
 
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
@@ -43,9 +33,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 [7] {{<tag-conference>}} Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang. ["All in One Network for Driver Attention Monitoring"](http://eprints.whiterose.ac.uk/158675/). 45th International Conference on Acoustics,Speech and Processing (*ICASSP*). 2020.
 
 [6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) Accepted and presented at *Ada-Europe* 2019.
-
-
-### 2019 (\& before)
 
 [5] {{<tag-conference>}} Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei. ["MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9052193). 40th IEEE Real-Time Systems Symposium (*RTSS*). 2019.
 

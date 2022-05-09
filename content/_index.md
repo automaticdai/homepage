@@ -25,7 +25,7 @@ My research is mainly focus on real-time scheduling, system design and anlysis w
 
 Extra information:
 
-- I make robots since 2009. Check this page for more details: [robotic projects](/robots/). 
+- I build robots since 2009. Check this page for more details: [robotic projects](/robots/). 
 - I maintain a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems.
 

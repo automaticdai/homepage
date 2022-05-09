@@ -28,8 +28,9 @@ toc: false
 
 ---
 
-## Conference Chairing
+## Conference Chairing and Organisation
 
+- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC @ RTSS 2022</u>)
 - *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
@@ -38,15 +39,15 @@ toc: false
 
 ---
 
-## PC Member
+## Conference TPC Member
 
-- *PC Member*, Euromicro Conference on Real-Time Systems (Artifacts) (<u>ECRTS-AE 2019, ECRTS-AE 2022</u>)
-- *PC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
-- *PC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021</u>)
-- *PC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2021-BP</u>) 
-- *PC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021, AEiC 2022</u>)
-- *PC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *PC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts) (<u>ECRTS-AE 2019, ECRTS-AE 2022</u>)
+- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
+- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021</u>)
+- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS-BP 2021</u>) 
+- *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021, AEiC 2022</u>)
+- *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 
 
 ---

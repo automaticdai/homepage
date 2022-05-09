@@ -14,9 +14,10 @@ toc: false
 
 I am interesed to supervise the following PhD topics:
 
+- Novel scheduling and allocation methods and models for real-time systems;
+- Inteference and contention modelling and analysis of multi-cores;
 - Scheduling of CPU-GPU hetergeneous platform;
 - Timing assurance of robotic and autonomous systems;
-- Inteference and contention modelling and analysis of multi-cores;
 - Multi-agent systems scheduling, management and coordination. 
 
 Current PhD students:
@@ -43,8 +44,7 @@ Projects available:
 
 Previous students:
 
-- Dean Kenny (2021)
-- Jay Brooks, co-supervised (2021)
+- Dean Kenny (2021), Jay Brooks (2021)
 
 
 ---
