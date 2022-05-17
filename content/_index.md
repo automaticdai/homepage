@@ -28,7 +28,7 @@ Extra information about me:
 - I maintain a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems.
 - I am a robot enthusiast and I build robots since 2009. Check this page for more details: [robotic projects](/robots/). 
-- I do landscape and city photography as a part-time hobby while I am travelling around: [my photography collections](https://500px.com/p/automaticdai).
+- I do landscape and city photography as a part-time hobby while I am travelling around: [my photography website](https://xdaiphotography.com).
 
 You can also find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
