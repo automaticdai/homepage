@@ -14,8 +14,13 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
+## 2022
+[16] {{<tag-workshop>}} Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid. "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems". International Conference on Reliable Software Technologies (*AEiC*). 2022.
+    
+
 [15] {{<tag-conference>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns. "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling". American Control Conference (*ACC*). 2022.
 
+## 2021
 [14] {{<tag-conference>}} Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley. ["HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9622396). 42th IEEE Real-Time Systems Symposium (*RTSS*). 2021.
 
 [13] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. ["Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges"](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf). IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.
@@ -24,6 +29,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 [11] {{<tag-journal>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Vahid E. Kandjani. ["Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection"](https://arxiv.org/pdf/2008.09315.pdf). Robotics and Autonomous Systems (*RAS*). 2021.
 
+## 2020
 [10] {{<tag-conference>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang. ["DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency"](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf). 41th IEEE Real-Time Systems Symposium (*RTSS*). 2020.
 
 [9] {{<tag-conference>}} <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang. ["Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks"](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf). International Conference on Computer Aided Design (*ICCAD*). 2020.
@@ -34,6 +40,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 [6] {{<tag-journal>}} <u>Xiaotian Dai</u>, Alan Burns. ["Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems"](https://doi.org/10.1016/j.sysarc.2019.101691). Journal of Systems Architecture (*JSA*). 2020.  (*) Accepted and presented at *Ada-Europe* 2019.
 
+## 2019 and before
 [5] {{<tag-conference>}} Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei. ["MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems"](https://ieeexplore.ieee.org/abstract/document/9052193). 40th IEEE Real-Time Systems Symposium (*RTSS*). 2019.
 
 [4] {{<tag-journal>}} <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao and Alan Burns. ["A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design"](https://dl.acm.org/citation.cfm?id=3358213). ACM Transaction on Embedded Computer System (*TECS*). 2019. (\*) Accepted and presented at *EMSOFT* 2019.
@@ -42,6 +49,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 [2] {{<tag-thesis>}} <u>Xiaotian Dai</u>. ["Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems"](http://etheses.whiterose.ac.uk/23950/). PhD Thesis. University of York. 2018. (\*) Best Thesis Award of Computer Science.
 
-[1] {{<tag-conference>}} <u>Xiaotian Dai</u>, Alan Burns. ["Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems"](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6). International Conference on Reliable Software Technologies (*Ada-Europe*). 2017.
+[1] {{<tag-conference>}} <u>Xiaotian Dai</u>, Alan Burns. ["Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems"](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6). International Conference on Reliable Software Technologies (*AEiC*). 2017.
 
 ---
