@@ -57,3 +57,4 @@ googleAnalytics = "UA-60989638-2" # Enable Google Analytics by entering your tra
     
 [markup.goldmark.renderer]
   unsafe = true
+  block = true
