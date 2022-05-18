@@ -15,8 +15,10 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 ---
 
 ## 2022
+
+[17] {{<tag-journal>}} Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate. "DAG Scheduling and Analysis on Multi-core Systems by Modelling Parallelism and Dependency". IEEE Transactions on Parallel and Distributed Systems (*TPDS*). 2022.
+
 [16] {{<tag-workshop>}} Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid. "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems". International Conference on Reliable Software Technologies (*AEiC*). 2022.
-    
 
 [15] {{<tag-conference>}} Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns. "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling". American Control Conference (*ACC*). 2022.
 
