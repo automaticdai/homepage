@@ -12,15 +12,15 @@ toc: false
 
 ## Research Interests
 
-My research covers the area of real-time systems and autonomous systems:
+My research covers the following topics:
 
-- Real-time scheduling and allocation on single- and multi-cores;
+- Real-time systems, including scheduling and allocation on single- and multi-cores, and timing predictable hardware;
 - Flexible and feedback-based methods for task/network scheduling;
 - Control-scheduling co-design and design automation of CPS;
-- Time predictable real-time I/O and architecture;
+- Using Ditial Twins for design, verification and optimization;
 - Assuring timing and safety of robotic and autonomous systems.
 
-I am flexible to have collaboration related to these topics and fields.
+I am working with researchers from the UK, Portugal, France, USA, Japan and China (mainland, Taiwan and Hongkong), and I am open to collaborations related to these topics and fields, addressing problems both from industry and academia.
 
 
 ---
@@ -61,6 +61,7 @@ In additional to my regular duties, I also cooperated with other researchers. Be
 
 - Contributed to robot demonstrations for AAIP projects.
 - Contributed to failure mitigation of sensory data.
+- Contributed to demonstration robot of the new ISA (Institute for Safe Autonomy) building.
 - Involved in regular meetings and discussions.
 
 ### [➤ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)

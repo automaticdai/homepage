@@ -10,7 +10,7 @@ toc: false
 
 ---
 
-## University of York
+## @ University of York
 
 Course Instructor:
 

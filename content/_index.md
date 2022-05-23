@@ -23,12 +23,12 @@ My research is mainly focus on real-time scheduling, cyber-physical system desig
 
 ---
 
-Extra information about me:
+Extra information:
 
 - I maintain a conference tracking website for real-time/embedded systems on this page: [real-time systems conference tracking](https://automaticdai.github.io/realtime-embedded-conferences/).
 - I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote real-time systems.
 - I am a robot enthusiast and I build robots since 2009. Check this page for more details: [robotic projects](/robots/). 
-- I do landscape and city photography as a part-time hobby while I am travelling around: [my photography website](https://xdaiphotography.com).
+- I do landscape and city photography as a part-time hobby: [photography portfolio](https://xdaiphotography.com).
 
 You can also find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
@@ -42,29 +42,27 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ---
 
-## News
+## News and Events
 
-- May 2022: (<u>service</u>) Invited as a co-chair of WMC workshop @ RTSS'22
-- Apr 2022: (<u>service</u>) Invited as a co-chair of the workshop: Innovative Defense Technologies in 5G and Beyond Networks Using ML @ MONAMI'22
-- Feb 2022: (<u>service</u>) Invited as a PC member of ECRTS'22 (Artifacts Evaluation)
-- Jan 2022: (<u>service</u>) Invited as a PC member of RAGE'22 workshop @ DAC 2022
-- Nov 2021: (<u>workshop</u>) @Sixth Annual UK System Research Challenges Workshop - *Digital Twin for Embedded & Real-Time Systems*
-- Sep 2021: (<u>service</u>) Invited as a PC member Ada-Europe'22
-- May 2021: (<u>service</u>) Invited as a PC member of ICESS'21
-- May 2021: (<u>conference</u>) May 18 @ RTAS'21 - Poster Presentation, *Challenges on Digital Twin for Real-Time Systems*
-- Apr 2021: (<u>service</u>) RTNS'21 - invited as the Systems Session Chair
-- Jan 2021: (<u>service</u>) RTAS'21 - invited as a PC member (Brief Industry Paper Track)
-- Jan 2021: (<u>service</u>) Ada-Europe'21 - PC member
-- Dec 2020: (<u>workshop</u>) Dec 10, 2020, @Fifth Annual UK System Research Challenges Workshop --- Overview of MOCHA project by Dr. Iain Bate
-- Dec 2020: (<u>conference</u>) Dec 13 @ RTSS'20 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video](https://www.youtube.com/watch?v=DriyJdDGtNc)]
-- Nov 2020: (<u>service</u>) ICESS'20 - Resource Management session chair
-- Nov 2020: (<u>conference</u>) Nov 11 @ ICCAD'20 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video](https://www.youtube.com/watch?v=fPSlHvK1NGc)]
-- Oct 2020: (<u>call-for-papers</u>) RTNS'21 is calling for participate: \[[conference website](https://rtns2021.univ-nantes.fr/)\]
-- Sep 2020: (<u>service</u>) RTNS'21 - Invited as Publicity Chair & PC member
-- Apr 2020: (<u>award</u>) *Best Thesis Award* for my PhD thesis at University of York 
-- Apr 2020: (<u>service</u>) ICESS'20 - Invited as a PC member
-- Feb 2020: (<u>service</u>) DSD'20 - Invited as the Design of CPS Session Chair & PC member
-- Oct 2019: (<u>conference</u>) @ ESWEEK'19, New York --- *A Dual-Mode Strategy for Performance Maximisation and Resource-Efficient CPS Design* \[[slides](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf)\]
-- Apr 2019: (<u>service</u>) ECRTS'19 PC member (Artifacts Evaluation)
+- {{< news "service" >}} May 2022: Invited as the co-chair of WMC workshop @ RTSS'22
+- {{< news "service" >}} Apr 2022: Invited as the co-chair of the workshop: Innovative Defense Technologies in 5G and Beyond Networks Using ML @ MONAMI'22
+- {{< news "service" >}} Feb 2022: Invited as a PC member of ECRTS'22 (Artifacts Evaluation)
+- {{< news "service" >}} Jan 2022: Invited as a PC member of RAGE'22 workshop @ DAC 2022
+- {{< news "presentation" >}} Nov 2021: @ 6th Annual UK System Research Challenges Workshop --- *Digital Twin for Embedded & Real-Time Systems*
+- {{< news "service" >}} Sep 2021: Invited as a PC member Ada-Europe'22
+- {{< news "service" >}} May 2021: Invited as a PC member of ICESS'21
+- {{< news "presentation" >}} May 2021: May 18 @ RTAS'21 - Poster Presentation, *Challenges on Digital Twin for Real-Time Systems*
+- {{< news "service" >}} Apr 2021: RTNS'21 - invited as the Systems Session Chair
+- {{< news "service" >}} Jan 2021: RTAS'21 - invited as a PC member (Brief Industry Paper Track)
+- {{< news "service" >}} Jan 2021: Ada-Europe'21 - invited as a PC member
+- {{< news "presentation" >}} Dec 2020: Dec 10, 2020, @ 5th Annual UK System Research Challenges Workshop --- Overview of MOCHA project by Dr. Iain Bate
+- {{< news "presentation" >}} Dec 2020: Dec 13 @ RTSS'20 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video](https://www.youtube.com/watch?v=DriyJdDGtNc)]
+- {{< news "service" >}} Nov 2020: ICESS'20 - Resource Management session chair
+- {{< news "presentation" >}} Nov 2020: Nov 11 @ ICCAD'20 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video](https://www.youtube.com/watch?v=fPSlHvK1NGc)]
+- {{< news "call-for-papers" >}} Oct 2020: RTNS'21 is calling for participate: \[[conference website](https://rtns2021.univ-nantes.fr/)\]
+- {{< news "service" >}} Sep 2020: RTNS'21 - Invited as Publicity Chair & PC member
+- {{< news "award" >}} Apr 2020: *"Best PhD Thesis Award"* from the University of York 
+- {{< news "service" >}} Apr 2020: ICESS'20 - Invited as a PC member
+- {{< news "service" >}} Feb 2020: DSD'20 - Invited as the Design of CPS Session Chair & PC member
 
 ---
