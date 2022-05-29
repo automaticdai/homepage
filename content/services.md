@@ -70,7 +70,7 @@ toc: false
 - International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
 - Design, Automation and Test in Europe Conference (<u>DATE 2020, 2021</u>)
-- Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- Euromicro Conference on Digital System Design (<u>DSD 2020, 2022</u>)
 - Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2021, 2022</u>)
 {{% /layout-column %}}
 
