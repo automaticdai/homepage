@@ -44,7 +44,7 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ## News and Events
 
-- {{< news "service" >}} May 2022: DSD'22 - Invited as the Design of CPS Session Chair & PC member
+- {{< news "service" >}} May 2022: Invited as a PC member of DSD'22
 - {{< news "service" >}} May 2022: Invited as the co-chair of WMC workshop @ RTSS'22
 - {{< news "service" >}} Apr 2022: Invited as the co-chair of the workshop: Innovative Defense Technologies in 5G and Beyond Networks Using ML @ MONAMI'22
 - {{< news "service" >}} Feb 2022: Invited as a PC member of ECRTS'22 (Artifacts Evaluation)
