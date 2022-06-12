@@ -15,9 +15,9 @@ toc: false
 My research covers the following topics:
 
 - Real-time systems, including scheduling and allocation on single- and multi-cores, and timing predictable hardware;
-- Flexible and feedback-based methods for task/network scheduling;
+- Flexible and feedback-based methods for task/network scheduling in CPS;
 - Control-scheduling co-design and design automation of CPS;
-- Using Ditial Twins for design, verification and optimization;
+- Using Ditial Twins for design, verification and optimization of real-time systems and CPS;
 - Assuring timing and safety of robotic and autonomous systems.
 
 I am working with researchers from the UK, Portugal, France, USA, Japan and China (mainland, Taiwan and Hongkong), and I am open to collaborations related to these topics and fields, addressing problems both from industry and academia.

@@ -42,12 +42,12 @@ toc: false
 
 ## Conference TPC Member
 
-- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts Evaluation) (<u>ECRTS 2019, 2022</u>)
+- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts Evaluation) (<u>ECRTS 2019, ECRTS 2022</u>)
 - *TPC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
 - *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (BiP) (<u>RTAS 2021</u>) 
 - *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021, 2022</u>)
-- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, 2021</u>)
+- *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021, AEiC 2022</u>)
+- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021</u>)
 - *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
 
 
@@ -61,17 +61,17 @@ toc: false
 ### ➤ Conference Paper Reviewer
 
 - IEEE Real-Time Systems Symposium (<u>RTSS 2021</u>)
-- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, 2020, 2021</u>)
+- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, RTAS 2020, RTAS 2021</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (<u>RTCSA 2021</u>)
-- IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, 2021</u>)
+- IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021</u>)
 - IEEE Conference on Robotics and Automation (<u>ICRA 2022</u>) 
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
 - International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
-- Design, Automation and Test in Europe Conference (<u>DATE 2020, 2021</u>)
-- Euromicro Conference on Digital System Design (<u>DSD 2020, 2022</u>)
-- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2021, 2022</u>)
+- Design, Automation and Test in Europe Conference (<u>DATE 2020, DATE 2021</u>)
+- Euromicro Conference on Digital System Design (<u>DSD 2020, DSD 2022</u>)
+- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2021, AEiC 2022</u>)
 {{% /layout-column %}}
 
 {{% layout-column %}}
