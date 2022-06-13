@@ -44,8 +44,8 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ## News and Events
 
-- {{< news "conference" >}} June 2022: @ Ada Europe'21 - "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" 
-- {{< news "conference" >}} June 2022: @ ACC'21 - "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" 
+- {{< news "conference" >}} June 2022: @ Ada Europe'22 - "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" 
+- {{< news "conference" >}} June 2022: @ ACC'22 - "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" 
 - {{< news "service" >}} May 2022: Invited as a PC member of DSD'22
 - {{< news "service" >}} May 2022: Invited as the co-chair of WMC workshop @ RTSS'22
 - {{< news "service" >}} Apr 2022: Invited as the co-chair of the workshop: Innovative Defense Technologies in 5G and Beyond Networks Using ML @ MONAMI'22
