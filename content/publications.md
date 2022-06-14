@@ -23,12 +23,15 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-workshop>}} <br>
     {{< bibtitle "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" >}}
     Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid <br>
-     (*AEiC 2022*) International Conference on Reliable Software Technologies. 2022.
+     (*AEiC 2022*) International Conference on Reliable Software Technologies. 2022.<br>
+     [\[Slides\]](../files/Ada22-presentation.pdf) | [\[Poster\]](../files/Ada22-Poster_v2.pdf)
+     
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" >}}
     Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns <br>
-    (*ACC 2022*) American Control Conference. 2022.
+    (*ACC 2022*) American Control Conference. 2022. <br>
+    [\[Paper\]](https://arxiv.org/pdf/2206.05994.pdf) | [\[Slides\]](../files/ACC2022_Presentation.pdf)
 
 ## 2021
 - {{<tag-conference>}} <br>
@@ -100,7 +103,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao and Alan Burns <br> 
     (*TECS*) ACM Transaction on Embedded Computer System. 2019. <br>
     (*) Accepted and presented at *EMSOFT* 2019.<br> 
-    [\[Paper\]](https://dl.acm.org/citation.cfm?id=3358213) | [\[Slides\]](./files/ppt_emsoft_2019_dual_period_v3_rev1.pdf) | [\[Code\]](https://github.com/automaticdai/research-dual-period)
+    [\[Paper\]](https://dl.acm.org/citation.cfm?id=3358213) | [\[Slides\]](../files/ppt_emsoft_2019_dual_period_v3_rev1.pdf) | [\[Code\]](https://github.com/automaticdai/research-dual-period)
      
 - {{<tag-journal>}} <br> 
     {{< bibtitle "Model Based System Assurance Using the Structured Assurance Case Metamodel" >}}
