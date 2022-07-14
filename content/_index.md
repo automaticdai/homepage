@@ -44,6 +44,9 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ## News and Events
 
+- {{< news "service" >}} July 2022: Invited as the Web Chair of RTAS'23
+- {{< news "service" >}} July 2022: Invited as the PC member (Artifacts) of RTSS'22 
+- {{< news "service" >}} July 2022: Invited as the PC member of ICESS'22
 - {{< news "conference" >}} June 2022: @ Ada Europe'22 - "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" 
 - {{< news "conference" >}} June 2022: @ ACC'22 - "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" 
 - {{< news "service" >}} May 2022: Invited as a PC member of DSD'22
@@ -62,7 +65,6 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 - {{< news "conference" >}} Dec 2020: @ RTSS'20, Dec 13 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video](https://www.youtube.com/watch?v=DriyJdDGtNc)]
 - {{< news "service" >}} Nov 2020: ICESS'20 - Resource Management session chair
 - {{< news "conference" >}} Nov 2020: @ ICCAD'20, Nov 11 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video](https://www.youtube.com/watch?v=fPSlHvK1NGc)]
-- {{< news "call-for-papers" >}} Oct 2020: RTNS'21 is calling for participate: \[[conference website](https://rtns2021.univ-nantes.fr/)\]
 - {{< news "service" >}} Sep 2020: RTNS'21 - Invited as Publicity Chair & PC member
 - {{< news "award" >}} Apr 2020: *"Best PhD Thesis Award"* from the University of York 
 - {{< news "service" >}} Apr 2020: ICESS'20 - Invited as a PC member

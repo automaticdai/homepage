@@ -30,6 +30,7 @@ toc: false
 
 ## Conference Chairing and Organisation
 
+- *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
 - *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC @ RTSS 2022</u>)
 - *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
@@ -42,13 +43,14 @@ toc: false
 
 ## Conference TPC Member
 
-- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts Evaluation) (<u>ECRTS 2019, ECRTS 2022</u>)
-- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop @ DAC 2022 (<u>RAGE 2022</u>)
-- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (BiP) (<u>RTAS 2021</u>) 
+- *TPC Member*, IEEE Real-Time Systems Symposium (Artifacts) (<u>RTSS 2022</u>)
+- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts) (<u>ECRTS 2019, ECRTS 2022</u>)
+- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop (<u>RAGE @ DAC 2022</u>)
+- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (Industry Paper Track) (<u>RTAS 2021</u>) 
 - *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2021, AEiC 2022</u>)
-- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021</u>)
-- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020, ICESS 2021, ICESS 2022</u>)
+- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2020, DSD 2022</u>)
 
 
 ---
@@ -58,9 +60,9 @@ toc: false
 {{% layout-row %}}
 
 {{% layout-column %}}
-### ➤ Conference Paper Reviewer
+### ➤ Conference Paper Peer-Review
 
-- IEEE Real-Time Systems Symposium (<u>RTSS 2021</u>)
+- IEEE Real-Time Systems Symposium (<u>RTSS 2021, RTSS 2022</u>)
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2019, RTAS 2020, RTAS 2021</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (<u>RTCSA 2021</u>)
@@ -75,7 +77,7 @@ toc: false
 {{% /layout-column %}}
 
 {{% layout-column %}}
-### ➤ Journal Paper Reviewer
+### ➤ Journal Paper Peer-Review
 
 - IEEE Access
 - IEEE Transactions on Sustainable Energy

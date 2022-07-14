@@ -16,9 +16,17 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## 2022
 - {{<tag-journal>}} <br>
+    {{< bibtitle "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication" >}}
+    Zou Jie, <u>Xiaotian Dai</u>, John McDermid <br> 
+    (*TCAD*) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2022. <br>
+    [\[Paper\]](https://ieeexplore.ieee.org/document/9826899)    
+    
+    
+- {{<tag-journal>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multi-core Systems by Modelling Parallelism and Dependency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate <br>
-    (*TPDS*) IEEE Transactions on Parallel and Distributed Systems. 2022.
+    (*TPDS*) IEEE Transactions on Parallel and Distributed Systems. 2022. <br>
+    [\[Paper\]](https://eprints.whiterose.ac.uk/187710/1/Zhao_2022_Dag_scheduling_and_analysis_on_mult.pdf)
 
 - {{<tag-workshop>}} <br>
     {{< bibtitle "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" >}}
