@@ -82,6 +82,7 @@ toc: false
 - IEEE Access
 - IEEE Transactions on Sustainable Energy
 - ACM Transactions on Embedded Computing Systems (TECS)
+- Robotics and Autonomous Systems (RAS), Elsevier
 - Journal of Sytems Architecture (JSA), Elsevier
 - Microprocessors and Microsystems (MICPRO), Elsevier
 - Computers & Operations Research (COR), Elsevier
