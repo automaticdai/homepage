@@ -16,11 +16,20 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## 2022
 - {{<tag-journal>}} <br>
+    {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
+    Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
+    (*TC*) IEEE Transactions on Computers. 2022.
+
+- {{<tag-conference>}} <br>
+    {{< bibtitle "Using Digital Twins in the Development of Complex Dependable Real-Time Embedded Systems" >}}
+    <u>Xiaotian Dai</u>, Shuai Zhao, Benjamin Lesage, Iain Bate <br>
+    (*ISoLA'22*) 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation. 2022.
+
+- {{<tag-journal>}} <br>
     {{< bibtitle "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication" >}}
     Zou Jie, <u>Xiaotian Dai</u>, John McDermid <br> 
     (*TCAD*) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2022. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/document/9826899)    
-    
     
 - {{<tag-journal>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multi-core Systems by Modelling Parallelism and Dependency" >}}
@@ -31,27 +40,27 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-workshop>}} <br>
     {{< bibtitle "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" >}}
     Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid <br>
-     (*AEiC 2022*) International Conference on Reliable Software Technologies. 2022.<br>
+     (*AEiC'22*) International Conference on Reliable Software Technologies. 2022.<br>
      [\[Slides\]](../files/Ada22-presentation.pdf) | [\[Poster\]](../files/Ada22-Poster_v2.pdf)
      
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" >}}
     Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns <br>
-    (*ACC 2022*) American Control Conference. 2022. <br>
+    (*ACC'22*) American Control Conference. 2022. <br>
     [\[Paper\]](https://arxiv.org/pdf/2206.05994.pdf) | [\[Slides\]](../files/ACC2022_Presentation.pdf)
 
 ## 2021
 - {{<tag-conference>}} <br>
     {{< bibtitle "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley <br>
-    (*RTSS 2021*) 42th IEEE Real-Time Systems Symposium. 2021. <br>
+    (*RTSS'21*) 42th IEEE Real-Time Systems Symposium. 2021. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9622396) | [\[Code\]](https://github.com/automaticdai/research-mcs-ap-analysis)
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges" >}}
     <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. <br>
-    (*RTAS 2021*) IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.<br>
+    (*RTAS'21*) IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.<br>
     [\[Paper\]](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf) <br>
     
 - {{<tag-journal>}} <br> 
@@ -70,26 +79,26 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-conference>}} <br> 
     {{< bibtitle "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang <br> 
-    (*RTSS 2020*) 41th IEEE Real-Time Systems Symposium. 2020.<br> 
+    (*RTSS'20*) 41th IEEE Real-Time Systems Symposium. 2020.<br> 
     [\[Paper\]](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf) | [\[Video\]](https://www.youtube.com/watch?v=DriyJdDGtNc) | [\[Code\]](https://github.com/automaticdai/research-dag-scheduling-analysis)
     
 - {{<tag-conference>}} <br> 
     {{< bibtitle "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks" >}}
     <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang <br> 
-    (*ICCAD 2020*) International Conference on Computer Aided Design. 2020. <br> 
+    (*ICCAD'20*) International Conference on Computer Aided Design. 2020. <br> 
     (*) Best Paper Nomination<br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf) | [\[Video\]](https://www.youtube.com/watch?v=fPSlHvK1NGc) | [\[Code\]](https://github.com/automaticdai/research-sched-tsn)
     
 - {{<tag-conference>}} <br> 
     {{< bibtitle "Timing-Accurate General-Purpose I/O for Multi- and Many-Core Systems: Scheduling and Hardware Support" >}}
     Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang <br> 
-    (*DAC 2020*) Design Automation Conference. 2020.<br>
+    (*DAC'20*) Design Automation Conference. 2020.<br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf) <br> 
     
 - {{<tag-conference>}} <br> 
     {{< bibtitle "All in One Network for Driver Attention Monitoring" >}}
     Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang <br>
-    (*ICASSP 2020*) 45th International Conference on Acoustics, Speech and Processing. 2020.<br>
+    (*ICASSP'20*) 45th International Conference on Acoustics, Speech and Processing. 2020.<br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/158675/) <br> 
     
 - {{<tag-journal>}} {{<tag-conference>}} <br> 
@@ -103,7 +112,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-conference>}} <br> 
     {{< bibtitle "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems" >}}
     Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei <br> 
-    (*RTSS 2019*) 40th IEEE Real-Time Systems Symposium. 2019.<br>
+    (*RTSS'19*) 40th IEEE Real-Time Systems Symposium. 2019.<br>
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9052193) <br> 
     
 - {{<tag-journal>}} {{<tag-conference>}}<br> 
@@ -131,7 +140,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-conference>}} <br> 
     {{< bibtitle "Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems" >}}
     <u>Xiaotian Dai</u>, Alan Burns<br> 
-    (*AEiC 2017*) International Conference on Reliable Software Technologies. 2017.<br> 
+    (*AEiC'17*) International Conference on Reliable Software Technologies. 2017.<br> 
     [\[Paper\]](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6) | [\[Code\]](https://github.com/automaticdai/research-wcet-trend-analysis)
 
 ---

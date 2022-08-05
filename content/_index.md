@@ -14,11 +14,11 @@ toc: false
 
 ## Introduction
 
-I am a postdoctoral research associate on the MOCHA research project working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements. The project is targeted for the next-generation 5G/6G communication base stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
+I am a postdoctoral research associate on the MOCHA research project working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time Systems Research Group (RTSRG)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements, using novel methods including Digital Twins. The project is targeted for the next-generation 5G/6G communication base stations. You can know more about MOCHA [on the project website](https://www.cs.york.ac.uk/rts/mocha/).
 
 Before MOCHA, I worked on the [H2020 DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Dr. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). The DEIS project involves developing of model-based safety assurance language (using [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/); submitted as an OMG standard) and tools that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
 
-My research is mainly focus on real-time scheduling, cyber-physical system design and anlysis with an emphasis on improving scheduling flexibility and adaptiveness. My reseach has lead to some novel scheduling and co-design methods as well as predictable hardware for system with timing requirements. I also work on timing predictability for autonomous, robotic and cyber-physical systems to ensure their safety, robustness and resilience. 
+My research is mainly focus on real-time scheduling, cyber-physical system design and analysis with an emphasis on improving scheduling flexibility and adaptiveness. My reseach has lead to some novel scheduling and co-design methods as well as predictable hardware for system with timing requirements. I also work on timing predictability for autonomous, robotic and cyber-physical systems to ensure their safety, robustness and resilience. 
 
 
 ---
@@ -26,11 +26,10 @@ My research is mainly focus on real-time scheduling, cyber-physical system desig
 Extra information:
 
 - I maintain a [conference tracking website for real-time/embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/).
-- I have an [educational blog on real-time systems](https://blog.xiaotiandai.com) to promote the basics of real-time systems.
 - I am a robot enthusiast and I build robots since 2009. Check my [robotic projects](/robots/). 
-- I do landscape and city photography in my part-time: [photography portfolio](https://xdaiphotography.com).
+- I am an amaeture photographer doing landscape and city photography: [photography portfolio](https://xdaiphotography.com).
 
-You can also find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
+You can find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
 
 ---
