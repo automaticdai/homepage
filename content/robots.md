@@ -1,6 +1,5 @@
 ---
 title: Robotic Projects
-date: 2022-01-12
 authorbox: false
 sidebar: false
 weight: 6

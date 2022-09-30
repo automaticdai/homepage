@@ -1,6 +1,5 @@
 ---
 title: Supervision
-date: 2022-01-12
 authorbox: false
 sidebar: false
 menu: main
@@ -14,19 +13,19 @@ toc: false
 
 Current PhD students:
 
-- Zou Jie, _Resource Efficient and Resillient Mixed-Criticality Scheduling for Autonomous Driving Systems_, joint supervision with John McDermid (2019-)
+- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid (2019-)
 
 ---
 
-*For potential PhD students:* I am interesed to supervise the following PhD topics:
+*\[For potential PhD students\]* 
+
+I am interesed to supervise the following PhD topics:
 
 - Novel scheduling and allocation methods and models for real-time systems;
 - Inteference and contention modelling and analysis of multi-cores;
 - Scheduling on multi-cores / CPU-GPU hetergeneous platforms;
 - Timing assurance of robotic and autonomous systems;
 - Multi-robot systems scheduling, management and coordination. 
-
-Please be aware that, by the university policy, I am only able to _co-supervise_ PhD students with another permanent university staff (with title Lecturer/Senior Lecturer/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me as your co-surpervisor. I am happy to have a discussion on request.
 
 ---
 
@@ -41,7 +40,7 @@ Previous students:
 
 ## Undergraduate Projects
 
-Final-year projects available:
+Final-year projects available to supervise:
 
 - Simulating and improving the scheduling in Time-Sensitive Networks
 - Large scale scheduling of Time-Sensitive Networks
@@ -49,7 +48,6 @@ Final-year projects available:
 
 Previous students:
 
-- Dean Kenny (2021)
-- Jay Brooks (2021)
+- Dean Kenny (2021), Jay Brooks (2021)
 
 ---

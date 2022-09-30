@@ -1,6 +1,5 @@
 ---
 title: Publications
-date: 2022-05-09
 authorbox: false
 sidebar: false
 menu: main
@@ -30,7 +29,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     Zou Jie, <u>Xiaotian Dai</u>, John McDermid <br> 
     (*TCAD*) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2022. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/document/9826899)    
-    
+
 - {{<tag-journal>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multi-core Systems by Modelling Parallelism and Dependency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate <br>
@@ -42,13 +41,14 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid <br>
      (*AEiC'22*) International Conference on Reliable Software Technologies. 2022.<br>
      [\[Slides\]](../files/Ada22-presentation.pdf) | [\[Poster\]](../files/Ada22-Poster_v2.pdf)
-     
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" >}}
     Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Yasuhisa Hirata, Alan Burns <br>
     (*ACC'22*) American Control Conference. 2022. <br>
     [\[Paper\]](https://arxiv.org/pdf/2206.05994.pdf) | [\[Slides\]](../files/ACC2022_Presentation.pdf)
+
+
 
 ## 2021
 - {{<tag-conference>}} <br>
@@ -60,9 +60,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-conference>}} <br>
     {{< bibtitle "Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges" >}}
     <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. <br>
-    (*RTAS'21*) IEEE Real-Time and Embedded Technology and Applications Symposium (*RTAS*). 2021.<br>
+    (*RTAS'21*) IEEE Real-Time and Embedded Technology and Applications Symposium. 2021.<br>
     [\[Paper\]](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf) <br>
-    
+
 - {{<tag-journal>}} <br> 
     {{< bibtitle "Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan <br> 
@@ -74,6 +74,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     Seyed A. Tafrishi, <u>Xiaotian Dai</u>, Vahid E. Kandjani <br>
     (*RAS*) Robotics and Autonomous Systems. 2021.<br>
     [\[Paper\]](https://arxiv.org/pdf/2008.09315.pdf) | [\[Video\]](https://www.youtube.com/watch?v=hh6B4aF7jDI) | [\[Code\]](https://github.com/SeyedAmirTafrishi/LCS_Filter)
+
+
 
 ## 2020
 - {{<tag-conference>}} <br> 
@@ -107,7 +109,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     (*JSA*) Journal of Systems Architecture. 2020.  <br> 
     (*) Accepted and presented at *Ada-Europe* 2019. <br>
     [\[Paper\]](https://doi.org/10.1016/j.sysarc.2019.101691) | [\[Code\]](https://github.com/automaticdai/research-period-adaptation)
-    
+
+
+
 ## 2019
 - {{<tag-conference>}} <br> 
     {{< bibtitle "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems" >}}
@@ -117,7 +121,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     
 - {{<tag-journal>}} {{<tag-conference>}}<br> 
     {{< bibtitle "A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design" >}}
-    <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao and Alan Burns <br> 
+    <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao, Alan Burns <br> 
     (*TECS*) ACM Transaction on Embedded Computer System. 2019. <br>
     (*) Accepted and presented at *EMSOFT* 2019.<br> 
     [\[Paper\]](https://dl.acm.org/citation.cfm?id=3358213) | [\[Slides\]](../files/ppt_emsoft_2019_dual_period_v3_rev1.pdf) | [\[Code\]](https://github.com/automaticdai/research-dual-period)
@@ -127,16 +131,17 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     Ran Wei, Tim Kelly, <u>Xiaotian Dai</u>, Shuai Zhao, Richard Hawkins <br> 
     (*JSS*) Journal of Software Systems. 2019. <br>
     [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0164121219301062?via%3Dihub) <br> 
-    
-## 2018
+
+
+
+## 2018 (and before)
 - {{<tag-thesis>}} <br> 
     {{< bibtitle "Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems" >}}
     <u>Xiaotian Dai</u> <br> 
     PhD Thesis. University of York. 2018. <br> 
-    (*) Best Thesis Award of Computer Science 2019, University of York.<br> 
+    (*) Best Thesis Award of Computer Science, University of York.<br> 
     [\[Paper\]](http://etheses.whiterose.ac.uk/23950/) 
 
-## 2017
 - {{<tag-conference>}} <br> 
     {{< bibtitle "Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems" >}}
     <u>Xiaotian Dai</u>, Alan Burns<br> 
