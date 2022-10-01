@@ -23,7 +23,7 @@ toc: false
 ## Conference/Workshop Organisation
 
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
-- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC @ RTSS 2022</u>)
+- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC 2022 @ RTSS</u>)
 - *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
@@ -35,11 +35,11 @@ toc: false
 
 ## Conference TPC Member
 
-- *TPC Member*, IEEE Real-Time Systems Symposium (Artifacts) (<u>RTSS 2022</u>)
-- *TPC Member*, Euromicro Conference on Real-Time Systems (Artifacts) (<u>ECRTS 2022, ECRTS 2019</u>)
-- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop (<u>RAGE @ DAC 2022</u>)
-- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (Industry Paper Track) (<u>RTAS 2021</u>) 
+- *TPC Member*, IEEE Real-Time Systems Symposium (<u>RTSS 2022 (AE)</u>)
+- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021</u>)
+- *TPC Member*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2022 (AE), ECRTS 2019 (AE)</u>)
 - *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop (<u>RAGE 2022 @ DAC</u>)
 - *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2022, AEiC 2021</u>)
 - *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
 - *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
