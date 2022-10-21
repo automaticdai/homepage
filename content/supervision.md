@@ -11,12 +11,6 @@ toc: false
 
 ## PhD Supervision
 
-Current PhD students:
-
-- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid (2019-)
-
----
-
 *\[For potential PhD students\]* 
 
 I am interesed to supervise the following PhD topics:
@@ -27,11 +21,16 @@ I am interesed to supervise the following PhD topics:
 - Timing assurance of robotic and autonomous systems;
 - Multi-robot systems scheduling, management and coordination. 
 
+Please drop me an email if you want to discuss this further.
+
+Current PhD students:
+
+- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid (2019-)
+
+
 ---
 
 ## MSc Research Projects
-
-Previous students:
 
 - Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_ (2021)
 - Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised (2021)

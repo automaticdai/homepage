@@ -32,6 +32,7 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ## News and Events
 
+- {{< news "conference" >}} Oct 2022: @ISoLA'22, I am giving a talk on Digital Twin for Real-Time Embedded Systems in the Digital Twin track session
 - {{< news "service" >}} Sep 2022: Invited as the Web Chair and a PC member of RTAS'23
 - {{< news "service" >}} July 2022: Invited as a PC member (Artifacts) of RTSS'22 
 - {{< news "service" >}} July 2022: Invited as a PC member of ICESS'22
@@ -60,10 +61,10 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ---
 
-## Extra Information
+## Extras
 
-- I maintain a [conference tracking website for real-time/embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/).
-- I am a robot enthusiast and I build robots since 2009. Check my [robotic projects](/robots/). 
-- I am an amaeture photographer on landscape and city photography: [photography portfolio](https://xdaiphotography.com).
+- I am the maintainer of [conference tracking for real-time/embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/).
+- Check my [robot projects](/robots/) as part of my research and as a part-time hobby. 
+- I am an amaeture landscape and cityscape photographer: [photography portfolio](https://xdaiphotography.com).
 
 ---
