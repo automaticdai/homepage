@@ -17,12 +17,14 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 - {{<tag-journal>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
-    (*TC*) IEEE Transactions on Computers. 2022.
+    (*TC*) IEEE Transactions on Computers. 2022.  
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9869703)
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Using Digital Twins in the Development of Complex Dependable Real-Time Embedded Systems" >}}
     <u>Xiaotian Dai</u>, Shuai Zhao, Benjamin Lesage, Iain Bate <br>
-    (*ISoLA'22*) 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation. 2022.
+    (*ISoLA'22*) 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation. 2022.  
+    [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-19762-8_4)
 
 - {{<tag-journal>}} <br>
     {{< bibtitle "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication" >}}
@@ -36,7 +38,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     (*TPDS*) IEEE Transactions on Parallel and Distributed Systems. 2022. <br>
     [\[Paper\]](https://eprints.whiterose.ac.uk/187710/1/Zhao_2022_Dag_scheduling_and_analysis_on_mult.pdf)
 
-- {{<tag-workshop>}} <br>
+- {{<tag-conference>}} <br>
     {{< bibtitle "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" >}}
     Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid <br>
      (*AEiC'22*) International Conference on Reliable Software Technologies. 2022.<br>

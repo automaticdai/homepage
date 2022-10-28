@@ -13,6 +13,7 @@ toc: false
 
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
 - (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
+- University member of the Safety-Critical System Club (SCSC), UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
 - Member of IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
 - Member of IET (MIET)

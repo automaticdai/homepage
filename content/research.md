@@ -61,29 +61,22 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 
 ---
 
-
 ## Research Involvement
-### ➤ AAIP: The Assuring Autonomy International Programme 
+### [➤ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/) 
 
-[\[Project Website\]](https://www.york.ac.uk/assuring-autonomy/)
-
-- Contributed to demonstration robot of the new ISA (Institute for Safe Autonomy) building.
-- Involved in irregular technical meetings and discussions.
+- Contributed to demonstration robot of the ISA (Institute for Safe Autonomy) building.
+- Involved in irregular technical meetings and informal discussions.
 
 ---
 
-### ➤ CyPhyAssure 
-
-[\[Project Website\]](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
+### [➤ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/) 
 
 - Contributed to formal methods for safety cases using SACM.
 - Contributed to tool integration of safety case and Issabelle server.
 
 ---
 
-### ➤ FiC: Future factories in the Cloud 
-
-[\[Project Website\]](https://research.chalmers.se/en/project/7231)
+### [➤ FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231)) 
 
 - Proposed using timing-related statisitcs to form dynamic geo-fencing systems.
 - Contributed to timing analysis methods of geo-fencing systems.

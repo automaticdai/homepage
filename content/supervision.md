@@ -9,31 +9,31 @@ toc: false
 
 ---
 
-## PhD Supervision
+## For potential PhD students 
 
-*\[For potential PhD students\]* 
+If you are interested to apply for a PhD, I am happy to supervise the following topics:
 
-I am interesed to supervise the following PhD topics:
+1. Novel scheduling and allocation methods for real-time systems
+2. Inteference and contention modelling and analysis of multi-cores
+3. Scheduling on complex architetures, including many-cores and CPU-GPU hetergeneous platforms
+4. Timing assurance of robotic and autonomous systems using, for example, formal methods
+5. Multi-robot systems scheduling, management and coordination
 
-- Novel scheduling and allocation methods and models for real-time systems;
-- Inteference and contention modelling and analysis of multi-cores;
-- Scheduling on multi-cores / CPU-GPU hetergeneous platforms;
-- Timing assurance of robotic and autonomous systems;
-- Multi-robot systems scheduling, management and coordination. 
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would be appreciated if a more detailed proposal can be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting date can be settled.
 
-Please drop me an email if you want to discuss this further.
+---
 
-Current PhD students:
+## Current PhD students
 
-- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid (2019-)
+- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid (2019-2023)
 
 
 ---
 
 ## MSc Research Projects
 
-- Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_ (2021)
-- Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised (2021)
+- (2021) Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_
+- (2021) Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised
 
 ---
 
