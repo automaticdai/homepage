@@ -53,7 +53,7 @@ toc: false
 - IEEE Real-Time Systems Symposium (<u>RTSS 2022, RTSS 2021</u>)
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021, RTAS 2020, RTAS 2019</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- IEEE Conference on Robotics and Automation (<u>ICRA 2022</u>) 
+- IEEE Conference on Robotics and Automation (<u>ICRA 2023, ICRA 2022</u>) 
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
 - Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
 - Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2022, AEiC 2021</u>)
@@ -78,5 +78,16 @@ toc: false
 - Software - Practice and Experience, Wiley
 - Journal of Circuits, Systems and Computers (JCSC)
 - Connection Science
+
+---
+
+## Consultancy
+
+Over 10 years of expertise and successful experience in:
+
+- Design and verification of Real-Time Embedded Systems
+- Real-Time Operating Systems and Real-Time Linux
+- Embedded systems for consumer electronics and industrial automation
+- Robotic systems for factories and warehouses.
 
 ---

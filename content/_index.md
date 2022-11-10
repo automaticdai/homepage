@@ -22,8 +22,9 @@ My current research is mainly focus on real-time scheduling, cyber-physical syst
 
 Extra information:
 
-- I am the maintainer of [conference tracking for real-time embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/).
-- Check my [robot projects](/robots/) as part of my research and as a part-time hobby. 
+- Educational blogs in real-time systems: [Real-Time Systems Blog](https://blog.xiaotiandai.com)
+- [Conference tracking of real-time embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/) which is maintained by myself.
+- My [robotics projects](/robots/) as part of my research and as a part-time hobby. 
 - I am an amaeture landscape and cityscape photographer: my [photography portfolio](https://xdaiphotography.com).
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]

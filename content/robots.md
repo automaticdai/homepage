@@ -1,5 +1,5 @@
 ---
-title: Robotic Projects
+title: Robotics Projects
 authorbox: false
 sidebar: false
 weight: 6
@@ -11,11 +11,11 @@ Robotics is not only part of my research but also where my passion is --- I am a
 
 ---
 
-## Service Robot for Institute for Safe Autonomy (2021)
+## Service Robot for Institute for Safe Autonomy Building (2022)
 
 Institute for Safe Autonomy (ISA) is a new building for conducting safety and autonomous systems related-research. As part of the building plan, some service mobile robots will be deployed into the building for the purpose of delivery, guidance and research.
 
-This robot is still under development. I will come back for more details once the project is progressed.
+This robot is still under development by my PhD student. I will come back for more details once the project has progressed.
 
 ---
 

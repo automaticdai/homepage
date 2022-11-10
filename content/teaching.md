@@ -11,7 +11,7 @@ toc: false
 
 ## @ University of York
 
-Course Instructor:
+Course (Co-)Instructor:
 
 - \[HIPC\] High Performance Computing Systems (Spring 2021-2022)
 
