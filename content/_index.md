@@ -18,14 +18,14 @@ I am a Research Associate on the MOCHA research project, working with [Prof. Iai
 
 Before MOCHA, I worked on the EU H2020 [DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Dr. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). The DEIS project involves developing of model-based safety assurance language (using [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/); now is an OMG standard) and tools that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer. 
 
-My current research is mainly focus on real-time scheduling, cyber-physical system design and analysis with an emphasis on improving scheduling flexibility and adaptiveness. My reseach has lead to many novel modelling, scheduling and analysis methods as well as hardware for system with timing requirements. I also work on timing predictability of robotic and autonomous systems (RAS) to ensure their safety, robustness and resilience. 
+My current research is mainly focus on real-time systems and cyber-physical systems, focusing on timing analysis and improving scheduling flexibility and adaptiveness. My reseach leads to many novel modelling, scheduling and analysis methods as well as hardware for system with timing requirements. I also work on timing predictability of robotic and autonomous systems (RAS) to ensure their safety, robustness and resilience. 
 
 Extra information:
 
 - Educational blogs in real-time systems: [Real-Time Systems Blog](https://blog.xiaotiandai.com)
 - [Conference tracking of real-time embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/) which is maintained by myself.
 - My [robotics projects](/robots/) as part of my research and as a part-time hobby. 
-- I am an amaeture landscape and cityscape photographer: my [photography portfolio](https://xdaiphotography.com).
+- I am an amaeture landscape and cityscape photographer: [photography portfolio](https://xdaiphotography.com).
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 

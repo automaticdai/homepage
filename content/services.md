@@ -14,7 +14,7 @@ toc: false
 - Member of Real-Time Systems Research Group (RTSRG), University of York, UK
 - (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
 - University member of the Safety-Critical System Club (SCSC), UK
-- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED), Design Automation (ACM SIGDA) 
 - Member of IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
 - Member of IET (MIET)
 
@@ -34,21 +34,35 @@ toc: false
 
 ---
 
-## Conference TPC Member
+## Conference/Workshop TPC Member
 
 - *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021</u>)
 - *TPC Member*, IEEE Real-Time Systems Symposium (<u>RTSS 2022 (AE)</u>)
+- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
 - *TPC Member*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2022 (AE), ECRTS 2019 (AE)</u>)
+- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
 - *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *TPC Member*, 1st Real-time And intelliGent Edge computing workshop (<u>RAGE 2022 @ DAC</u>)
 - *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2022, AEiC 2021</u>)
-- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
-- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
 
 
 ---
 
-## Conference Reviewer
+## Journals and Conferences Reviewer
+### Journals Reviewer
+
+- ACM Transactions on Embedded Computing Systems (TECS)
+- Journal of Sytems Architecture (JSA), Elsevier
+- Robotics and Autonomous Systems (RAS), Elsevier
+- Microprocessors and Microsystems (MICPRO), Elsevier
+- IEEE Access
+- IEEE Transactions on Sustainable Energy
+- Computers & Operations Research (COR), Elsevier
+- Software - Practice and Experience, Wiley
+- Journal of Circuits, Systems and Computers (JCSC)
+- Connection Science
+
+### Conferences Reviewer
 
 - IEEE Real-Time Systems Symposium (<u>RTSS 2022, RTSS 2021</u>)
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021, RTAS 2020, RTAS 2019</u>)
@@ -62,32 +76,3 @@ toc: false
 - Design, Automation and Test in Europe Conference (<u>DATE 2021, DATE 2020</u>)
 - Design Automation Conference (<u>DAC 2020</u>)
 - International Conference on Embedded Software (<u>EMSOFT 2020</u>)
-
-
----
-
-## Journal Reviewer
-
-- ACM Transactions on Embedded Computing Systems (TECS)
-- Journal of Sytems Architecture (JSA), Elsevier
-- Robotics and Autonomous Systems (RAS), Elsevier
-- Microprocessors and Microsystems (MICPRO), Elsevier
-- IEEE Access
-- IEEE Transactions on Sustainable Energy
-- Computers & Operations Research (COR), Elsevier
-- Software - Practice and Experience, Wiley
-- Journal of Circuits, Systems and Computers (JCSC)
-- Connection Science
-
----
-
-## Consultancy
-
-Over 10 years of expertise and successful experience in:
-
-- Design and verification of Real-Time Embedded Systems
-- Real-Time Operating Systems and Real-Time Linux
-- Embedded systems for consumer electronics and industrial automation
-- Robotic systems for factories and warehouses.
-
----
