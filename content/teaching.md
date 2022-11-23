@@ -13,7 +13,7 @@ toc: false
 
 ### Course Instructor
 
-- **[HIPC]** High Performance Computing Systems (Spring 2021-2022)
+- **[HIPC]** High Performance Computing Systems (Spring 2021-2022), co-instructing with Dr. Steven Wright
 
 ### Teaching Assistant
 

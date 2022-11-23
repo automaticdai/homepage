@@ -18,7 +18,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
     **(*TC*)** IEEE Transactions on Computers. 2022. <br>
-    (*) Invited talk at 9th Workshop on Mixed-Criticality Systems (WMC @RTSS 2022). <br> 
+    (*) Invited talk at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS). <br>
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9869703)
 
 - {{<tag-conference>}} <br>
@@ -29,7 +29,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 - {{<tag-journal>}} <br>
     {{< bibtitle "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication" >}}
-    Zou Jie, <u>Xiaotian Dai</u>, John McDermid <br> 
+    Zou Jie, <u>Xiaotian Dai</u>, John McDermid <br>
     **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2022. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/document/9826899)    
 
@@ -66,9 +66,9 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*RTAS'21*)** IEEE Real-Time and Embedded Technology and Applications Symposium. 2021.<br>
     [\[Paper\]](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf) <br>
 
-- {{<tag-journal>}} <br> 
+- {{<tag-journal>}} <br>
     {{< bibtitle "Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems" >}}
-    Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan <br> 
+    Zhe Jiang, <u>Xiaotian Dai</u>, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan <br>
     **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2021. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/document/9354856)
 
@@ -81,77 +81,77 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 
 ## 2020
-- {{<tag-conference>}} <br> 
+- {{<tag-conference>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency" >}}
-    Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang <br> 
-    **(*RTSS'20*)** 41th IEEE Real-Time Systems Symposium. 2020.<br> 
+    Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang <br>
+    **(*RTSS'20*)** 41th IEEE Real-Time Systems Symposium. 2020.<br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf) | [\[Video\]](https://www.youtube.com/watch?v=DriyJdDGtNc) | [\[Code\]](https://github.com/automaticdai/research-dag-scheduling-analysis)
-    
-- {{<tag-conference>}} <br> 
+
+- {{<tag-conference>}} <br>
     {{< bibtitle "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks" >}}
-    <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang <br> 
-    **(*ICCAD'20*)** International Conference on Computer Aided Design. 2020. <br> 
+    <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang <br>
+    **(*ICCAD'20*)** International Conference on Computer Aided Design. 2020. <br>
     (*) Best Paper Nomination<br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf) | [\[Video\]](https://www.youtube.com/watch?v=fPSlHvK1NGc) | [\[Code\]](https://github.com/automaticdai/research-sched-tsn)
-    
-- {{<tag-conference>}} <br> 
+
+- {{<tag-conference>}} <br>
     {{< bibtitle "Timing-Accurate General-Purpose I/O for Multi- and Many-Core Systems: Scheduling and Hardware Support" >}}
-    Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang <br> 
+    Shuai Zhao, Zhe Jiang, <u>Xiaotian Dai</u>, Iain Bate, Ibrahim Habli, Wanli Chang <br>
     **(*DAC'20*)** Design Automation Conference. 2020.<br>
-    [\[Paper\]](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf) <br> 
-    
-- {{<tag-conference>}} <br> 
+    [\[Paper\]](http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf) <br>
+
+- {{<tag-conference>}} <br>
     {{< bibtitle "All in One Network for Driver Attention Monitoring" >}}
     Dawei Yang, Xinlei Li, <u>Xiaotian Dai</u>, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang <br>
     **(*ICASSP'20*)** 45th International Conference on Acoustics, Speech and Processing. 2020.<br>
-    [\[Paper\]](http://eprints.whiterose.ac.uk/158675/) <br> 
-    
-- {{<tag-journal>}} <br> 
+    [\[Paper\]](http://eprints.whiterose.ac.uk/158675/) <br>
+
+- {{<tag-journal>}} <br>
     {{< bibtitle "Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems" >}}
     <u>Xiaotian Dai</u>, Alan Burns. <br>
-    **(*JSA*)** Journal of Systems Architecture. 2020.  <br> 
+    **(*JSA*)** Journal of Systems Architecture. 2020.  <br>
     (*) Accepted and presented at *Ada-Europe* 2019. <br>
     [\[Paper\]](https://doi.org/10.1016/j.sysarc.2019.101691) | [\[Code\]](https://github.com/automaticdai/research-period-adaptation)
 
 
 
 ## 2019 (and before)
-- {{<tag-conference>}} <br> 
+- {{<tag-conference>}} <br>
     {{< bibtitle "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems" >}}
-    Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei <br> 
+    Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei <br>
     **(*RTSS'19*)** 40th IEEE Real-Time Systems Symposium. 2019.<br>
-    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9052193) <br> 
-    
-- {{<tag-thesis>}} <br> 
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9052193) <br>
+
+- {{<tag-thesis>}} <br>
     {{< bibtitle "Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems" >}}
-    <u>Xiaotian Dai</u> <br> 
-    PhD Thesis. University of York. 2019. <br> 
-    (*) Best Thesis Award of Computer Science, University of York.<br> 
+    <u>Xiaotian Dai</u> <br>
+    PhD Thesis. University of York. 2019. <br>
+    (*) Best Thesis Award of Computer Science Department, University of York.<br>
     [\[Thesis\]](http://etheses.whiterose.ac.uk/23950/)
 
-- {{<tag-journal>}} <br> 
+- {{<tag-journal>}} <br>
     {{< bibtitle "A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design" >}}
-    <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao, Alan Burns <br> 
+    <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao, Alan Burns <br>
     **(*TECS*)** ACM Transaction on Embedded Computer System. 2019. <br>
-    (*) Accepted and presented at *EMSOFT* 2019.<br> 
+    (*) Accepted and presented at *EMSOFT* 2019.<br>
     [\[Paper\]](https://dl.acm.org/citation.cfm?id=3358213) | [\[Slides\]](../files/emsoft19_dual_period_v3_rev1.pdf) | [\[Code\]](https://github.com/automaticdai/research-dual-period)
-     
-- {{<tag-journal>}} <br> 
-    {{< bibtitle "Model Based System Assurance Using the Structured Assurance Case Metamodel" >}}
-    Ran Wei, Tim Kelly, <u>Xiaotian Dai</u>, Shuai Zhao, Richard Hawkins <br> 
-    **(*JSS*)** Journal of Software Systems. 2019. <br>
-    [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0164121219301062?via%3Dihub) <br> 
 
-- {{<tag-conference>}} <br> 
+- {{<tag-journal>}} <br>
+    {{< bibtitle "Model Based System Assurance Using the Structured Assurance Case Metamodel" >}}
+    Ran Wei, Tim Kelly, <u>Xiaotian Dai</u>, Shuai Zhao, Richard Hawkins <br>
+    **(*JSS*)** Journal of Software Systems. 2019. <br>
+    [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0164121219301062?via%3Dihub) <br>
+
+- {{<tag-conference>}} <br>
     {{< bibtitle "Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems" >}}
-    <u>Xiaotian Dai</u>, Alan Burns<br> 
-    **(*AEiC'17*)** International Conference on Reliable Software Technologies. 2017.<br> 
+    <u>Xiaotian Dai</u>, Alan Burns<br>
+    **(*AEiC'17*)** International Conference on Reliable Software Technologies. 2017.<br>
     [\[Paper\]](https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6) | [\[Code\]](https://github.com/automaticdai/research-wcet-trend-analysis)
 
-- {{<tag-thesis>}} <br> 
+- {{<tag-thesis>}} <br>
     {{< bibtitle "Visual-Based Localization and Tracking of a UGV with a Quadcopter" >}}
-    <u>Xiaotian Dai</u> <br> 
-    Master Thesis. University of Sheffield. 2014. <br> 
+    <u>Xiaotian Dai</u> <br>
+    Master Thesis. University of Sheffield. 2014. <br>
     [\[Thesis\]](../files/Visual-Based-Localization-and-Tracking-of-a-UGV-with-a-Quadcopter.pdf)
 
 ---
