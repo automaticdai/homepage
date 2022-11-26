@@ -23,4 +23,4 @@
 .row{ display: flex; clear: both; align-items: flex-start;}
 .col-md {display: inline-block; width: 50%; padding-right: 50px; white-space: normal;}
 
-.large-text{ font-size: 18px; font-weight: 900;}
+.large-text{ font-size: 20px; font-weight: 1000;}

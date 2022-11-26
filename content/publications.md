@@ -18,7 +18,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
     **(*TC*)** IEEE Transactions on Computers. 2022. <br>
-    (*) Invited talk at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS). <br>
+    *(\*) Invited talk at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)*. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9869703)
 
 - {{<tag-conference>}} <br>
@@ -91,7 +91,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks" >}}
     <u>Xiaotian Dai</u>, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang <br>
     **(*ICCAD'20*)** International Conference on Computer Aided Design. 2020. <br>
-    (*) Best Paper Nomination<br>
+    *(\*) Best Paper Nomination* <br>
     [\[Paper\]](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf) | [\[Video\]](https://www.youtube.com/watch?v=fPSlHvK1NGc) | [\[Code\]](https://github.com/automaticdai/research-sched-tsn)
 
 - {{<tag-conference>}} <br>
@@ -110,7 +110,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems" >}}
     <u>Xiaotian Dai</u>, Alan Burns. <br>
     **(*JSA*)** Journal of Systems Architecture. 2020.  <br>
-    (*) Accepted and presented at *Ada-Europe* 2019. <br>
+    *(\*) Accepted and presented at *Ada-Europe* 2019.* <br>
     [\[Paper\]](https://doi.org/10.1016/j.sysarc.2019.101691) | [\[Code\]](https://github.com/automaticdai/research-period-adaptation)
 
 
@@ -126,14 +126,14 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems" >}}
     <u>Xiaotian Dai</u> <br>
     PhD Thesis. University of York. 2019. <br>
-    (*) Best Thesis Award of Computer Science Department, University of York.<br>
+    *(\*) Best Thesis Award, Computer Science Department, University of York.*<br>
     [\[Thesis\]](http://etheses.whiterose.ac.uk/23950/)
 
 - {{<tag-journal>}} <br>
     {{< bibtitle "A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design" >}}
     <u>Xiaotian Dai</u>, Wanli Chang, Shuai Zhao, Alan Burns <br>
     **(*TECS*)** ACM Transaction on Embedded Computer System. 2019. <br>
-    (*) Accepted and presented at *EMSOFT* 2019.<br>
+    *(\*) Accepted and presented at *EMSOFT* 2019.* <br>
     [\[Paper\]](https://dl.acm.org/citation.cfm?id=3358213) | [\[Slides\]](../files/emsoft19_dual_period_v3_rev1.pdf) | [\[Code\]](https://github.com/automaticdai/research-dual-period)
 
 - {{<tag-journal>}} <br>
