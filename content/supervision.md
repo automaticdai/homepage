@@ -15,18 +15,18 @@ Note that a PhD programme is a commitment of 3-4 years of hard work, and you sho
 
 I am happy to supervise the following research directions with some example topics:
 
-1. Scheduling and allocation of real-time systems
+- (R.1) Scheduling and allocation of real-time systems
     - Novel scheduling and allocation methods for real-time systems
     - Inteference and contention modelling and analysis on multi- and many-cores
     - Scheduling on complex architetures, including many-cores and CPU-GPU hetergeneous platforms
-2. Addressing timing problems in Robotics and AI
+- (R.2) Addressing timing problems in Robotics and AI
     - Timing assurance of robotic and autonomous systems using, for example, probabilistic models and formal methods
     - Multi-robot systems scheduling, management and coordination
     - Timing analysis of ROS 2 executors
-3. Design and verification of Cyber-Physical Systems
+- (R.3) Design and verification of Long-lived Cyber-Physical Systems
     - Using digital twin to develop and improve CPS
     - Formal verification of CPS
-4. Hardware for real-time systems and internet-of-things
+- (R.4) Hardware for real-time systems and internet-of-things
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
@@ -41,15 +41,21 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 
 ---
 
-## MSc Students
+## MSc Research Projects
 
 - (2021) Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_ 
 - (2021) Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised
 
 ---
 
-## Undergraduate Students
+## Undergraduate Projects
 
+PRBX projects:
+- Simulating and improving the scheduling in Time-Sensitive Networks
+- Large scale scheduling of Time-Sensitive Networks
+- Time-aware geo-fencing for mobile robots
+
+Previous students:
 - Dean Kenny (2021), Jay Brooks (2021)
 
 ---

@@ -11,9 +11,7 @@ toc: false
 
 ## Research Interests
 
-My research is mainly in the domain of real-time embedded systems, cyber-physical systems and autonomous systems. The research vision is to work towards adaptive, safe and predictable real-time systems (ASP-RTS).
-
-My main research covers the following research topics:
+My research is mainly in the domain of real-time embedded systems, cyber-physical systems and autonomous systems. My research vision is to work towards adaptive, safe and predictable real-time systems. My main research covers the following research topics:
 
 - Real-time systems, including scheduling and allocation on single- and multi-cores, and timing predictable hardware;
 - Flexible and feedback-based methods for task/network scheduling in CPS;
@@ -21,9 +19,11 @@ My main research covers the following research topics:
 - Using Digital Twins for design, verification and optimization of real-time systems and CPS;
 - Assuring timing and safety of robotic and autonomous systems.
 
+![](/img/wordcloud.png)
+
 I am working with researchers from the UK, US, France, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems both from industry and academia, with a focus on timing guarantee.
 
-![](/img/wordcloud.png)
+
 
 
 ---

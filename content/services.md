@@ -12,11 +12,10 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
-- University member of the Safety-Critical System Club (SCSC), UK
+- Member of High Integrity Systems Engineering (HISE), University of York, UK (former) 
+- Member of the Safety-Critical System Club (SCSC), UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED), Design Automation (ACM SIGDA)
 - Member of IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
-- Member of IET (MIET)
 
 ---
 

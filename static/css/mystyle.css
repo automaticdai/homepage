@@ -1,6 +1,22 @@
+.body {
+    background: #ffff;
+}
+
+.container {
+	position: relative;
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.container--outer {
+	margin: 25px auto;
+	box-shadow: 0 0 0px rgba(50, 50, 50, .17);
+}
+
 .flex {
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 20px;
+  padding-right: 100px;
 }
 
 .flex-container {
