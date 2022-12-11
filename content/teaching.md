@@ -11,8 +11,8 @@ toc: false
 
 ## @ University of York
 
-- Spring 2022/23: <u>[HIPC]</u> High Performance Computing Systems, Instructor, co-instructing with Dr. Steven Wright
-- Spring 2021/22: <u>[HIPC]</u> High Performance Computing Systems, Instructor, co-instructing with Dr. Steven Wright
+- Spring 2022/23: [<u>[HIPC]</u> High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/), co-instructing with Dr. Steven Wright
+- Spring 2021/22: [<u>[HIPC]</u> High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22), co-instructing with Dr. Steven Wright
 - Spring 2019/20: <u>[DART]</u> Design of Analysable Real-Time Systems, Teaching Assistant
 - Autumn 2016/17: <u>[EMPR-II]</u> Embedded System Projects II, Teaching Assistant
 - Spring 2016/17: <u>[EMPR-I]</u> Embedded System Projects I, Teaching Assistant

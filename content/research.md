@@ -70,3 +70,11 @@ Other research projects I am informally involved as a contributor/collaborator:
 ### [➤ FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
 
 ---
+
+## Open-Source Software
+- [DAG Scheduling Simulator on Multiprocessor Systems](https://github.com/automaticdai/research-dag-scheduling-analysis)
+- [dag-gen-rnd: A Randomized Multi-DAG Task Generator for Scheduling and Allocation Research](https://github.com/automaticdai/dag-gen-rnd)
+- [Fixed Priority Scheduling and Controller Co-Design for TSN](https://github.com/automaticdai/research-sched-tsn)
+- [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
+
+---
