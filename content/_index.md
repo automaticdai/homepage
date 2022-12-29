@@ -45,7 +45,8 @@ Xiaotian Dai is a Research Associate at the University of York, UK. He received 
 
 ## News
 
-- {{< news "news" >}} Dec 2022: @ RTSS'22 --- I will be hosting the Workshop on Mixed-Criticality (WMC) virtually at RTSS 2022. See you there!
+- {{< news "service" >}} Dec 2022: Invited as a TPC member of RAGE'23 @ CPS-IoT Week
+- {{< news "news" >}} Dec 2022: @ RTSS'22 --- I will host the Workshop on Mixed-Criticality (WMC) virtually at RTSS 2022. See you all there!
 - {{< news "event" >}} Nov 2022: Call-for-participation: the 9th Workshop on Mixed-Criticality (WMC) will be held in December co-located with RTSS 2022. You can find the [workshop program](https://wmc2022.github.io/program/) and information on [registration](http://2022.rtss.org/registration/).
 - {{< news "service" >}} Nov 2022: Invited as a PC member of Ada-Europe'23
 - {{< news "paper" >}} Nov 2022: Our paper, A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems, is published to IEEE TC [[Paper]](https://ieeexplore.ieee.org/abstract/document/9869703)

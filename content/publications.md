@@ -43,7 +43,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems" >}}
     Zou Jie, <u>Xiaotian Dai</u>, John A. McDermid <br>
      **(*AEiC'22*)** International Conference on Reliable Software Technologies. 2022.<br>
-     \[Paper\] | [\[Slides\]](../files/Ada22-presentation.pdf) | [\[Poster\]](../files/Ada22-Poster_v2.pdf)
+     [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3577949.3577965) | [\[Slides\]](../files/Ada22-presentation.pdf) | [\[Poster\]](../files/Ada22-Poster_v2.pdf)
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling" >}}

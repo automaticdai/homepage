@@ -34,17 +34,17 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 
 ---
 
-## PhD Research Students
+## PhD Students
 
-- (2019-) Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid
+- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid, 2019-
 
 
 ---
 
-## MSc Research Projects
+## MSc Students
 
-- (2021) Zhijian Wang, _Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources_ 
-- (2021) Zixun Yu, _Smart Intersection Control with Back-Pressure Algorithms_, co-supervised
+- Zhijian Wang, *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*, 2021
+- Zixun Yu, *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised, 2021
 
 ---
 
@@ -56,6 +56,6 @@ PRBX projects:
 - Time-aware geo-fencing for mobile robots
 
 Previous students:
-- Dean Kenny (2021), Jay Brooks (2021)
+- Dean Kenny (2021)
 
 ---

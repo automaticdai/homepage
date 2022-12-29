@@ -12,17 +12,17 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- Member of High Integrity Systems Engineering (HISE), University of York, UK (former) 
+- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
 - Member of the Safety-Critical System Club (SCSC), UK
-- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED), Design Automation (ACM SIGDA)
-- Member of IEEE Computer Society (IEEE CS), IEEE Robotics and Automation Society (IEEE RAS)
+- Member of ACM Special Interest Group on Embedded Systems (SIGBED), Design Automation (SIGDA)
+- Member of IEEE Computer Society (CS), IEEE Robotics and Automation Society (RAS)
 
 ---
 
 ## Conference Organisation
 
-- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC 2022 @ RTSS</u>)
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
+- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC 2022 @ RTSS</u>)
 - *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
 - *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
@@ -33,13 +33,13 @@ toc: false
 
 ## Conference PC Member
 
+- *TPC Member*, Real-time And intelliGent Edge computing workshop (<u>RAGE 2023 @ CPS-IoT, RAGE 2022 @ DAC</u>)
 - *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021</u>)
 - *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2023, AEiC 2022, AEiC 2021</u>)
 - *TPC Member*, IEEE Real-Time Systems Symposium (<u>RTSS 2022 (AE)</u>)
 - *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
 - *TPC Member*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2022 (AE), ECRTS 2019 (AE)</u>)
 - *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
-- *TPC Member*, 1st Real-time And intelliGent Edge computing workshop (<u>RAGE 2022 @ DAC</u>)
 - *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
 
 ---
