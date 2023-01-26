@@ -9,7 +9,7 @@ toc: false
 
 ---
 
-#### *For Prospective PhD students:* 
+#### *For prospective PhD students:*
 
 Note that a PhD programme is a commitment of 3-4 years of hard work, and you should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested to apply for a PhD, please continue to read ---
 
@@ -30,32 +30,16 @@ I am happy to supervise the following research directions with some example topi
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would be appreciated if a more detailed proposal can be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting date can be settled. 
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would be appreciated if a more detailed proposal can be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting date can be settled.
 
 ---
 
-## PhD Students
-
-- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. John McDermid, 2019-
-
-
----
-
-## MSc Students
-
-- Zhijian Wang, *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*, 2021
-- Zixun Yu, *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised, 2021
-
----
-
-## Undergraduate Projects
+#### *For student projects:*
 
 PRBX projects:
 - Simulating and improving the scheduling in Time-Sensitive Networks
 - Large scale scheduling of Time-Sensitive Networks
 - Time-aware geo-fencing for mobile robots
 
-Previous students:
-- Dean Kenny (2021)
 
 ---

@@ -5,7 +5,7 @@
 .container {
 	position: relative;
 	width: 100%;
-	max-width: 1200px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
 
@@ -15,8 +15,8 @@
 }
 
 .flex {
-  padding-left: 0px;
-  padding-right: 200px;
+  padding-left: 0%;
+  padding-right: 5%;
 }
 
 .flex-container {

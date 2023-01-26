@@ -29,7 +29,7 @@ I am working with researchers from the UK, US, France, Portugal and China (mainl
 ---
 
 ## Research Projects
-### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
+### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures [active]
 
 *(2019 - 2022) PostDoc Reseacher, University of York*  
 *Funded by Huawei Technologies Co. Ltd, £985,927*
@@ -61,13 +61,29 @@ In a Cyber-Physical Control System (CPCS), there is often a hybrid of hard real-
 
 In this study, an adaptive real-time scheduling framework for CPCS is presented. The adaptive scheduler has a hierarchical structure and it is built on top of a traditional FPS scheduler. The idea of dynamic worst-case execution time is introduced and its cause and methods to identify the existence of a trend are discussed. An adaptation method that uses monitored statistical information to update control task periods is then introduced. Finally, this method is extended by proposing a dual-period model that can switch between multiple operational modes at run-time. The proposed framework can be potentially extended in many aspects and some of these are discussed in the future work. All proposals of this thesis are supported by extensive analysis and evaluations.
 
+
+
+---
+
+## Research Team
+
+PhD Students:
+- Zou Jie, *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid (2019-)
+
+Master Students:
+- Zhijian Wang, *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* (2021)
+- Zixun Yu, *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised (2021)
+
+Undergraduates:
+- Dean Kenny (2021), Jay Brooks (2021)
+
 ---
 
 ## Research Involvement
-Other research projects I am informally involved as a contributor/collaborator:
-### [➤ AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
-### [➤ CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
-### [➤ FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
+Other research projects I am informally involved:
+- [AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
+- [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
+- [FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
 
 ---
 

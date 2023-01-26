@@ -14,33 +14,30 @@ toc: false
 
 ## About
 
-*I am starting as a Lecturer (Assitant Professor) in June 2023 at the Department of Computer Science, University of York.*
+*I am starting a position as a Lecturer (Assitant Professor) in June 2023 at the Department of Computer Science, University of York.*
 
-I am currently a Research Associate on the MOCHA research project, working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements, using novel methods including Digital Twins and cache-aware scheduling. The project is targeted for key techniques of the next-generation 5G/6G communication base stations. You can know more on the [MOCHA project website](https://www.cs.york.ac.uk/rts/mocha/).
+Currently I am a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/), working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), funded by Huawei.
+The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements, using novel methods including Digital Twins and cache-aware scheduling. The project is targeted for providing key techniques of the next-generation 5G/6G communication base stations.
 
 Before MOCHA, I worked on the EU H2020 [DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Dr. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). The DEIS project involves developing of model-based safety assurance language (using [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/); now is an OMG standard) and tools that is applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motor and Fraunhofer.
 
-My current research is mainly focus on real-time systems and cyber-physical systems, focusing on timing analysis and improving scheduling flexibility and adaptiveness. My reseach leads to many novel modelling, scheduling and analysis methods as well as hardware for system with timing requirements. I also work on timing predictability of robotic and autonomous systems (RAS) to ensure their safety, robustness and resilience.
+My research is mainly focus on real-time and cyber-physical systems, focusing on timing analysis and improving scheduling flexibility and adaptiveness over lifetime, leaning towards applications in robotics and autonomous systems. My research has led to many novel modelling, scheduling and analysis methods as well as hardware for systems with timing requirements. I also published work on timing predictability of robotic and autonomous systems (RAS) to ensure their safety, robustness and resilience.
 
----
 
-Extras:  
+### Biography
 
-- Educational blogs in real-time systems: [Real-Time Systems Blog](https://blog.xiaotiandai.com).
-- [Conference tracking of real-time embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/) which is maintained by me.
-- You might interest in my [robotics projects](/robots/) as part of my research and as a part-time hobby.
-- I am an amaeture landscape and cityscape photographer: [photography portfolio](https://xdaiphotography.com).
+Xiaotian Dai is a Research Associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group at York in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), in which various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance. He received an MSc with distinction in Automatic Control and Systems Engineering from the University of Sheffield in 2014, and a BSc in Automatic Control in 2011. He serves as a regular TPC member and reviewer for various real-time, embedded, robotics and design automation conferences and journals.
+
+
+### Misc
+
+- [Conference tracking of real-time & embedded systems](https://automaticdai.github.io/realtime-embedded-conferences/) maintained by me.
+- You might interest in [my robotics projects](/robots/) as part of my research and as a part-time entertainment.
+- I really enjoy landscape and cityscape photography: check [my photography portfolio](https://automaticdai.wixsite.com/site)
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
 ---
-
-### Biography
-
-Xiaotian Dai is a Research Associate at the University of York, UK. He received a PhD degree from University of York in 2019 (with Best Thesis). He joined real-time systems group at York in 2015 as a PhD research student, supervised by Prof. Alan Burns. His PhD research involves cooperatively design of control system and real-time task scheduling for Cyber-Physical Systems (CPS), in which various flexible scheduling task models are proposed and implemented to investigate the scheduling impact on control performance. He received an MSc with distinction in Automatic Control and Systems Engineering from the University of Sheffield in 2014, and a BSc in Automatic Control in 2011. He serves as a reviewer and a PC member for many IEEE/ACM real-time, embedded and design automation conferences and journals.
-
----
-
 
 
 ## News

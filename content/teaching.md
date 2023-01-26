@@ -11,14 +11,17 @@ toc: false
 
 ## @ University of York
 
-- Spring 2022/23: <u>[HIPC]</u> [High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/), co-instructing with Dr. Steven Wright
-- Spring 2021/22: <u>[HIPC]</u> [High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22), co-instructing with Dr. Steven Wright
-- Spring 2019/20: <u>[DART]</u> Design of Analysable Real-Time Systems, Teaching Assistant
-- Autumn 2016/17: <u>[EMPR-II]</u> Embedded System Projects II, Teaching Assistant
-- Spring 2016/17: <u>[EMPR-I]</u> Embedded System Projects I, Teaching Assistant
-- Summer 2016/17: <u>[PROM]</u> Programmable Microcontroller, Teaching Assistant
-- Spring 2016/17: <u>[MFCS]</u> Mathematical Foundations of Computer Systems, Teaching Assistant
-- Summer 2015/16: <u>[PROM]</u> Programmable Microcontroller, Teaching Assistant
-- Spring 2015/16: <u>[ICAR]</u> Introduction to Computer Architecture, Teaching Assistant
+Current modules:
+- Spring 2022/23: [High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) <u>[HIPC]</u>, co-instructing with Dr. Steven Wright
+
+Past modules:
+- Spring 2021/22: [High Performance Computing Systems](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22) <u>[HIPC]</u>, co-instructing with Dr. Steven Wright
+- Spring 2019/20: Design of Analysable Real-Time Systems <u>[DART]</u>, Teaching Assistant
+- Autumn 2016/17: Embedded System Projects II <u>[EMPR-II]</u>, Teaching Assistant
+- Spring 2016/17: Embedded System Projects I <u>[EMPR-I]</u>, Teaching Assistant
+- Summer 2016/17: Programmable Microcontroller <u>[PROM]</u>, Teaching Assistant
+- Spring 2016/17: Mathematical Foundations of Computer Systems <u>[MFCS]</u>, Teaching Assistant
+- Summer 2015/16: Programmable Microcontroller <u>[PROM]</u>, Teaching Assistant
+- Spring 2015/16: Introduction to Computer Architecture <u>[ICAR]</u>, Teaching Assistant
 
 ---

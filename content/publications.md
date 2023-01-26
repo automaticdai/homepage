@@ -13,12 +13,22 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
+## 2023
+
+- Nothing published yet. I am trying!
+
 ## 2022
+
+- {{<tag-workshop>}} <br>
+    {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
+    Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
+    **(*WMC'22*)** *(\*) Invited paper at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)*. <br>
+    [\[Paper\]](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf)
+
 - {{<tag-journal>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
     **(*TC*)** IEEE Transactions on Computers. 2022. <br>
-    *(\*) Invited talk at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)*. <br>
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9869703)
 
 - {{<tag-conference>}} <br>

@@ -21,26 +21,35 @@ toc: false
 
 ## Conference Organisation
 
-- *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
-- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems (<u>WMC 2022 @ RTSS</u>)
+- (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
+- (<u>WMC 2022</u>) *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS
 - *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
-- *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
-- *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- (<u>RTNS 2021</u>) *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems
+- (<u>ICESS 2020</u>) *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems
+- (<u>DSD 2020</u>) *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design
 
 
 ---
 
 ## Conference PC Member
 
-- *TPC Member*, Real-time And intelliGent Edge computing workshop (<u>RAGE 2023 @ CPS-IoT, RAGE 2022 @ DAC</u>)
-- *TPC Member*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021</u>)
-- *TPC Member*, Ada-Europe International Conference on Reliable Software Technologies  (<u>AEiC 2023, AEiC 2022, AEiC 2021</u>)
-- *TPC Member*, IEEE Real-Time Systems Symposium (<u>RTSS 2022 (AE)</u>)
-- *TPC Member*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
-- *TPC Member*, Euromicro Conference on Real-Time Systems (<u>ECRTS 2022 (AE), ECRTS 2019 (AE)</u>)
-- *TPC Member*, Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
-- *TPC Member*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
+- (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
+- (<u>AEiC 2023</u>) Ada-Europe International Conference on Reliable Software Technologies  
+- (<u>RAGE 2023</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- (<u>RAGE 2022</u>) Real-time And intelliGent Edge computing workshop @ DAC
+- (<u>AEiC 2022</u>) Ada-Europe International Conference on Reliable Software Technologies  
+- (<u>RTSS 2022</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
+- (<u>ECRTS 2022</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>ICESS 2022</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>DSD 2022</u>) Euromicro Conference on Digital System Design
+- (<u>AEiC 2021</u>) Ada-Europe International Conference on Reliable Software Technologies
+- (<u>RTNS 2021</u>) International Conference on Real-Time Networks and Systems
+- (<u>ICESS 2021</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>RTAS 2021</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
+- (<u>ICESS 2020</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>DSD 2020</u>) Euromicro Conference on Digital System Design
+- (<u>ECRTS 2019</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+
 
 ---
 
@@ -58,17 +67,17 @@ toc: false
 - Journal of Circuits, Systems and Computers (JCSC)
 - Connection Science
 
-### ➤ Conferences Reviewer
+### ➤ Conferences (Sub-)Reviewer
 
-- IEEE Real-Time Systems Symposium (<u>RTSS 2022, RTSS 2021</u>)
-- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023, RTAS 2021, RTAS 2020, RTAS 2019</u>)
-- International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- IEEE Conference on Robotics and Automation (<u>ICRA 2023, ICRA 2022</u>)
-- IEEE International Conference on Embedded Software and Systems (<u>ICESS 2022, ICESS 2021, ICESS 2020</u>)
-- Euromicro Conference on Digital System Design (<u>DSD 2022, DSD 2020</u>)
-- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC 2022, AEiC 2021</u>)
-- IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (<u>RTCSA 2021</u>)
-- International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (<u>CASES 2021</u>)
-- Design, Automation and Test in Europe Conference (<u>DATE 2021, DATE 2020</u>)
-- Design Automation Conference (<u>DAC 2020</u>)
-- International Conference on Embedded Software (<u>EMSOFT 2020</u>)
+- <u>RTSS 2022, RTSS 2021</u>
+- <u>RTAS 2023, RTAS 2021, RTAS 2020, RTAS 2019</u>
+- <u>RTNS 2021</u>
+- <u>ICRA 2023, ICRA 2022</u>
+- <u>ICESS 2022, ICESS 2021, ICESS 2020</u>
+- <u>DSD 2022, DSD 2020</u>
+- <u>AEiC 2022, AEiC 2021</u>
+- <u>RTCSA 2021</u>
+- <u>CASES 2021</u>
+- <u>DATE 2021, DATE 2020</u>
+- <u>DAC 2020</u>
+- <u>EMSOFT 2020</u>
