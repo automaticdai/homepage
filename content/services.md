@@ -34,8 +34,8 @@ toc: false
 ## Conference PC Member
 
 - (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
-- (<u>AEiC 2023</u>) Ada-Europe International Conference on Reliable Software Technologies  
 - (<u>RAGE 2023</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- (<u>AEiC 2023</u>) Ada-Europe International Conference on Reliable Software Technologies  
 - (<u>RAGE 2022</u>) Real-time And intelliGent Edge computing workshop @ DAC
 - (<u>AEiC 2022</u>) Ada-Europe International Conference on Reliable Software Technologies  
 - (<u>RTSS 2022</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
@@ -56,15 +56,15 @@ toc: false
 ## Journals and Conferences Reviewer
 ### ➤ Journals Reviewer
 
-- ACM Transactions on Embedded Computing Systems (TECS)
-- Journal of Sytems Architecture (JSA), Elsevier
-- Robotics and Autonomous Systems (RAS), Elsevier
-- Microprocessors and Microsystems (MICPRO), Elsevier
-- Computers & Operations Research (COR), Elsevier
-- IEEE Transactions on Sustainable Energy
+- (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
+- (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
+- (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
+- (<u>COR</u>) Computers & Operations Research, Elsevier
+- (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
+- (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - IEEE Access
 - Software - Practice and Experience, Wiley
-- Journal of Circuits, Systems and Computers (JCSC)
+- (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - Connection Science
 
 ### ➤ Conferences (Sub-)Reviewer
@@ -81,3 +81,5 @@ toc: false
 - <u>DATE 2021, DATE 2020</u>
 - <u>DAC 2020</u>
 - <u>EMSOFT 2020</u>
+
+---

@@ -34,12 +34,25 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 
 ---
 
-#### *For student projects:*
+#### *For MSc / Final-year projects:*
 
 PRBX projects:
 - Simulating and improving the scheduling in Time-Sensitive Networks
 - Large scale scheduling of Time-Sensitive Networks
-- Time-aware geo-fencing for mobile robots
 
+---
+
+## Supervised Students
+
+PhDs:
+- Zou Jie (2019-2023) | *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow at the University of York 
+
+MSc/MEng:
+- Zhijian Wang (2021) | *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | Tesla
+- Zixun Yu (2021) | *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised
+
+Undergraduates:
+- Dean Kenny (2021) | *Simulation of Time-Sensitive Networks*
+- Jay Brooks (2021) | *Large Scale Scheduling of Time-Sensitive Networks*
 
 ---

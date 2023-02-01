@@ -15,7 +15,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## 2023
 
-- Nothing published yet. I am trying!
+- Nothing published yet. I am trying hard!
 
 ## 2022
 
