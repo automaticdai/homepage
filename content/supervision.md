@@ -34,17 +34,17 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 
 ---
 
-#### *For MSc / Final-year projects:*
+***For MSc / Final-year projects:***
 
-PRBX projects:
-- Simulating and improving the scheduling in Time-Sensitive Networks
-- Large scale scheduling of Time-Sensitive Networks
+- (PRBX) Simulating and improving the scheduling in Time-Sensitive Networks
+- (PRBX) Large scale scheduling of Time-Sensitive Networks
+- (MSc) Traffic scheduling for smart transportation
 
 ---
 
-## Supervised Students
+## Research Team
 
-PhDs:
+PhD:
 - Zou Jie (2019-2023) | *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow at the University of York 
 
 MSc/MEng:

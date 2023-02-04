@@ -22,7 +22,7 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 
 ![](/img/wordcloud.png)
 
-*[Call-for-Collaborations]* I am working with academics and companies from inside the UK, US, France, Germany, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
+*[Collaborations]* I am working with academics and companies from inside the UK, US, France, Germany, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
 
 ---
 
