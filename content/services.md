@@ -33,6 +33,7 @@ toc: false
 
 ## Conference PC Member
 
+- (<u>ECRTS 2023</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 - (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
 - (<u>RAGE 2023</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
 - (<u>AEiC 2023</u>) Ada-Europe International Conference on Reliable Software Technologies  
@@ -57,11 +58,12 @@ toc: false
 ### ➤ Journals Reviewer
 
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
+- (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
 - (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
+- (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
 - (<u>COR</u>) Computers & Operations Research, Elsevier
 - (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
-- (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - IEEE Access
 - Software - Practice and Experience, Wiley
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers

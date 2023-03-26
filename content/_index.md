@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2022-01-12
+date: 2023-03-26
 authorbox: false
 sidebar: false
 menu: main
@@ -44,6 +44,8 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
+- {{< news "news" >}} Mar 2023: Two conference papers were accpeted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
+- {{< news "news" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems"
 - {{< news "service" >}} Dec 2022: Invited as a TPC member of RAGE'23 @ CPS-IoT Week
 - {{< news "news" >}} Dec 2022: @ RTSS'22 --- I will host the Workshop on Mixed-Criticality (WMC) virtually at RTSS 2022. See you all there!
 - {{< news "event" >}} Nov 2022: Call-for-participation: the 9th Workshop on Mixed-Criticality (WMC) will be held in December co-located with RTSS 2022. You can find the [workshop program](https://wmc2022.github.io/program/) and information on [registration](http://2022.rtss.org/registration/).
@@ -68,13 +70,7 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 - {{< news "service" >}} Apr 2021: RTNS'21 --- invited as the Systems Session Chair
 - {{< news "service" >}} Jan 2021: RTAS'21 --- invited as a PC member (Brief Industry Paper track)
 - {{< news "service" >}} Jan 2021: Ada-Europe'21 --- invited as a PC member
-- {{< news "talk" >}} Dec 2020: @ 5th Annual UK System Research Challenges Workshop, Dec 10 --- presented by Iain Bate
-- {{< news "talk" >}} Dec 2020: @ RTSS'20, Dec 13 --- *DAG Scheduling and Analysis on Multiprocessor Systems* (presented by Dr. Zhao) [[Video]](https://www.youtube.com/watch?v=DriyJdDGtNc)
-- {{< news "service" >}} Nov 2020: ICESS'20 --- Resource Management session chair
-- {{< news "talk" >}} Nov 2020: @ ICCAD'20, Nov 11 --- *Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks* [[Video]](https://www.youtube.com/watch?v=fPSlHvK1NGc)
-- {{< news "service" >}} Sep 2020: RTNS'21 --- invited as the Publicity Chair & PC member
-- {{< news "news" >}} Apr 2020: *"Best PhD Thesis Award"*, Department of Computer Science, University of York
-- {{< news "service" >}} Apr 2020: ICESS'20 --- invited as a PC member
-- {{< news "service" >}} Feb 2020: DSD'20 --- invited as the Design of CPS Session Chair & PC member
 
 ---
+
+(Last updated: {{<lastmod>}})

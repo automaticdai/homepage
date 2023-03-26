@@ -42,17 +42,17 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 
 ---
 
-## Research Team
+## FA-CPS: Flexible and Adaptive Cyber-Physical Systems lab
 
 PhD:
-- Zou Jie (2019-2023) | *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow at the University of York 
+- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow, University of York 
 
 MSc/MEng:
-- Zhijian Wang (2021) | *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | Tesla
-- Zixun Yu (2021) | *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised
+- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | Research Scientist, Tesla
+- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | Research Scientist in Smart Transportation
 
 Undergraduates:
-- Dean Kenny (2021) | *Simulation of Time-Sensitive Networks*
-- Jay Brooks (2021) | *Large Scale Scheduling of Time-Sensitive Networks*
+- Dean Kenny (2021), *Simulation of Time-Sensitive Networks*
+- Jay Brooks (2021), *Large Scale Scheduling of Time-Sensitive Networks*
 
 ---

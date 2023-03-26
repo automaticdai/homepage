@@ -27,9 +27,21 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 ---
 
 ## Research Projects
-### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures [active]
+### ➤ HICLASS: High-Integrity, Complex, Large, Software And Electronic Systems
 
-*(2019 - 2022) PostDoc Reseacher, University of York*  
+*(2023 - ) Research Associate, University of York*  
+*Funded by UKRI
+
+HICLASS is a project to enable the delivery of the most complex software-intensive, safe and cyber-secure systems in the world. 
+
+The project is a strategic initiative to drive new technologies and best-practice throughout the UK aerospace supply chain, enabling the UK to affordably develop systems for the growing aircraft and avionics market expected over the next decades. It includes key primes, system suppliers, software companies and universities working together to meet the challenge of growing system complexity and size.
+
+HICLASS will allow development of new, complex, intelligent and internet-connected electronic products, safe and secure from cyber-attack that can be affordably certified.
+
+
+### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
+
+*(2019 - 2022) Research Associate, University of York*  
 *Funded by Huawei Technologies Co. Ltd, £985,927*
 
 The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
@@ -38,22 +50,22 @@ The key challenges that emerge are whether the models reflect how the system wou
 
 ![cpc-model](/img/cpc-model.png)
 
-[\[Project Website\]](https://www.cs.york.ac.uk/rts/mocha/)
+For more information: [\[Project Website\]](https://www.cs.york.ac.uk/rts/mocha/)
 
----
+
 
 ### ➤ DEIS: Dependability Engineering Innovation for CPS
 
-*(2018 - 2019) PostDoc Researcher, University of York*  
+*(2018 - 2019) Research Associate, University of York*  
 *Funded by EU Horizon 2020, €4.9M*
 
 Cyber-Physical-Systems (CPS) provide the potential for vast economic and societal impact in domains such as automotive, health care and home automation. The open and cooperative nature of CPS poses a significant new challenge in assuring dependability. The DEIS project addresses this important and unsolved challenge by developing technologies that enable a science of dependable system integration. Such technologies facilitate the efficient synthesis of components and systems based on their dependability information. The key innovation in the approach of the DEIS project is the concept of Digital Dependability Identity (DDI). A DDI contains all the information that uniquely describes the dependability characteristics of a CPS component. DDIs are used for the integration of components into systems during development as well as for the dynamic integration of systems into systems of systems in the field.
 
 ![ode](/img/ode.png)
 
-[\[Project Website\]](http://www.deis-project.eu/) | [\[DDI Demo Video\]](https://www.youtube.com/watch?v=dlcUkhwhinw&ab_channel=DEISProject-EU)
+For more information: [\[Project Website\]](http://www.deis-project.eu/) | [\[DDI Demo Video\]](https://www.youtube.com/watch?v=dlcUkhwhinw&ab_channel=DEISProject-EU)
 
----
+
 
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
 

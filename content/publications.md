@@ -15,14 +15,32 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## 2023
 
-- Nothing published yet. I am trying hard!
+- {{<tag-conference>}} <br>
+    {{< bibtitle "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" >}}
+    Shuai Zhao, <u>Xiaotian Dai</u>, Benjamin Lesage, Iain Bate <br>
+    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br> 
+    
+- {{<tag-conference>}} <br>
+    {{< bibtitle "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling" >}}
+    Benjamin Lesage, <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate <br>
+    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br>    
+    
+- {{<tag-workshop>}} <br>
+    {{< bibtitle "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" >}}
+    Zhe Jiang, <u>Xiaotian Dai</u>, Shuai Zhao, Ran Wei, Ian Gray <br>
+    **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
+    
+- {{<tag-workshop>}} <br>
+    {{< bibtitle "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems" >}}
+    Jie Zou, <u>Xiaotian Dai</u>, John McDermid <br>
+    **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
 
 ## 2022
 
 - {{<tag-workshop>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
-    **(*WMC'22*)** *(\*) Invited paper at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)*. <br>
+    **(*WMC'22*)** *(\*) Invited paper at 9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)*. 2022 <br>
     [\[Paper\]](https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf)
 
 - {{<tag-journal>}} <br>
