@@ -19,7 +19,7 @@ toc: false
 
 ---
 
-## Conference Organisation
+## Conference Organisation and Chairing
 
 - (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>WMC 2022</u>) *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS
@@ -31,8 +31,9 @@ toc: false
 
 ---
 
-## Conference PC Member
+## Conference TPC Member
 
+- (<u>TAS 2023</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2023</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 - (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
 - (<u>RAGE 2023</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week

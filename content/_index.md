@@ -36,7 +36,7 @@ Xiaotian Dai is a Research Associate at the University of York, UK. He joined re
 - Please find [this page](https://www.xiaotiandai.com/supervision/) for more information on PhD opportunities.
 - [Real-time & embedded systems conferences tracking website](https://automaticdai.github.io/realtime-embedded-conferences/) maintained by me.
 - You might interest in [my robotics projects](/robots/) as part of my research and part-time entertainment.
-- Landscape and cityscape photography: check [my photography portfolio](https://automaticdai.wixsite.com/site)
+- Landscape and cityscape photography: check [my photography portfolio](https://automaticdai.wixsite.com/home)
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
@@ -44,8 +44,9 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
-- {{< news "news" >}} Mar 2023: Two conference papers were accpeted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
-- {{< news "news" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems"
+- {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
+- {{< news "paper" >}} Mar 2023: Two conference papers were accpeted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
+- {{< news "paper" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems"
 - {{< news "service" >}} Dec 2022: Invited as a TPC member of RAGE'23 @ CPS-IoT Week
 - {{< news "news" >}} Dec 2022: @ RTSS'22 --- I will host the Workshop on Mixed-Criticality (WMC) virtually at RTSS 2022. See you all there!
 - {{< news "event" >}} Nov 2022: Call-for-participation: the 9th Workshop on Mixed-Criticality (WMC) will be held in December co-located with RTSS 2022. You can find the [workshop program](https://wmc2022.github.io/program/) and information on [registration](http://2022.rtss.org/registration/).

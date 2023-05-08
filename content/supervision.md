@@ -32,6 +32,8 @@ I am happy to supervise the following research directions with some example topi
 
 Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would be appreciated if a more detailed proposal can be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting date can be settled.
 
+The department is offering limited a number of studentships, details can be found [here](https://www.cs.york.ac.uk/postgraduate/research-degrees/sets-doctoral-centre/).
+
 ---
 
 ***For MSc / Final-year projects:***
