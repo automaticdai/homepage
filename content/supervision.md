@@ -1,5 +1,5 @@
 ---
-title: Supervision
+title: Team
 authorbox: false
 sidebar: false
 menu: main
@@ -7,18 +7,35 @@ weight: 5
 toc: false
 ---
 
+
+## FAS-CPS: Flexible and Adaptive Scheduling for Cyber-Physical Systems lab
+
+PostDocs:
+- Nan Chen (2023-)
+
+PhD students:
+- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow, University of York 
+
+MSc/MEng students:
+- Zirui Yuan (2023), "Discrete Simulation of Routerless NoCs"
+- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | Research Scientist, Tesla
+- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | Research Scientist in Smart Transportation
+
+UG students:
+- Dipken Fung (2023), Dean Kenny (2021), Jay Brooks (2021)
+
 ---
 
-#### *For prospective PhD students:*
+#### *Information for prospective PhD students:*
 
-Note that a PhD programme is a commitment of 3-4 years of hard work, and you should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested to apply for a PhD, please continue to read ---
+Note that a PhD programme is a commitment of 3-4 years of hard work, and you should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested in applying for a PhD, please continue to read ---
 
 I am happy to supervise the following research directions with some example topics:
 
 - (R.1) Scheduling and allocation of real-time systems
     - Novel scheduling and allocation methods for real-time systems
-    - Inteference and contention modelling and analysis on multi- and many-cores
-    - Scheduling on complex architetures, including many-cores and CPU-GPU hetergeneous platforms
+    - Interference and contention modelling and analysis on multi- and many-cores
+    - Scheduling on complex architectures, including many-cores and CPU-GPU heterogeneous platforms
 - (R.2) Addressing timing problems in Robotics and AI
     - Timing assurance of robotic and autonomous systems using, for example, probabilistic models and formal methods
     - Multi-robot systems scheduling, management and coordination
@@ -30,31 +47,19 @@ I am happy to supervise the following research directions with some example topi
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would be appreciated if a more detailed proposal can be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting date can be settled.
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
 
 The department is offering limited a number of studentships, details can be found [here](https://www.cs.york.ac.uk/postgraduate/research-degrees/sets-doctoral-centre/).
 
 ---
 
-***For MSc / Final-year projects:***
+***Current MSc/UG3 projects:***
 
-- (PRBX) Simulating and improving the scheduling in Time-Sensitive Networks
-- (PRBX) Large scale scheduling of Time-Sensitive Networks
+- (UG3) Simulating and improving the scheduling in Time-Sensitive Networks
+- (UG3) Large-scale scheduling of Time-Sensitive Networks
 - (MSc) Traffic scheduling for smart transportation
+- (MSc) Discrete simulation of Routerless Network-on-Chips
 
 ---
 
-## FA-CPS: Flexible and Adaptive Cyber-Physical Systems lab
 
-PhD:
-- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow, University of York 
-
-MSc/MEng:
-- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | Research Scientist, Tesla
-- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | Research Scientist in Smart Transportation
-
-Undergraduates:
-- Dean Kenny (2021), *Simulation of Time-Sensitive Networks*
-- Jay Brooks (2021), *Large Scale Scheduling of Time-Sensitive Networks*
-
----
