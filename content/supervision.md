@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Research Team
 authorbox: false
 sidebar: false
 menu: main
