@@ -1,5 +1,5 @@
 ---
-title: Research Team
+title: FAS-CPS
 authorbox: false
 sidebar: false
 menu: main
@@ -11,7 +11,7 @@ toc: false
 ## FAS-CPS: Flexible and Adaptive Scheduling for Cyber-Physical Systems lab
 
 PostDocs:
-- Nan Chen (2023-)
+- Nan Chen (2023-), Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
 
 PhD students:
 - Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow, University of York 
