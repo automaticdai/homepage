@@ -17,7 +17,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 - {{<tag-chapter>}} <br>
     {{< bibtitle "Evolvement of Scheduling Theories for Autonomous Vehicles" >}}
-    Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>
+    Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>  <br>
     Springer. 2023. <br>
 
 - {{<tag-journal>}} <br>
