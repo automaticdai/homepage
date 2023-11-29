@@ -15,6 +15,21 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ## 2023
 
+- {{<tag-chapter>}} <br>
+    {{< bibtitle "Evolvement of Scheduling Theories for Autonomous Vehicles" >}}
+    Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>
+    Springer. 2023. <br>
+
+- {{<tag-journal>}} <br>
+    {{< bibtitle "NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability" >}}
+    Zhe Jiang, <u>Xiaotian Dai</u>, Ran Wei, Ian Gray, Zonghua Gu, Qingling Zhao, Shuai Zhao  <br>
+    **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023. <br>
+
+- {{<tag-journal>}} <br>
+    {{< bibtitle "Context-aware Graceful Degradation for Mixed-Criticality Scheduling in Autonomous Systems" >}}
+    Jie Zou, <u>Xiaotian Dai</u>, John A McDermid <br>
+    **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023. <br> 
+
 - {{<tag-conference>}} <br>
     {{< bibtitle "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Benjamin Lesage, Iain Bate <br>
