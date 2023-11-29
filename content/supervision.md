@@ -1,5 +1,5 @@
 ---
-title: FAS-CPS
+title: Supervision
 authorbox: false
 sidebar: false
 menu: main
@@ -11,9 +11,9 @@ toc: false
 ## FAS-CPS: Flexible and Adaptive Scheduling for Cyber-Physical Systems lab
 
 PostDocs:
-- Nan Chen (2023-), Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
+- Nan Chen (2023-), Research Fellows, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
 
-PhD students:
+PhDs:
 - Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | Research Fellow, University of York 
 
 MSc/MEng students:
@@ -47,9 +47,9 @@ I am happy to supervise the following research directions with some example topi
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal (details are [here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
 
-The department is offering limited a number of studentships, details can be found [here](https://www.cs.york.ac.uk/postgraduate/research-degrees/sets-doctoral-centre/).
+The department is offering a limited number of studentships, details can be found [here](https://www.cs.york.ac.uk/postgraduate/research-degrees/sets-doctoral-centre/).
 
 ---
 
