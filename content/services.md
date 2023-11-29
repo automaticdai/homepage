@@ -12,19 +12,24 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- (former) Member of High Integrity Systems Engineering (HISE), University of York, UK
+- (Previous) member of High Integrity Systems Engineering (HISE), University of York, UK
 - Member of the Safety-Critical System Club (SCSC), UK
-- Member of ACM Special Interest Group on Embedded Systems (SIGBED), Design Automation (SIGDA)
-- Member of IEEE Computer Society (CS), IEEE Robotics and Automation Society (RAS)
+- Member of ACM Special Interest Group on Embedded Systems (SIGBED)
+- Member of ACM Special Interest Group on Design Automation (SIGDA)
+- Member of IEEE Computer Society (CS)
+- Member of IEEE Robotics and Automation Society (RAS)
+
 
 ---
 
 ## Conference Organisation and Chairing
 
+- (<u>RTAS 2024</u>) *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>WMC 2022</u>) *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS
 - *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
-- (<u>RTNS 2021</u>) *Publicity Chair & Session Chair (Systems)*, International Conference on Real-Time Networks and Systems
+- (<u>RTNS 2021</u>) *Publicity Chair*, International Conference on Real-Time Networks and Systems
+- (<u>RTNS 2021</u>) *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems
 - (<u>ICESS 2020</u>) *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems
 - (<u>DSD 2020</u>) *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design
 
@@ -33,6 +38,7 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>RTSS 2023</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
 - (<u>TAS 2023</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2023</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 - (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
@@ -68,16 +74,18 @@ toc: false
 - IEEE Access
 - Software - Practice and Experience, Wiley
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers
+- Journal of Supercomputing
+- Computer Standards & Interfaces
 - Connection Science
 
-### ➤ Conferences (Sub-)Reviewer
+### ➤ Conferences Reviewer (and Sub-Reviewer)
 
-- <u>RTSS 2022, RTSS 2021</u>
-- <u>RTAS 2023, RTAS 2021, RTAS 2020, RTAS 2019</u>
+- <u>RTSS 2023, 2022, 2021</u>
+- <u>RTAS 2023, 2021, 2020, 2019</u>
 - <u>RTNS 2021</u>
-- <u>ICRA 2023, ICRA 2022</u>
-- <u>ICESS 2022, ICESS 2021, ICESS 2020</u>
-- <u>DSD 2022, DSD 2020</u>
+- <u>ICRA 2024, 2023, 2022</u>
+- <u>ICESS 2022, 2021, 2020</u>
+- <u>DSD 2022, 2020</u>
 - <u>AEiC 2022, AEiC 2021</u>
 - <u>RTCSA 2021</u>
 - <u>CASES 2021</u>
