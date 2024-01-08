@@ -37,7 +37,7 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
-- {{< news "news" >}} June 2023: I am staring a new position as a Lecturer at the University of York.
+- {{< news "news" >}} Oct 2023: I am starting a new position as a Lecturer at the University of York.
 - {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
 - {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
 - {{< news "paper" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems"
@@ -67,5 +67,3 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 - {{< news "service" >}} Jan 2021: Ada-Europe'21 --- invited as a PC member
 
 ---
-
-(Last updated: {{<lastmod>}})
