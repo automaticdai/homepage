@@ -80,17 +80,17 @@ toc: false
 
 ### ➤ Conferences Reviewer (and Sub-Reviewer)
 
-- <u>RTSS 2023, 2022, 2021</u>
-- <u>RTAS 2023, 2021, 2020, 2019</u>
-- <u>RTNS 2021</u>
-- <u>ICRA 2024, 2023, 2022</u>
-- <u>ICESS 2022, 2021, 2020</u>
-- <u>DSD 2022, 2020</u>
-- <u>AEiC 2022, AEiC 2021</u>
-- <u>RTCSA 2021</u>
-- <u>CASES 2021</u>
-- <u>DATE 2021, DATE 2020</u>
-- <u>DAC 2020</u>
-- <u>EMSOFT 2020</u>
+- RTSS'23, RTSS'22, RTSS'21
+- RTAS'23, RTAS'21, RTAS'20, RTAS'19
+- RTNS'21
+- ICRA'24, ICRA'23, ICRA'22
+- ICESS'22, ICESS'21, ICESS'20
+- DSD'22, DSD'20
+- AEiC'24, AEiC'23, AEiC'22, AEiC'21
+- RTCSA'21
+- CASES'21
+- DATE'21, DATE'20
+- DAC'20
+- EMSOFT'20
 
 ---
