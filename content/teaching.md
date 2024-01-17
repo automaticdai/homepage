@@ -13,8 +13,8 @@ toc: false
 
 Current modules:
 
-- <u>[HIPC]</u> **High Performance Computing Systems**  | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) | [2022/23](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2022-23) | [2021/22](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22) |
-- <u>[EMBS]</u> **Embedded Systems Design & Implementation**  | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2023-24) |
+- <u>[HIPC]</u> High Performance Computing Systems | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) | [2022/23](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2022-23) | [2021/22](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22) |
+- <u>[EMBS]</u> Embedded Systems Design & Implementation | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2023-24) |
 
 Past modules (as a teaching assistant):
 - Spring 2019/20: Design of Analysable Real-Time Systems <u>[DART]</u>
