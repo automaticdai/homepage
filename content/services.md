@@ -27,7 +27,7 @@ toc: false
 - (<u>RTAS 2024</u>) *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>WMC 2022</u>) *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS
-- *Workshop Co-Chair*, the workshop Innovative Defense Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
+- *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
 - (<u>RTNS 2021</u>) *Publicity Chair*, International Conference on Real-Time Networks and Systems
 - (<u>RTNS 2021</u>) *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems
 - (<u>ICESS 2020</u>) *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems
@@ -38,6 +38,9 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
+- (<u>AEiC 2024</u>) Ada-Europe International Conference on Reliable Software Technologies
 - (<u>RTSS 2023</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
 - (<u>TAS 2023</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2023</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
@@ -62,7 +65,11 @@ toc: false
 ---
 
 ## Journals and Conferences Reviewer
-### ➤ Journals Reviewer
+### ➤ Journal Editor
+
+- Guest Editor, Real-Time Systems Journal, Special Issue on Resource Partitioning for Modern Multicore Systems
+
+### ➤ Journal Reviewer
 
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
@@ -77,8 +84,9 @@ toc: false
 - Journal of Supercomputing
 - Computer Standards & Interfaces
 - Connection Science
+- Future Generation Computer Systems
 
-### ➤ Conferences Reviewer (and Sub-Reviewer)
+### ➤ Conference Reviewer (and Sub-Reviewer)
 
 - RTSS'23, RTSS'22, RTSS'21
 - RTAS'23, RTAS'21, RTAS'20, RTAS'19
