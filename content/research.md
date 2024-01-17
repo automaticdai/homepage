@@ -27,10 +27,16 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 ---
 
 ## Research Projects
+### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
+*(2023 - ) Co-Invesigator, University of York*
+*Funded by Innovate UK*
+
+
+
 ### ➤ HICLASS: High-Integrity, Complex, Large, Software And Electronic Systems
 
-*(2023 - ) Research Associate, University of York*  
-*Funded by UKRI
+*(2023) Research Associate, University of York*  
+*Funded by UKRI*
 
 HICLASS is a project to enable the delivery of the most complex software-intensive, safe and cyber-secure systems in the world. 
 
