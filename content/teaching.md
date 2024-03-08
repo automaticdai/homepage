@@ -13,16 +13,16 @@ toc: false
 
 Current modules:
 
-- <u>[HIPC]</u> High Performance Computing Systems | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) | [2022/23](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2022-23) | [2021/22](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22) |
-- <u>[EMBS]</u> Embedded Systems Design & Implementation | [2023/24](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2023-24) |
+- **Embedded Systems Design & Implementation** <u>[EMBS]</u>: [2023/24 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2023-24)
+- **High Performance Computing Systems** <u>[HIPC]</u>: [2023/24 Fall](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/latest/) | [2022/23 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2022-23) | [2021/22 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22)
+
 
 Past modules (as a teaching assistant):
-- Spring 2019/20: Design of Analysable Real-Time Systems <u>[DART]</u>
-- Autumn 2016/17: Embedded System Projects II <u>[EMPR-II]</u>
-- Spring 2016/17: Embedded System Projects I <u>[EMPR-I]</u>
-- Summer 2016/17: Programmable Microcontroller <u>[PROM]</u>
-- Spring 2016/17: Mathematical Foundations of Computer Systems <u>[MFCS]</u>
-- Summer 2015/16: Programmable Microcontroller <u>[PROM]</u>
-- Spring 2015/16: Introduction to Computer Architecture <u>[ICAR]</u>
+- **Design of Analysable Real-Time Systems** <u>[DART]</u>: 2019/20 Spring
+- **Embedded System Projects II** <u>[EMPR-II]</u>: 2016/17 Fall 
+- **Embedded System Projects I** <u>[EMPR-I]</u>: 2016/17 Spring
+- **Programmable Microcontroller** <u>[PROM]</u>: 2016/17 Summer | 2015/16 Summer
+- **Mathematical Foundations of Computer Systems** <u>[MFCS]</u>: 2016/17 Spring 
+- **Introduction to Computer Architecture** <u>[ICAR]</u>: 2015/16 Spring
 
 ---
