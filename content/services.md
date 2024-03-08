@@ -24,6 +24,7 @@ toc: false
 
 ## Conference Organisation and Chairing
 
+- (<u>SIES 2024</u>) *Publication Chair*, IEEE 14th International Symposium on Industrial Embedded Systems
 - (<u>RTAS 2024</u>) *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>WMC 2022</u>) *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS
@@ -38,6 +39,8 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>ECRTS 2024</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>RTSOPS 2024</u>) The 13th International Real-Time Scheduling Open Problems Seminar
 - (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
 - (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
 - (<u>AEiC 2024</u>) Ada-Europe International Conference on Reliable Software Technologies
