@@ -13,8 +13,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
-## 2023
-
 - {{<tag-chapter>}} <br>
     {{< bibtitle "Evolvement of Scheduling Theories for Autonomous Vehicles" >}}
     Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>  <br>
@@ -49,8 +47,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems" >}}
     Jie Zou, <u>Xiaotian Dai</u>, John McDermid <br>
     **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
-
-## 2022
 
 - {{<tag-workshop>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
@@ -94,9 +90,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*ACC'22*)** American Control Conference. 2022. <br>
     [\[Paper\]](https://arxiv.org/pdf/2206.05994.pdf) | [\[Slides\]](../files/ACC22_Presentation.pdf)
 
-
-
-## 2021
 - {{<tag-conference>}} <br>
     {{< bibtitle "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley <br>
@@ -121,9 +114,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*RAS*)** Robotics and Autonomous Systems. 2021.<br>
     [\[Paper\]](https://arxiv.org/pdf/2008.09315.pdf) | [\[Video\]](https://www.youtube.com/watch?v=hh6B4aF7jDI) | [\[Code\]](https://github.com/SeyedAmirTafrishi/LCS_Filter)
 
-
-
-## 2020
 - {{<tag-conference>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang <br>
@@ -156,9 +146,6 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     *(\*) Accepted and presented at *Ada-Europe* 2019.* <br>
     [\[Paper\]](https://doi.org/10.1016/j.sysarc.2019.101691) | [\[Code\]](https://github.com/automaticdai/research-period-adaptation)
 
-
-
-## 2019 (and before)
 - {{<tag-conference>}} <br>
     {{< bibtitle "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems" >}}
     Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei <br>
