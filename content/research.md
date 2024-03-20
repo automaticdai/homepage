@@ -28,15 +28,26 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 
 ## Research Projects
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
-*(2023 - ) Co-Invesigator, University of York*
-*Funded by Innovate UK*
+*(2023 - 2027) Co-Invesigator, University of York*  
+*Funded by Innovate UK, £22M*
 
+The next generation of aircraft, designed to meet net-zero targets, will require more complex, intelligent, autonomous, and connected systems, and at the heart of those software-enabled systems is the need for a cyber-secure, high-integrity processor.
+
+Microprocessor design and manufacture is complex, and typically commercial off-the-shelf automotive and general-purpose microprocessors are repurposed for aerospace. That approach has issues of obsolescence, complexity and design trade-offs that have long-term cost implications. Recent experience in the automotive industry has also demonstrated how the supply chain for off-the-shelf components can be significantly and adversely affected by global events such as COVID.
+
+Project SCHEME (Safety-Critical Harsh Environment Micro-processing Evolution) will develop a new generation of UK-native, safety critical and cyber-secure microprocessors. Developing a bespoke processor reduces design and through-life costs, ensures security of supply and provides protection from the global issues that face the semiconductor industry.
+
+The project will initially develop a control processor suitable for high-integrity control and monitoring. A manufacturing and support solution will be developed that provides better obsolescence protection than is available from off-the-shelf devices. It will also provide an associated electronics, security and software tooling infrastructure to enable the UK to strengthen its position in high-integrity avionics design and manufacturing.
+
+This project will build UK national resilience in this area and make the processor available not only to aerospace, but in other areas where systems operate in harsh environments. SCHEME will engage with the wider community to identify and pursue exploitation opportunities, including supporting potential adopters with microprocessor trials. The project will put the UK in a position to design and build the low-carbon, intelligent systems that will be critical to society in the future.
+
+The project is partly funded by the UK government agencies, BEIS, ATI, and Innovate UK. Rolls-Royce is joined by TT Electronics, Volant Autonomy, Rapita Systems, Adacore, The Manufacturing Technology Centre, Queen's University Belfast, University of Bristol, University of Sheffield, and University of York.
 
 
 ### ➤ HICLASS: High-Integrity, Complex, Large, Software And Electronic Systems
 
 *(2023) Research Associate, University of York*  
-*Funded by UKRI*
+*Funded by UKRI, £32M*
 
 HICLASS is a project to enable the delivery of the most complex software-intensive, safe and cyber-secure systems in the world. 
 
@@ -48,7 +59,7 @@ HICLASS will allow development of new, complex, intelligent and internet-connect
 ### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
 
 *(2019 - 2022) Research Associate, University of York*  
-*Funded by Huawei Technologies Co. Ltd, £985,927*
+*Funded by Huawei Technologies Co. Ltd, £1M*
 
 The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
 
@@ -86,7 +97,7 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ---
 
 ## Research Involvement
-Research projects that I am informally involved:
+Research projects which I am informally involved:
 - [AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
 - [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 - [FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
