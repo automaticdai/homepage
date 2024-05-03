@@ -41,6 +41,7 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
+- {{< news "service" >}} Apr 2024: Invited as a TPC member of TAS 2024 
 - {{< news "service" >}} Feb 2024: Invited as a TPC member of RTSOPS 2024 
 - {{< news "service" >}} Feb 2024: Invited as the Publication Chair of [SIES 2024](https://ieee-sies.org/) 
 - {{< news "news" >}} Oct 2023: I am starting a new position as a Lecturer at the University of York.
