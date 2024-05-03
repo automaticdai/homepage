@@ -12,12 +12,12 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- (Previous) member of High Integrity Systems Engineering (HISE), University of York, UK
+- (Former) member of High Integrity Systems Engineering (HISE), University of York, UK
 - Member of the Safety-Critical System Club (SCSC), UK
-- Member of ACM Special Interest Group on Embedded Systems (SIGBED)
-- Member of ACM Special Interest Group on Design Automation (SIGDA)
-- Member of IEEE Computer Society (CS)
-- Member of IEEE Robotics and Automation Society (RAS)
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
+- Member of ACM Special Interest Group on Design Automation (ACM SIGDA)
+- Member of IEEE Computer Society (IEEE CS)
+- Member of IEEE Robotics and Automation Society (IEEE RAS)
 
 
 ---
@@ -39,6 +39,7 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>TAS 2024</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2024</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 - (<u>RTSOPS 2024</u>) The 13th International Real-Time Scheduling Open Problems Seminar
 - (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
@@ -76,6 +77,7 @@ toc: false
 
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
+- (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
 - (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
 - (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
