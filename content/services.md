@@ -41,7 +41,6 @@ toc: false
 
 - (<u>TAS 2024</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2024</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
-- (<u>RTSOPS 2024</u>) The 13th International Real-Time Scheduling Open Problems Seminar
 - (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
 - (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
 - (<u>AEiC 2024</u>) Ada-Europe International Conference on Reliable Software Technologies
