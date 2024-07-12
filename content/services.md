@@ -39,6 +39,7 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>RTSS 2024</u>) IEEE Real-Time Systems Symposium, Brief Presentation track
 - (<u>TAS 2024</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>ECRTS 2024</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 - (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
