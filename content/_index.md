@@ -41,9 +41,10 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
+- {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
 - {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/) 
 - {{< news "service" >}} Feb 2024: Invited as the Publication Chair of [SIES 2024](https://ieee-sies.org/) 
-- {{< news "news" >}} Oct 2023: I am starting a new position as a Lecturer at the University of York.
+- {{< news "news" >}} Oct 2023: I am starting a new position as a Lecturer in Cyber-Physical Systems at the University of York.
 - {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/) 
 - {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
 - {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
