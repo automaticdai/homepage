@@ -24,6 +24,7 @@ toc: false
 
 ## Conference Organisation and Chairing
 
+- (<u>RTAS 2025</u>) *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>SIES 2024</u>) *Publication Chair*, IEEE 14th International Symposium on Industrial Embedded Systems
 - (<u>RTAS 2024</u>) *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2023</u>) *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium
@@ -75,6 +76,8 @@ toc: false
 
 ### ➤ Journal Reviewer
 
+- (<u>TC</u>) IEEE Transactions on Computers
+- (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
 - (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems

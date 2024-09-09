@@ -7,6 +7,10 @@ weight: 1
 toc: false
 ---
 
+- {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/).
+- {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
+- {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
+- {{< news "paper" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems"
 - {{< news "service" >}} Dec 2022: Invited as a TPC member of RAGE'23 @ CPS-IoT Week
 - {{< news "news" >}} Dec 2022: @ RTSS'22 --- I will host the Workshop on Mixed-Criticality (WMC) virtually at RTSS 2022. See you all there!
 - {{< news "event" >}} Nov 2022: Call-for-participation: the 9th Workshop on Mixed-Criticality (WMC) will be held in December co-located with RTSS 2022. You can find the [workshop program](https://wmc2022.github.io/program/) and information on [registration](http://2022.rtss.org/registration/).

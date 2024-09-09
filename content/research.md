@@ -44,17 +44,6 @@ This project will build UK national resilience in this area and make the process
 The project is partly funded by the UK government agencies, BEIS, ATI, and Innovate UK. Rolls-Royce is joined by TT Electronics, Volant Autonomy, Rapita Systems, Adacore, The Manufacturing Technology Centre, Queen's University Belfast, University of Bristol, University of Sheffield, and University of York.
 
 
-### ➤ HICLASS: High-Integrity, Complex, Large, Software And Electronic Systems
-
-*(2023) Research Associate, University of York*  
-*Funded by UKRI, £32M*
-
-HICLASS is a project to enable the delivery of the most complex software-intensive, safe and cyber-secure systems in the world. 
-
-The project is a strategic initiative to drive new technologies and best-practice throughout the UK aerospace supply chain, enabling the UK to affordably develop systems for the growing aircraft and avionics market expected over the next decades. It includes key primes, system suppliers, software companies and universities working together to meet the challenge of growing system complexity and size.
-
-HICLASS will allow development of new, complex, intelligent and internet-connected electronic products, safe and secure from cyber-attack that can be affordably certified.
-
 
 ### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
 

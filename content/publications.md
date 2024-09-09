@@ -17,36 +17,43 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "Evolvement of Scheduling Theories for Autonomous Vehicles" >}}
     Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>  <br>
     Springer. 2023. <br>
+    [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-28016-0_2)
 
 - {{<tag-journal>}} <br>
     {{< bibtitle "NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Ran Wei, Ian Gray, Zonghua Gu, Qingling Zhao, Shuai Zhao  <br>
     **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023. <br>
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10168011)
 
 - {{<tag-journal>}} <br>
     {{< bibtitle "Context-aware Graceful Degradation for Mixed-Criticality Scheduling in Autonomous Systems" >}}
     Jie Zou, <u>Xiaotian Dai</u>, John A McDermid <br>
-    **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023. <br> 
+    **(*TCAD*)** IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023. <br>
+    [\[Paper\]](https://ieeexplore.ieee.org/document/10310275)
 
 - {{<tag-conference>}} <br>
     {{< bibtitle "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Benjamin Lesage, Iain Bate <br>
-    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br> 
-    
+    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br>
+    [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3575757.3593642)
+
 - {{<tag-conference>}} <br>
     {{< bibtitle "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling" >}}
     Benjamin Lesage, <u>Xiaotian Dai</u>, Shuai Zhao, Iain Bate <br>
-    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br>    
-    
+    **(*RTNS'23*)** International Conference on Real-Time Networks and Systems. 2023. <br>
+    [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3575757.3593654)
+
 - {{<tag-workshop>}} <br>
     {{< bibtitle "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Shuai Zhao, Ran Wei, Ian Gray <br>
     **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
-    
+    [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3576914.3587514)
+
 - {{<tag-workshop>}} <br>
     {{< bibtitle "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems" >}}
     Jie Zou, <u>Xiaotian Dai</u>, John McDermid <br>
     **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
+    [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3576914.3587511)
 
 - {{<tag-workshop>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
