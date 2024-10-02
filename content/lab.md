@@ -1,5 +1,5 @@
 ---
-title: Supervision
+title: Lab
 authorbox: false
 sidebar: false
 menu: main
@@ -8,25 +8,25 @@ toc: false
 ---
 
 
-## FAS-CPS: Flexible and Adaptive Scheduling for Cyber-Physical Systems
+## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
 
-PostDocs:
-- Nan Chen (2023-), Research Fellows, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
+Research Fellows:
+- Nan Chen (2023-), Research Fellow, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
 
-PhDs:
-- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | now Research Fellow, University of York 
+PhD students:
+- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | now Research Fellow, University of York
 
 MSc/MEng students:
-- Zirui Yuan (2023), "Discrete Simulation of Routerless NoCs"
+- Zirui Yuan (2023), *Discrete Simulation of Routerless NoCs*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | now Research Scientist, Tesla
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | now Research Scientist in smart transportation
 
-UG students:
+Bsc/BEng students:
 - Dipken Fung (2023), Dean Kenny (2021), Jay Brooks (2021)
 
 ---
 
-#### *for prospective PhD students:*
+### *for prospective PhD students:*
 
 Note that a PhD programme is a commitment of 3-4 years of hard work. You should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested in applying for a PhD, please continue to read ---
 
@@ -57,13 +57,15 @@ The department is offering a limited number of studentships, details can be foun
 
 ---
 
-***MSc/UG3 projects:***
+### *for MSc/UG3 projects:*
 
-- (UG3) Simulating and improving the scheduling in Time-Sensitive Networks
-- (UG3) Large-scale scheduling of Time-Sensitive Networks
-- (MSc) Traffic scheduling for smart transportation
-- (MSc) Discrete simulation of Routerless Network-on-Chips
+ReFLEX is open for supervising undergraduate/MSc projects related to cyber-physical systems, some examples are:
+
+- Simulating and improving the scheduling in Time-Sensitive Networks
+- Large-scale scheduling of Time-Sensitive Networks
+- Traffic scheduling for smart transportation
+- Discrete simulation of Routerless Network-on-Chips
+
+For more details, please look at the departmental project lists.
 
 ---
-
-
