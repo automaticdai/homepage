@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: ReFLEX Lab
 authorbox: false
 sidebar: false
 menu: main
@@ -8,8 +8,8 @@ toc: false
 ---
 
 
-## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
-
+## Real-Time and Flexible Cyber-Physical Systems Lab
+### Lab Members
 Research Fellows:
 - Nan Chen (2023-), Research Fellow, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
 
