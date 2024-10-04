@@ -28,8 +28,8 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 
 ## Research Projects
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
-*(2023 - 2027) Co-Invesigator, University of York*  
-*Funded by Innovate UK, £22M*
+*(2023 - 2027) Co-I, University of York*  
+*Funded by Innovate UK, £2,270,617*
 
 The next generation of aircraft, designed to meet net-zero targets, will require more complex, intelligent, autonomous, and connected systems, and at the heart of those software-enabled systems is the need for a cyber-secure, high-integrity processor.
 
@@ -47,8 +47,8 @@ The project is partly funded by the UK government agencies, BEIS, ATI, and Innov
 
 ### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
 
-*(2019 - 2022) Research Associate, University of York*  
-*Funded by Huawei Technologies Co. Ltd, £1M*
+*(2019 - 2022) RA, University of York*  
+*Funded by Huawei Technologies Co. Ltd, £985,926*
 
 The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
 
@@ -62,8 +62,8 @@ For more information: [\[Project Website\]](https://www.cs.york.ac.uk/rts/mocha/
 
 ### ➤ DEIS: Dependability Engineering Innovation for CPS
 
-*(2018 - 2019) Research Associate, University of York*  
-*Funded by EU Horizon 2020, €4.9M*
+*(2018 - 2019) RA, University of York*  
+*Funded by EU Horizon 2020, £313,415*
 
 Cyber-Physical-Systems (CPS) provide the potential for vast economic and societal impact in domains such as automotive, health care and home automation. The open and cooperative nature of CPS poses a significant new challenge in assuring dependability. The DEIS project addresses this important and unsolved challenge by developing technologies that enable a science of dependable system integration. Such technologies facilitate the efficient synthesis of components and systems based on their dependability information. The key innovation in the approach of the DEIS project is the concept of Digital Dependability Identity (DDI). A DDI contains all the information that uniquely describes the dependability characteristics of a CPS component. DDIs are used for the integration of components into systems during development as well as for the dynamic integration of systems into systems of systems in the field.
 
@@ -75,7 +75,7 @@ For more information: [\[Project Website\]](http://www.deis-project.eu/) | [\[DD
 
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
 
-*(2015 - 2018) PhD Research Student, University of York*
+*(2015 - 2018) PhD Student, University of York*
 
 In a Cyber-Physical Control System (CPCS), there is often a hybrid of hard real-time tasks which have stringent timing requirements and soft real-time tasks that are computationally intensive. The task scheduling of such systems is challenging and requires flexible schemes that can meet the timing requirements without being over-conservative.
 
