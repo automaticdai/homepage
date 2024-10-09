@@ -33,10 +33,10 @@ I joined the real-time systems group at York in 2015 as a PhD student, supervise
 
 *Other information:*
 
-- Please find [more information on PhD opportunities](https://www.xiaotiandai.com/supervision/).
-- [Real-time & embedded systems conferences tracking website](https://automaticdai.github.io/realtime-embedded-conferences/) maintained by me.
-- You might interest in [my robotics projects](/robots/) as part of my research and part-time entertainment.
-- Landscape and cityscape photography: check [my photography portfolio](https://automaticdai.wixsite.com/home)
+- [More information on PhD opportunities](https://www.xiaotiandai.com/lab/)
+- [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
+- [Robotics projects](/robots/), as part of my research and part-time entertainment.
+- [Photography portfolio](https://automaticdai.wixsite.com/home): my landscape and cityscape photography.
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 

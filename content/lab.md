@@ -7,10 +7,9 @@ weight: 5
 toc: false
 ---
 
+![](/img/reflex-lab-logo.png)
 
 ## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
-
-![](/img/reflex-lab-logo.png)
 
 ### Members
 Research Fellows:
