@@ -13,12 +13,15 @@ toc: false
 ---
 
 ## About
+Hi, my name is Steven. I am currently a Lecturer (equivalent to Assistant Professor in US) in the Department of Computer Science at the University of York, UK. I mainly work on scheduling and timing assurance, and to guarantee systems to meet their deadlines.
 
-I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at the University of York, UK. My research focuses on the scheduling and verification of real-time and cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability throughout a system’s lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modeling, scheduling, and analysis techniques, as well as hardware solutions for systems with strict timing constraints, some of which have been adopted by industry. Additionally, I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience.
+My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability of safety-critical systems throughout their lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modeling, scheduling and analysis techniques, Digital-Twins for run-time improvement, and hardware for safety-critical embedded systems with strict timing constraints, many of which have been adopted by industry. I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience during their operation.
 
-You can find out more about my research interests and projects [here](/research).
+You can find more about my research interests and research projects [here](/research).
 
-## Short Bio
+---
+
+*Short Bio:*
 
 I was a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) from 2019-2023, working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), funded by Huawei. The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements, using novel methods including Digital Twins and cache-aware scheduling. The project is targeted at providing key techniques of the next-generation 5G/6G communication base stations.
 
@@ -41,11 +44,11 @@ Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&use
 
 ## News
 
+- {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
 - {{< news "service" >}} Sep 2024: Invited as the publication chair of [RTAS 2025](https://2025.rtas.org/).
 - {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
 - {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/).
 - {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
-- {{< news "news" >}} Oct 2023: I am starting a new position as a Lecturer in Cyber-Physical Systems at the University of York.
 
 [(More news)](/news)
 

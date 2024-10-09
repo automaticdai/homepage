@@ -7,6 +7,7 @@ weight: 1
 toc: false
 ---
 
+- {{< news "news" >}} Oct 2023: Started as a Lecturer in Cyber-Physical Systems at the University of York.
 - {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/).
 - {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
 - {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling"
