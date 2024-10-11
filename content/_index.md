@@ -13,9 +13,9 @@ toc: false
 ---
 
 ## About
-Hi, my name is Steven. I am currently a Lecturer (equivalent to Assistant Professor in US) in the Department of Computer Science at the University of York, UK. I mainly work on scheduling and timing assurance, and to guarantee systems to meet their deadlines.
+Hi, my name is Steven. I am currently a Lecturer (equivalent to Assistant Professor in the US) in the Department of Computer Science at the University of York, UK. I mainly work on scheduling and timing assurance, and to guarantee systems to meet their deadlines. I am the lead of the [Reflexible and Adaptive CPS lab](https://www.xiaotiandai.com/lab/) (ReFLEX).
 
-My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability of safety-critical systems throughout their lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modeling, scheduling and analysis techniques, Digital-Twins for run-time improvement, and hardware for safety-critical embedded systems with strict timing constraints, many of which have been adopted by industry. I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience during their operation.
+My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability of safety-critical systems throughout their lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modelling, scheduling and analysis techniques, digital twins for run-time improvement, and hardware for safety-critical embedded systems with strict timing constraints, many of which have been adopted by industry. I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience during their operation.
 
 You can find more about my research interests and research projects [here](/research).
 
@@ -33,10 +33,10 @@ I joined the real-time systems group at York in 2015 as a PhD student, supervise
 
 *Other information:*
 
-- [More information on PhD opportunities](https://www.xiaotiandai.com/lab/)
-- [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
+- Find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/)
+- I maintain [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
 - [Robotics projects](/robots/), as part of my research and part-time entertainment.
-- [Photography portfolio](https://automaticdai.wixsite.com/home): my landscape and cityscape photography.
+- [Photography portfolio](https://automaticdai.wixsite.com/home): landscape and cityscape photography.
 
 Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
 
