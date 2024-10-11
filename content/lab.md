@@ -60,7 +60,7 @@ I am happy to supervise the following research directions with some example topi
 
 Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
 
-The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/).
+The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).  
 
 ---
 
