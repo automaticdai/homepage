@@ -11,10 +11,14 @@ toc: false
 
 ## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
 
-Director:
+Lab Lead:
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com)
 
-Research Fellows:
+Research advisors:
+- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
+- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
+
+Research fellows:
 - [Dr. Nan Chen](https://www.cs.york.ac.uk/people/) (2023-2027), Research Fellow, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
 
 PhD students:
@@ -26,10 +30,11 @@ PG students:
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | now Research Scientist in smart transportation
 
 UG students:
-- Dipken Fung (2023/24), Dean Kenny (2020/21), Jay Brooks (2020/21)
-
-Research advisors:
-- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
+- Dom Decicco (2024/25)
+- James Sutton (2024/25)
+- Phoebe Russell (2024/25)
+- Dipken Fung (2023/24)
+- Dean Kenny (2020/21)
 
 ---
 
