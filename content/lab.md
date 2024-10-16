@@ -30,11 +30,11 @@ PG students:
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | now Research Scientist in smart transportation
 
 UG students:
-- Dom Decicco (2024/25)
-- James Sutton (2024/25)
-- Phoebe Russell (2024/25)
-- Dipken Fung (2023/24)
-- Dean Kenny (2020/21)
+- Chase Mo (2024-2025), *Traffic control with back-pressure*
+- Dom Decicco (2024-2025), *Routerless NoC optimization*
+- James Sutton (2024-2025), *Multi-robot scheduling for Warehouse*
+- Phoebe Russell (2024-2025), *Traffic control with back-pressure*
+- Dean Kenny (2020-2021), *Simulating and Improving the Scheduling in Time-Sensitive Networks*
 
 ---
 
