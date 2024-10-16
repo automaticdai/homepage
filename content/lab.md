@@ -25,7 +25,7 @@ PhD students:
 - Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | now Research Fellow, University of York
 
 PG students:
-- Zirui Yuan (2023), *Discrete Simulation of Routerless NoCs*
+- Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | now Research Scientist, Tesla
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | now Research Scientist in smart transportation
 
