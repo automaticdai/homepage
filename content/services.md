@@ -39,6 +39,7 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>RTAS 2025</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTSS 2024</u>) IEEE Real-Time Systems Symposium, Brief Presentation track
 - (<u>TAS 2024</u>) International Symposium on Trustworthy Autonomous Systems
@@ -87,7 +88,7 @@ toc: false
 
 ## Journal Editor
 
-- *Guest Editor*, Real-Time Systems Journal (RTSJ), Special Issue on Resource Partitioning for Modern Multicore Systems
+- *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
 
 ---
 
@@ -107,6 +108,7 @@ toc: false
 - Software - Practice and Experience, Wiley
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - Journal of Supercomputing
+- (<u>NEUNET</u>) Neural Networks
 - Computer Standards & Interfaces
 - Connection Science
 - Future Generation Computer Systems
