@@ -25,6 +25,7 @@ toc: false
 ## Conference Organisation
 
 - *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2025</u>)
+- *Local Organisation*, IEEE Real-Time Systems Symposium (<u>RTSS 2024</u>)
 - *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems (<u>SIES 2024</u>)
 - *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2024</u>)
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
@@ -39,6 +40,8 @@ toc: false
 
 ## Conference TPC Member
 
+- (<u>MOST 2025</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
+- (<u>AEiC 2025</u>) Ada-Europe International Conference on Reliable Software Technologies
 - (<u>RTAS 2025</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>RTSS 2024</u>) IEEE Real-Time Systems Symposium, Brief Presentation track
