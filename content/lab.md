@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: ReFLEX Lab
 authorbox: false
 sidebar: false
 menu: main
@@ -11,30 +11,30 @@ toc: false
 
 ## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
 
-Lab Lead:
+Lab Director:
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com)
 
-Research advisors:
-- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
-- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
-
-Research fellows:
-- [Dr. Nan Chen](https://www.cs.york.ac.uk/people/) (2023-2027), Research Fellow, Digital Twin for Adaptive Scheduling in Avionics (on SCHEME project)
+Research Fellows:
+- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Digital Twin for Adaptive Scheduling in Avionics (SCHEME project)
 
 PhD students:
-- Zou Jie (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervised with Prof. FREng. John McDermid | now Research Fellow, University of York
+- [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
 PG students:
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
-- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* | now Research Scientist, Tesla
-- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms*, co-supervised | now Research Scientist in smart transportation
+- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* → Research Scientist, TESLA
+- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
 UG students:
-- Chase Mo (2024-2025), *Traffic control with back-pressure*
-- Dom Decicco (2024-2025), *Routerless NoC optimization*
-- James Sutton (2024-2025), *Multi-robot scheduling for Warehouse*
-- Phoebe Russell (2024-2025), *Traffic control with back-pressure*
-- Dean Kenny (2020-2021), *Simulating and Improving the Scheduling in Time-Sensitive Networks*
+- Chase Mo (2024/25), *Traffic control with back-pressure*
+- Dom Decicco (2024/25), *Routerless NoC optimization*
+- James Sutton (2024/25), *Multi-robot scheduling for Warehouse*
+- Phoebe Russell (2024/25), *Traffic control with back-pressure*
+- Dean Kenny (2020/21), *Simulating and Improving the Scheduling in Time-Sensitive Networks*
+
+Research Advisors:
+- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
+- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
 
 ---
 
