@@ -17,7 +17,7 @@ Hi, my name is Steven. I am currently a Lecturer (equivalent to Assistant Profes
 
 My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability of safety-critical systems throughout their lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modelling, scheduling and analysis techniques, digital twins for run-time improvement, and hardware for safety-critical embedded systems with strict timing constraints, many of which have been adopted by industry. I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience during their operation.
 
-You can find more about my research interests and research projects [here](/research).
+Find more about my [research interests and projects](/research). If you are interested in pursuing a PhD in real-time systems and cyber-physical systems, find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
 
 ---
 
@@ -31,21 +31,20 @@ I joined the real-time systems group at York in 2015 as a PhD student, supervise
 
 ---
 
-*Other information:*
+Misc:
 
-- Find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/)
-- I maintain [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
-- [Robotics projects](/robots/), as part of my research and part-time entertainment.
-- [Photography portfolio](https://automaticdai.wixsite.com/home): landscape and cityscape photography.
-
-Find me on: \[ [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=G7dzNUkAAAAJ&view_op=list_works&sortby=pubdate)  | [ResearchGate](https://www.researchgate.net/profile/Xiaotian_Dai) | [LinkedIn](https://www.linkedin.com/in/xdai3/) | [Twitter](https://twitter.com/stevenxdai)  | [GitHub](https://github.com/automaticdai) \]
+- [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
+- My [Robotics projects](/robots/)
+- My [Photography portfolio](https://automaticdai.wixsite.com/home)
 
 ---
 
 ## News
 
+- {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/)
+- {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/)
 - {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
-- {{< news "service" >}} Sep 2024: Invited as the publication chair of [RTAS 2025](https://2025.rtas.org/).
+- {{< news "service" >}} Sep 2024: Invited as the publication chair and a TPC member of [RTAS 2025](https://2025.rtas.org/).
 - {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
 - {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/).
 - {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
