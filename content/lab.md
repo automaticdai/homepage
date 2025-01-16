@@ -11,9 +11,6 @@ toc: false
 
 ## ReFLEX: Real-Time and Flexible Cyber-Physical Systems Lab
 
-Lab Director:
-- [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com)
-
 Research Fellows:
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Digital Twin for Adaptive Scheduling in Avionics (SCHEME project)
 
@@ -33,9 +30,9 @@ UG students:
 - Dean Kenny (2020/21), *Simulating and Improving the Scheduling in Time-Sensitive Networks*
 
 Research Advisors:
-- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
-
+- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
+  
 ---
 
 ### *for prospective PhD students:*
