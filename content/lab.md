@@ -32,7 +32,7 @@ UG students:
 Research Advisors:
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/)
 - [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/)
-  
+
 ---
 
 ### *for prospective PhD students:*
