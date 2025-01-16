@@ -12,63 +12,60 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- (Former) member of High Integrity Systems Engineering (HISE), University of York, UK
+- Member of High Integrity Systems Engineering Research Group (HISE), University of York, UK
 - Member of the Safety-Critical System Club (SCSC), UK
 - Member of UKRI Digital Twin Network Plus (DTNet+), UK
-- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
-- Member of ACM Special Interest Group on Design Automation (ACM SIGDA)
-- Member of IEEE Computer Society (IEEE CS)
-- Member of IEEE Robotics and Automation Society (IEEE RAS)
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
+- Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
 
 ---
 
 ## Conference Organisation
 
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2025</u>)
-- *Local Organisation*, IEEE Real-Time Systems Symposium (<u>RTSS 2024</u>)
-- *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems (<u>SIES 2024</u>)
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2024</u>)
-- *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS 2023</u>)
-- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS (<u>WMC 2022</u>)
-- *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ Monami 2022
-- *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS 2021</u>)
-- *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS 2020</u>)
-- *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD 2020</u>)
+- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25</u>)
+- *Local Organisation*, IEEE Real-Time Systems Symposium (<u>RTSS'24</u>)
+- *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems (<u>SIES'24</u>)
+- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'24</u>)
+- *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'23</u>)
+- *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS (<u>WMC'22</u>)
+- *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ Monami'22
+- *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
+- *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
+- *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS'20</u>)
+- *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD'20</u>)
 
 ---
 
 ## Conference TPC Member
 
-- (<u>MOST 2025</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
-- (<u>AEiC 2025</u>) Ada-Europe International Conference on Reliable Software Technologies
-- (<u>RTAS 2025</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
-- (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
-- (<u>RTSS 2024</u>) IEEE Real-Time Systems Symposium, Brief Presentation track
-- (<u>TAS 2024</u>) International Symposium on Trustworthy Autonomous Systems
-- (<u>ECRTS 2024</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
-- (<u>RAGE 2024</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
-- (<u>RTAS 2024</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
-- (<u>AEiC 2024</u>) Ada-Europe International Conference on Reliable Software Technologies
-- (<u>RTSS 2023</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
-- (<u>TAS 2023</u>) International Symposium on Trustworthy Autonomous Systems
-- (<u>ECRTS 2023</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
-- (<u>RTAS 2023</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
-- (<u>RAGE 2023</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
-- (<u>AEiC 2023</u>) Ada-Europe International Conference on Reliable Software Technologies  
-- (<u>RAGE 2022</u>) Real-time And intelliGent Edge computing workshop @ DAC
-- (<u>AEiC 2022</u>) Ada-Europe International Conference on Reliable Software Technologies  
-- (<u>RTSS 2022</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
-- (<u>ECRTS 2022</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
-- (<u>ICESS 2022</u>) IEEE International Conference on Embedded Software and Systems
-- (<u>DSD 2022</u>) Euromicro Conference on Digital System Design
-- (<u>AEiC 2021</u>) Ada-Europe International Conference on Reliable Software Technologies
-- (<u>RTNS 2021</u>) International Conference on Real-Time Networks and Systems
-- (<u>ICESS 2021</u>) IEEE International Conference on Embedded Software and Systems
-- (<u>RTAS 2021</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
-- (<u>ICESS 2020</u>) IEEE International Conference on Embedded Software and Systems
-- (<u>DSD 2020</u>) Euromicro Conference on Digital System Design
-- (<u>ECRTS 2019</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>MOST'25</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
+- (<u>AEiC'25</u>) Ada-Europe International Conference on Reliable Software Technologies
+- (<u>RTAS'25</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
+- (<u>RTSS'24</u>) IEEE Real-Time Systems Symposium, Brief Presentation track
+- (<u>TAS'24</u>) International Symposium on Trustworthy Autonomous Systems
+- (<u>ECRTS'24</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>RAGE'24</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- (<u>RTAS'24</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
+- (<u>AEiC'24</u>) Ada-Europe International Conference on Reliable Software Technologies
+- (<u>RTSS'23</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
+- (<u>TAS'23</u>) International Symposium on Trustworthy Autonomous Systems
+- (<u>ECRTS'23</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>RTAS'23</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Track 1
+- (<u>RAGE'23</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- (<u>AEiC'23</u>) Ada-Europe International Conference on Reliable Software Technologies  
+- (<u>RAGE'22</u>) Real-time And intelliGent Edge computing workshop @ DAC
+- (<u>AEiC'22</u>) Ada-Europe International Conference on Reliable Software Technologies  
+- (<u>RTSS'22</u>) IEEE Real-Time Systems Symposium, Artifact Evaluation track
+- (<u>ECRTS'22</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
+- (<u>ICESS'22</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>DSD'22</u>) Euromicro Conference on Digital System Design
+- (<u>AEiC'21</u>) Ada-Europe International Conference on Reliable Software Technologies
+- (<u>RTNS'21</u>) International Conference on Real-Time Networks and Systems
+- (<u>ICESS'21</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>RTAS'21</u>) IEEE Real-Time and Embedded Technology and Applications Symposium, Brief Presentation track
+- (<u>ICESS'20</u>) IEEE International Conference on Embedded Software and Systems
+- (<u>DSD'20</u>) Euromicro Conference on Digital System Design
+- (<u>ECRTS'19</u>) Euromicro Conference on Real-Time Systems, Artifact Evaluation track
 
 ---
 
