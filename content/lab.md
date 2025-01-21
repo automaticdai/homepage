@@ -14,10 +14,10 @@ toc: false
 Research Fellows:
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Digital Twin for Adaptive Scheduling in Avionics (SCHEME project)
 
-PhD students:
+PhDs:
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
-PG students:
+MSc students:
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* → Research Scientist, TESLA
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
@@ -27,6 +27,8 @@ UG students:
 - Dom Decicco (2024/25), *Routerless NoC optimization*
 - James Sutton (2024/25), *Multi-robot scheduling for Warehouse*
 - Phoebe Russell (2024/25), *Traffic control with back-pressure*
+- Aron Hogarth (2024/25), *Gamification on HE studying and learning of programming*
+- Riko Puusepp (2024/25), *AR for learning programming*
 - Dean Kenny (2020/21), *Simulating and Improving the Scheduling in Time-Sensitive Networks*
 
 Research Advisors:
