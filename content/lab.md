@@ -1,5 +1,5 @@
 ---
-title: ReFLEX Lab
+title: Lab
 authorbox: false
 sidebar: false
 menu: main
