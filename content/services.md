@@ -96,24 +96,24 @@ toc: false
 
 - (<u>TC</u>) IEEE Transactions on Computers
 - (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
+- (<u>TCAD</u>) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
-- (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
 - (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
-- (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
-- (<u>COR</u>) Computers & Operations Research, Elsevier
-- (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
-- IEEE Access
-- Software - Practice and Experience, Wiley
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers
+- (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
+- (<u>RA-L</u>) The IEEE Robotics and Automation Letters
+- (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
+- (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
+- (<u>COR</u>) Computers & Operations Research, Elsevier
+- Software - Practice and Experience, Wiley
+- IEEE Access
 - Journal of Supercomputing
 - (<u>NEUNET</u>) Neural Networks
 - Computer Standards & Interfaces
 - Connection Science
-- Future Generation Computer Systems
+- (<u>FGCS</u>) Future Generation Computer Systems
 - Sustainable Computing: Informatics and Systems
-
-
 
 ---
