@@ -20,7 +20,7 @@ toc: false
 
 ---
 
-## Conference Organisation
+## Conference Organisation and Chairing
 
 - *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25</u>)
 - *Local Organisation*, IEEE Real-Time Systems Symposium (<u>RTSS'24</u>)
@@ -30,13 +30,24 @@ toc: false
 - *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS (<u>WMC'22</u>)
 - *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ Monami'22
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
+
+---
+
+## Journal Editor
+
+- *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
+
+---
+
+##  Session Chairing @ Conferences
 - *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS'20</u>)
 - *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD'20</u>)
 
+
 ---
 
-## Conference TPC Member
+## Conference Program Committee
 
 - (<u>MOST'25</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
 - (<u>AEiC'25</u>) Ada-Europe International Conference on Reliable Software Technologies
@@ -69,31 +80,8 @@ toc: false
 
 ---
 
-## Conference Reviewer (and Sub-Reviewer)
-
-- RTSS'23, RTSS'22, RTSS'21
-- RTAS'23, RTAS'21, RTAS'20, RTAS'19
-- RTNS'21
-- ICRA'25, ICRA'24, ICRA'23, ICRA'22
-- ICESS'22, ICESS'21, ICESS'20
-- DSD'22, DSD'20
-- AEiC'24, AEiC'23, AEiC'22, AEiC'21
-- RTCSA'21
-- CASES'21
-- DATE'21, DATE'20
-- DAC'20
-- EMSOFT'20
-
----
-
-## Journal Editor
-
-- *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
-
----
-
-## Journal Reviewer
-
+## Reviewer
+### Journals
 - (<u>TC</u>) IEEE Transactions on Computers
 - (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
 - (<u>TCAD</u>) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
@@ -115,5 +103,19 @@ toc: false
 - Connection Science
 - (<u>FGCS</u>) Future Generation Computer Systems
 - Sustainable Computing: Informatics and Systems
+
+### Conferences
+- RTSS'23, RTSS'22, RTSS'21
+- RTAS'23, RTAS'21, RTAS'20, RTAS'19
+- RTNS'21
+- ICRA'25, ICRA'24, ICRA'23, ICRA'22
+- ICESS'22, ICESS'21, ICESS'20
+- DSD'22, DSD'20
+- AEiC'24, AEiC'23, AEiC'22, AEiC'21
+- RTCSA'21
+- CASES'21
+- DATE'21, DATE'20
+- DAC'20
+- EMSOFT'20
 
 ---
