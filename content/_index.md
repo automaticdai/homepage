@@ -13,34 +13,35 @@ toc: false
 ---
 
 ## About
-Hi, my name is Steven. I am currently a Lecturer (equivalent to Assistant Professor in the US) in the Department of Computer Science at the University of York, UK. I mainly work on scheduling and timing assurance, and to guarantee systems to meet their deadlines. I am the lead of the [Real-Time and Flexible Cyber-Physical Systems Lab](https://www.xiaotiandai.com/lab/) (ReFLEX lab).
+I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/). My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical applications. These applications include robotics, autonomous vehicles, and other cyber-physical systems that must meet strict timing constraints.
 
-My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and enhancing scheduling flexibility and adaptability of safety-critical systems throughout their lifespan. I am particularly interested in applications involving cyber-physical systems, robotics, and autonomous vehicles. My work has contributed to the development of innovative modelling, scheduling and analysis techniques, digital twins for run-time improvement, and hardware for safety-critical embedded systems with strict timing constraints, many of which have been adopted by industry. I am actively involved in the robotics and autonomous systems (RAS) community, with a focus on ensuring safety, robustness, and resilience during their operation.
+My work has contributed to innovative modeling, scheduling, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
 
-Find more about my [research interests and projects](/research). If you are interested in pursuing a PhD in real-time systems and cyber-physical systems, find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
+Learn more about my research interests and projects [in here](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
 
 ---
 
 *Short Bio:*
 
-I was a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) from 2019-2023, working with [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), funded by Huawei. The MOCHA project focuses on modelling, scheduling and allocation of complex many-core architectures that have high performance and stringent timing requirements, using novel methods including Digital Twins and cache-aware scheduling. The project is targeted at providing key techniques of the next-generation 5G/6G communication base stations.
+From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
 
-Before MOCHA, I worked on the EU H2020 [DEIS project](https://deis-project.eu) in 2019 with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). The DEIS project involves developing model-based safety assurance language (using [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/); now is an OMG standard) and tools that are applicable to model-based autonomous and cyber-physical systems. This project was collaborated with AVL, Siemens, General Motors and Fraunhofer.
+Prior to MOCHA, I contributed to the EU H2020 [DEIS project](https://deis-project.eu) in 2019, collaborating with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). DEIS focused on model-based safety assurance—using the [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/) (now an OMG standard)—and developed corresponding tools for model-based autonomous and cyber-physical systems in partnership with AVL, Siemens, General Motors, and Fraunhofer.
 
-I joined the real-time systems group at York in 2015 as a PhD student, supervised by [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), and I was awarded a PhD degree in 2019 with Best Thesis. I received an MSc with distinction in Automatic Control and Systems Engineering from the University of Sheffield in 2014, and a BSc in Automatic Control in 2011. I have published over 30 papers and also regularly serve as a TPC member and reviewer for various prestigious conferences and journals in the domains of real-time systems, embedded systems, robotics and design automation.
+I first joined the Real-Time Systems Group at York in 2015 as a PhD student under [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), earning my PhD in 2019 with a Best Thesis award. Before that, I completed an MSc (with distinction) in Automatic Control and Systems Engineering at the University of Sheffield in 2014, following a BSc in Automatic Control in 2011. To date, I have published over 30 papers and regularly serve as a TPC member and reviewer for prominent conferences and journals in real-time systems, embedded systems, robotics, and design automation.
 
 ---
 
 Misc:
 
 - [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
-- My [Robotics projects](/robots/)
-- My [Photography portfolio](https://automaticdai.wixsite.com/home)
+- [Robotics projects](https://www.xiaotiandai.com/robots/)
+- [Photography portfolio](https://automaticdai.wixsite.com/home)
 
 ---
 
 ## News
 
+- {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X)
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/)
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/)
 - {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
@@ -48,7 +49,12 @@ Misc:
 - {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
 - {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/).
 - {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
+- {{< news "news" >}} Oct 2023: Started as a Lecturer in Cyber-Physical Systems at the University of York.
+- {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/).
+- {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
+- {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575757.3593642) and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575757.3593654)
+- {{< news "paper" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3576914.3587514) and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3576914.3587511)
 
-[(More news)](/news)
+Please visit [News](https://www.xiaotiandai.com/news) for all the news.
 
 ---
