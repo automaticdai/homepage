@@ -13,17 +13,25 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 
 ---
 
+## 2025
 1. {{<tag-journal>}} <br>
     {{< bibtitle "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions" >}}
     Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, <u>Xiaotian Dai</u>, Shuai Zhao <br>
     **(*JSA*)** Journal of Systems Architecture. 2025.  <br>
     [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S138376212500044X)
 
+## 2024
+1. {{<tag-chapter>}} <br>
+    {{< bibtitle "Special edition on resource partitioning for modern multicore systems" >}}
+    Ian Gray, <u>Xiaotian Dai</u> <br>
+    [\[Book Chapter\]](https://link.springer.com/article/10.1007/s11241-024-09428-2)
+
+## 2023
 1. {{<tag-chapter>}} <br>
     {{< bibtitle "Evolvement of Scheduling Theories for Autonomous Vehicles" >}}
     Wanli Chang, Nan Chen, Shuai Zhao, <u>Xiaotian Dai</u>  <br>
     Springer. 2023. <br>
-    [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-28016-0_2)
+    [\[Book Chapter\]](https://link.springer.com/chapter/10.1007/978-3-031-28016-0_2)
 
 1. {{<tag-journal>}} <br>
     {{< bibtitle "NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability" >}}
@@ -61,6 +69,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*RAGE'23*)** Real-time And intelliGent Edge computing workshop (*RAGE 2023 @ CPS-IoT Week*). 2023. <br>
     [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3576914.3587511)
 
+## 2022
 1. {{<tag-workshop>}} <br>
     {{< bibtitle "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray <br>
@@ -103,6 +112,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*ACC'22*)** American Control Conference. 2022. <br>
     [\[Paper\]](https://arxiv.org/pdf/2206.05994.pdf) | [\[Slides\]](../files/ACC22_Presentation.pdf)
 
+
+## 2021
 1. {{<tag-conference>}} <br>
     {{< bibtitle "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems" >}}
     Zhe Jiang, <u>Xiaotian Dai</u>, Neil Audsley <br>
@@ -127,6 +138,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     **(*RAS*)** Robotics and Autonomous Systems. 2021.<br>
     [\[Paper\]](https://arxiv.org/pdf/2008.09315.pdf) | [\[Video\]](https://www.youtube.com/watch?v=hh6B4aF7jDI) | [\[Code\]](https://github.com/SeyedAmirTafrishi/LCS_Filter)
 
+## 2020
 1. {{<tag-conference>}} <br>
     {{< bibtitle "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency" >}}
     Shuai Zhao, <u>Xiaotian Dai</u>, Iain Bate, Alan Burns, Wanli Chang <br>
@@ -159,6 +171,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     *(\*) Accepted and presented at *Ada-Europe* 2019.* <br>
     [\[Paper\]](https://doi.org/10.1016/j.sysarc.2019.101691) | [\[Code\]](https://github.com/automaticdai/research-period-adaptation)
 
+## 2019 & Previous
 1. {{<tag-conference>}} <br>
     {{< bibtitle "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems" >}}
     Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, <u>Xiaotian Dai</u>, Lifeng Wei <br>
