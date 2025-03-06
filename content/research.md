@@ -26,6 +26,13 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 
 ---
 
+## Research Grants
+- Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
+- ECR Funding, University of York, 6K, 09/2023-09/2026, PI
+
+
+---
+
 ## Research Projects
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 *(2023 - 2027) Co-I, University of York*  
