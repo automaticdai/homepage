@@ -1,6 +1,11 @@
 {{ define "footer" }}
-    // ... existing code ...
+    <footer class="footer">
+        <div class="footer__copyright">
+            &copy; {{ now.Format "2006" }} {{ .Site.Params.copyright | default .Site.Title }}.
+            <span class="footer__copyright-credits">{{ T "footer_credits" | safeHTML }}</span>
+        </div>
+    </footer>
     {{ if eq .Title "Publications" }}
-    <script src="/js/publication-filter.js"></script>
+        <script src="{{ "js/publication-filter.js" | relURL }}"></script>
     {{ end }}
 {{ end }}
