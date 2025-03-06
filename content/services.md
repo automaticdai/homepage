@@ -30,16 +30,6 @@ toc: false
 - *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS (<u>WMC'22</u>)
 - *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ Monami'22
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
-
----
-
-## Journal Editor
-
-- *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
-
----
-
-##  Session Chairing @ Conferences
 - *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>)
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems (<u>ICESS'20</u>)
 - *Session Chair (Design of CPS track)*, Euromicro Conference on Digital System Design (<u>DSD'20</u>)
@@ -80,8 +70,15 @@ toc: false
 
 ---
 
+## Journal Editor
+
+- *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
+
+
+---
+
 ## Reviewer
-### Journals
+*Journals*:
 - (<u>TC</u>) IEEE Transactions on Computers
 - (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
 - (<u>TCAD</u>) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
@@ -104,7 +101,7 @@ toc: false
 - (<u>FGCS</u>) Future Generation Computer Systems
 - Sustainable Computing: Informatics and Systems
 
-### Conferences
+*Conferences*:
 - RTSS'23, RTSS'22, RTSS'21
 - RTAS'23, RTAS'21, RTAS'20, RTAS'19
 - RTNS'21

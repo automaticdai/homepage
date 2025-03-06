@@ -1,0 +1,4 @@
+{{ $authors := .Get 0 }}
+{{ $authors = replace $authors "Xiaotian Dai" "<u>Xiaotian Dai</u>" }}
+{{ $authors = printf "%s<br>" $authors }}
+{{ $authors | safeHTML }}

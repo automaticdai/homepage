@@ -38,6 +38,7 @@ UG students:
 - [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
 - [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
+- [Dr. Pengcheng Liu](https://sites.google.com/view/pliu), University of York, UK
 - Dr. Shuai Zhao, Sun Yat-Sen University, China
 - Prof. Zhe Jiang, Southeast University, China
 - Dr. Benjamin Lesage, ONERA, France
