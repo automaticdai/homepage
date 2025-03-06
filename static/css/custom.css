@@ -1,0 +1,28 @@
+.topic-tag {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  margin: 0 0.2em;
+  font-size: 0.85em;
+  line-height: 1;
+  border-radius: 3px;
+  background-color: #e9ecef;
+  color: #495057;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.topic-tag:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.topic-tag.active {
+  background-color: #0056b3;
+  color: white;
+}
+
+.paper-item {
+  margin-bottom: 1.5rem;
+  transition: opacity 0.3s ease;
+}

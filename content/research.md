@@ -22,14 +22,7 @@ My research is mainly in the domain of real-time embedded systems (RTES), cyber-
 
 ![](/img/wordcloud.png)
 
-*[Collaborations]* I am working with academics and companies from inside the UK, US, France, Germany, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
-
----
-
-## Research Grants
-- Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
-- ECR Funding, University of York, 6K, 09/2023-09/2026, PI
-
+*Collaborations:* I am working with academics and companies from UK, US, France, Germany, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
 
 ---
 
@@ -90,19 +83,38 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 
 ![ode](/img/atas.png)
 
+
+---
+
+## Research Grants
+- Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
+- ECR Funding, University of York, 6K, 09/2023-09/2026, PI
+
 ---
 
 ## Research Involvement
-Research projects which I am informally involved:
+Research projects which I was (informally) involved:
 - [AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
 - [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
 - [FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
 
 ---
 
+## Industrial Collaborators
+- [Rolls Royce](https://www.rolls-royce.com/)
+- [Siemens](https://www.siemens.com/)
+- [Huawei, Shanghai](https://www.huawei.com/)
+- [Rapita Systems](https://www.rapitasystems.com/)
+- [Adacore](https://www.adacore.com/)
+
+---
+
 ## Open-Source Software
 - [dag-gen-rnd: A Randomized Multi-DAG Task Generator for Scheduling and Allocation Research](https://github.com/automaticdai/dag-gen-rnd)
 - [DAG Scheduling Simulator on Multiprocessor Systems](https://github.com/automaticdai/research-dag-scheduling-analysis)
+- [Fixed Priority Scheduling and Controller Co-Design for TSN](https://github.com/automaticdai/research-sched-tsn)
 - [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
+
+Please check my [GitHub](https://www.github.com/automaticdai) for more projects.
 
 ---

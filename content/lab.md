@@ -34,15 +34,18 @@ UG students:
 - Dean Kenny (2020/21), *Simulating and improving the scheduling in time-sensitive networks*
 
 
-## Collaborators
+## Collaborators / Alumni
 - [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
 - [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
+- [Prof. Tim Kelly](https://scholar.google.com/citations?user=cNeDb_8AAAAJ&hl=en), University of York, UK
+- [Prof. Neil Audsley](https://www.citystgeorges.ac.uk/about/people/academics/neil-audsley), University of York, UK
+- [Prof. Wanli Chang](https://scholar.google.com/citations?user=OYcT_B4AAAAJ&hl=en), Hunan University, China
+- [Prof. Zhe Jiang](https://scholar.google.co.uk/citations?user=V5e-7hcAAAAJ&hl=en), Southeast University, China
 - [Dr. Pengcheng Liu](https://sites.google.com/view/pliu), University of York, UK
-- Dr. Shuai Zhao, Sun Yat-Sen University, China
-- Prof. Zhe Jiang, Southeast University, China
-- Dr. Benjamin Lesage, ONERA, France
-- Dr. Seyed Amir Tafrishi, University of Cardiff, UK
+- [Dr. Shuai Zhao](https://scholar.google.com/citations?hl=en&user=BzXwx8YAAAAJ), Sun Yat-Sen University, China
+- [Dr. Benjamin Lesage](https://www.linkedin.com/in/benjamin-lesage-649b3676/?originalSubdomain=fr), ONERA, France
+- [Dr. Seyed Amir Tafrishi](https://sites.google.com/site/samirtafrishi/), University of Cardiff, UK
 
 ---
 

@@ -17,7 +17,7 @@ I am a Lecturer (equivalent to Assistant Professor) in the Department of Compute
 
 My work has contributed to innovative modeling, scheduling, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
 
-Learn more about my research interests and projects [in here](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
+You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
 
 ---
 
@@ -34,26 +34,21 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 Misc:
 
 - [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
-- [Robotics projects](https://www.xiaotiandai.com/robots/)
-- [Photography portfolio](https://automaticdai.wixsite.com/home)
+- [My robotics projects](https://www.xiaotiandai.com/robots/)
+- [My photography portfolio](https://automaticdai.wixsite.com/home)
 
 ---
 
 ## News
 
-- {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X)
-- {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/)
-- {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/)
+- {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X).
+- {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/).
+- {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/).
 - {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
 - {{< news "service" >}} Sep 2024: Invited as the publication chair and a TPC member of [RTAS 2025](https://2025.rtas.org/).
 - {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
 - {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/).
 - {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
-- {{< news "news" >}} Oct 2023: Started as a Lecturer in Cyber-Physical Systems at the University of York.
-- {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/).
-- {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!
-- {{< news "paper" >}} Mar 2023: Two conference papers were accepted at RTNS'23: "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575757.3593642) and "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3575757.3593654)
-- {{< news "paper" >}} Mar 2023: Two workshop papers were accepted at RAGE'23 @ CPS-IoT week: "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3576914.3587514) and "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems" [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3576914.3587511)
 
 Please visit [News](https://www.xiaotiandai.com/news) for all the news.
 
