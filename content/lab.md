@@ -13,18 +13,15 @@ toc: false
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Scheduling in Avionics (SCHEME project)
 - [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (SCHEME project)
 
-
 ## PhDs
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
-
-## Students
-MSc students:
+##  MSc students
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* → Research Scientist, TESLA
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
-UG students:
+##  UG students
 - Chase Mo (2024/25), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024/25), *Routerless Netwowk-on-Chip optimization*
 - James Sutton (2024/25), *Multi-robot scheduling for warehouses*
@@ -32,7 +29,6 @@ UG students:
 - Aron Hogarth (2024/25), *Gamification on High Education studying and learning of programming*
 - Riko Puusepp (2024/25), *AR for accellerating learning of programming*
 - Dean Kenny (2020/21), *Simulating and improving the scheduling in time-sensitive networks*
-
 
 ## Collaborators / Alumni
 - [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
@@ -77,7 +73,13 @@ I am happy to supervise the following research directions with some example topi
 
 Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
 
-The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).  
+The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/). 
+
+---
+
+### *for PhD Student/Professor visitors:*
+
+Please check [this page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab. Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
 
 ---
 

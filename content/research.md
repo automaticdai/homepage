@@ -11,14 +11,14 @@ toc: false
 
 ## Research Interests
 
-My research is mainly in the domain of real-time embedded systems (RTES), cyber-physical systems (CPS) and autonomous systems (AS). The vision of my research is to work towards adaptive, safe and predictable engineering systems. My main research topics are:
+My research is mainly in the domain of real-time embedded systems (RTES), cyber-physical systems (CPS) and robotics and autonomous systems (RAS). The vision of my research is to work towards adaptive, safe and predictable engineering systems. My main research topics are:
 
 - Real-time systems, including scheduling and allocation on single- and multi-cores, and hardware that is timing predictable;
-- Flexible and feedback-based methods for task scheduling in CPS and AS;
+- Flexible and feedback-based methods for task scheduling in CPS and RAS;
 - Control-scheduling co-design and design automation of CPS;
 - Using Digital Twins for design, verification and optimization of RTES and CPS;
 - Network scheduling, from network-on-chip to transportation traffic scheduling;
-- Assuring timing and safety of robotic and autonomous systems.
+- Assuring timing and safety of RAS.
 
 ![](/img/wordcloud.png)
 
@@ -88,7 +88,7 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 
 ## Research Grants
 - Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
-- ECR Funding, University of York, 6K, 09/2023-09/2026, PI
+- ECR Funding, University of York, £6K, 09/2023-09/2026, PI
 
 ---
 
@@ -103,8 +103,8 @@ Research projects which I was (informally) involved:
 ## Industrial Collaborators
 - [Rolls Royce](https://www.rolls-royce.com/)
 - [Siemens](https://www.siemens.com/)
-- [Huawei, Shanghai](https://www.huawei.com/)
-- [Rapita Systems](https://www.rapitasystems.com/)
+- [Huawei (Shanghai)](https://www.huawei.com/)
+- [Rapita Systems (York)](https://www.rapitasystems.com/)
 - [Adacore](https://www.adacore.com/)
 
 ---
