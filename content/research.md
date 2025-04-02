@@ -106,7 +106,7 @@ Research projects which I am formally or informally involved:
 
 ## Collaborators
 
-![collobrators](/img/Collobrators.png)
+![collobrators](/img/collobrators.png)
 
 - [Rolls Royce](https://www.rolls-royce.com/)
 - [Siemens](https://www.siemens.com/)
