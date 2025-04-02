@@ -11,18 +11,24 @@ toc: false
 
 ## Research Interests
 
-My research is mainly in the domain of real-time embedded systems (RTES), cyber-physical systems (CPS) and robotics and autonomous systems (RAS). The vision of my research is to work towards adaptive, safe and predictable engineering systems. My main research topics are:
+My research lies at the intersection of real-time embedded systems (RTES), cyber-physical systems (CPS), and robotics and autonomous systems (RAS). The overarching vision is to advance the development of adaptive, safe, and predictable engineering systems. My key research areas include:
 
-- Real-time systems, including scheduling and allocation on single- and multi-cores, and hardware that is timing predictable;
-- Flexible and feedback-based methods for task scheduling in CPS and RAS;
-- Control-scheduling co-design and design automation of CPS;
-- Using Digital Twins for design, verification and optimization of RTES and CPS;
-- Network scheduling, from network-on-chip to transportation traffic scheduling;
-- Assuring timing and safety of RAS.
+- Real-time scheduling and allocation on single-core, multi-cores and time-sensitive networks; 
+- Hardware-software co-design, and investigate timing predictable hardware;
+- Flexible, feedback-driven approaches to resource scheduling in CPS and RAS;
+- Digital Twins for the design, verification, and optimisation of CPS and RAS;
+- Task and resource scheduling for multi-robot and transportation systems;
+- Timing assurance in mixed-criticality safety-critical systems.
 
 ![](/img/wordcloud.png)
 
 *Collaborations:* I am working with academics and companies from UK, US, France, Germany, Portugal and China (mainland, Taiwan and HongKong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
+
+---
+
+## Research Grants
+- Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
+- ECR Funding, University of York, £6K, 09/2023-09/2026, PI
 
 ---
 
@@ -84,23 +90,24 @@ In this study, an adaptive real-time scheduling framework for CPCS is presented.
 ![ode](/img/atas.png)
 
 
----
-
-## Research Grants
-- Innovate UK, SCHEME - Safety Critical Harsh Environment Micro-processing Evolution, £2.2m, 05/2023-04/2027, Co-I
-- ECR Funding, University of York, £6K, 09/2023-09/2026, PI
 
 ---
 
 ## Research Involvement
-Research projects which I was (informally) involved:
-- [AAIP: The Assuring Autonomy International Programme](https://www.york.ac.uk/assuring-autonomy/)
+Research projects which I am formally or informally involved:
+- [The Assuring Autonomy International Programme (AAIP)](https://www.york.ac.uk/assuring-autonomy/)
 - [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
-- [FiC: Future factories in the Cloud]((https://research.chalmers.se/en/project/7231))
+- [Future factories in the Cloud (FiC)]((https://research.chalmers.se/en/project/7231))
+- [XR Stories](https://xrstories.co.uk/)
+- [CoSTAR](https://www.costarnetwork.co.uk/)
+
 
 ---
 
-## Industrial Collaborators
+## Collaborators
+
+![collobrators](/img/Collobrators.png)
+
 - [Rolls Royce](https://www.rolls-royce.com/)
 - [Siemens](https://www.siemens.com/)
 - [Huawei (Shanghai)](https://www.huawei.com/)
@@ -115,6 +122,6 @@ Research projects which I was (informally) involved:
 - [Fixed Priority Scheduling and Controller Co-Design for TSN](https://github.com/automaticdai/research-sched-tsn)
 - [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
 
-Please check my [GitHub](https://www.github.com/automaticdai) for more projects.
+Please check our [GitHub](https://www.github.com/automaticdai) for more projects.
 
 ---
