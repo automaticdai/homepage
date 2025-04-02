@@ -12,19 +12,21 @@ toc: false
 At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
 ## Research Fellows
+- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Scheduling in Avionics (on SCHEME project)
+- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (on SCHEME project)
 
-- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Scheduling in Avionics (SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (SCHEME project)
-
-## PhDs
+## PhD Students
+- Modie Al Shakarchi (2025-2027), *Robotics and Digital Twins for Virtual Production*, co-supervisor: Dr. Pengcheng Liu
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
-##  MSc students
+##  MSc Students
+- Xiyu Fang (2025), *Randomised DAG Generator*
+- Zilun Zhang (2025), *Randomised DAG Generator (AI)*
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* → Research Scientist, TESLA
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
-##  UG students
+##  UG Students
 - Chase Mo (2024/25), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024/25), *Routerless Netwowk-on-Chip optimization*
 - James Sutton (2024/25), *Multi-robot scheduling for warehouses*
