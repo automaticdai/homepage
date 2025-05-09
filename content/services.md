@@ -13,10 +13,12 @@ toc: false
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
 - Member of High Integrity Systems Engineering Research Group (HISE), University of York, UK
-- Member of the Safety-Critical System Club (SCSC), UK
-- Member of UKRI Digital Twin Network Plus (DTNet+), UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
 - Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
+- Member of the Safety-Critical System Club (SCSC) at York
+- Member of Digital Creativity Network (DCN) at York
+- Member of XR Networks+
+- Member of UKRI Digital Twin Network Plus (DTNet+)
 
 ---
 
