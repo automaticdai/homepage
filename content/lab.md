@@ -9,14 +9,14 @@ toc: false
 
 ![](/img/reflex-lab-logo.png)
 
-At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
+At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
 ## Research Fellows
-- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Scheduling in Avionics (on SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (on SCHEME project)
+- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
+- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (SCHEME project)
 
 ## PhD Students
-- Modie Al Shakarchi (2025-2027), *Robotics and Digital Twins for Virtual Production*, co-supervisor: Dr. Pengcheng Liu
+- [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RADIANT-VP)*, co-supervisor: Dr. Pengcheng Liu
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
 ##  MSc Students
@@ -28,7 +28,7 @@ At ReFLEX Lab, we focus on advancing real-time and embedded systems across topic
 
 ##  UG Students
 - Chase Mo (2024/25), *Traffic detection for deriving KPIs*
-- Dom Decicco (2024/25), *Routerless Netwowk-on-Chip optimization*
+- Dom Decicco (2024/25), *Routerless Network-on-Chip optimization*
 - James Sutton (2024/25), *Multi-robot scheduling for warehouses*
 - Phoebe Russell (2024/25), *Traffic control with back-pressure*
 - Aron Hogarth (2024/25), *Gamification on High Education studying and learning of programming*
