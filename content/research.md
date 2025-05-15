@@ -16,18 +16,12 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 - Real-time scheduling and allocation on multi-cores, network-on-chips (NoC) and time-sensitive networks (TSN);
 - Flexible, feedback-driven approaches to resource scheduling of CPS, including multi-robot and transportation systems;
 - Digital Twins for the design, simulation, verification, and optimisation of CPS;
-- Hardware-software co-design, and investigate timing predictable hardware;
+- Hardware-software co-design, and investigate timing-predictable hardware;
 - Timing assurance of mixed-criticality and safety-critical systems.
 
 ![](/img/wordcloud.png)
 
 *Collaborations:* I am working with academics and companies from UK, US, France, Germany, Portugal and China (mainland, Taiwan and Hong Kong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
-
-- [Rolls Royce](https://www.rolls-royce.com/)
-- [Siemens](https://www.siemens.com/)
-- [Huawei (Shanghai)](https://www.huawei.com/)
-- [Rapita Systems (York)](https://www.rapitasystems.com/)
-- [Adacore](https://www.adacore.com/)
 
 ![collabrators](/img/collabrators.png)
 
@@ -35,7 +29,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ## Research Grants
 - Innovate UK, *SCHEME - Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m, 05/2023-04/2027, Co-I
-- XR Stories Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026, PI
+- XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026, PI
 - ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, University of York, £6K, 09/2023-09/2026, PI
 
 ---
