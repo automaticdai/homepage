@@ -12,10 +12,12 @@ toc: false
 
 ---
 
-## About
-I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/). My research focuses on the scheduling and verification of real-time cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical applications. These applications include robotics, autonomous vehicles, and other cyber-physical systems that must meet strict timing constraints.
 
-My work has contributed to innovative modeling, scheduling, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
+
+## About
+I am a Lecturer in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/). My research focuses on the scheduling and verification of cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical applications. The applications of my interest include robotics, autonomous vehicles, avionic systems and other cyber-physical systems that must meet strict timing constraints.
+
+My work has contributed to innovative modeling, scheduling, simulation, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
 
 You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
 
@@ -23,11 +25,11 @@ You can find more about my research interests and projects in [the research page
 
 *Short Bio:*
 
-From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html). The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
+From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), which is the top real-time research group in the UK. The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
 
-Prior to MOCHA, I contributed to the EU H2020 [DEIS project](https://deis-project.eu) in 2019, collaborating with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). DEIS focused on model-based safety assurance—using the [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/) (now an OMG standard)—and developed corresponding tools for model-based autonomous and cyber-physical systems in partnership with AVL, Siemens, General Motors, and Fraunhofer.
+Prior to MOCHA, I contributed to the [EU H2020 DEIS project](https://deis-project.eu) in 2019, collaborating with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). DEIS focused on model-based safety assurance — using the [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/) (now an OMG standard) — and developed corresponding tools for model-based autonomous and cyber-physical systems in partnership with AVL, Siemens, General Motors, and Fraunhofer.
 
-I first joined the Real-Time Systems Group at York in 2015 as a PhD student under [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), earning my PhD in 2019 with a Best Thesis award. Before that, I completed an MSc (with distinction) in Automatic Control and Systems Engineering at the University of Sheffield in 2014, following a BSc in Automatic Control in 2011. To date, I have published over 30 papers and regularly serve as a TPC member and reviewer for prominent conferences and journals in real-time systems, embedded systems, robotics, and design automation.
+I first joined the Real-Time Systems Group at York in 2015 as a PhD student under [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), earning my PhD in 2019 with a Best Thesis award. Before that, I completed an MSc (with distinction) in Automatic Control and Systems Engineering at the University of Sheffield in 2014, following a BSc (with a first) in Automatic Control in 2011. To date, I have published over 30 papers and regularly serve as a TPC member and reviewer for prominent conferences and journals in real-time systems, embedded systems, robotics, and design automation.
 
 ---
 

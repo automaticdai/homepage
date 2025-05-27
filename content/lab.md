@@ -7,11 +7,11 @@ weight: 5
 toc: false
 ---
 
-![](/img/reflex-lab-logo.png)
-
-At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
+# ReFLEX Lab
 
 ![](/img/reflex_topics.png)
+
+At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
 ## Research Fellows
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
@@ -20,6 +20,9 @@ At ReFLEX Lab, we focus on advancing real-time and embedded systems across topic
 ## PhD Students
 - [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RADIANT-VP)*, co-supervisor: Dr. Pengcheng Liu
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
+
+## Academic Visitors
+- Haochun Liang, Real-time containers for Mixed-Criticality Real-Time Systems
 
 ##  MSc Students
 - Xiyu Fang (2025), *Randomised DAG Generator*
@@ -80,7 +83,7 @@ I am happy to supervise the following research directions with some example topi
 
 Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
 
-The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/). 
+The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
 
 ---
 

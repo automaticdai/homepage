@@ -7,8 +7,8 @@ weight: 4
 toc: false
 ---
 
----
 
+# Services
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
@@ -75,7 +75,7 @@ toc: false
 - (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
 - (<u>RA-L</u>) The IEEE Robotics and Automation Letters
 - (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
-- (<u>JATS</u>) ACM Journal on Autonomous Transportation Systems 
+- (<u>JATS</u>) ACM Journal on Autonomous Transportation Systems
 - (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
 - (<u>COR</u>) Computers & Operations Research, Elsevier
 - (<u>NEUNET</u>) Neural Networks

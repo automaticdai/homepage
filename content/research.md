@@ -7,8 +7,7 @@ weight: 2
 toc: false
 ---
 
----
-
+# Research
 ## Research Interests
 
 My research lies at the intersection of real-time embedded systems (RTES), cyber-physical systems (CPS), and robotics and autonomous systems (RAS). The overarching vision is to advance the development of adaptive, safe, and predictable engineering systems. My key research areas include:
