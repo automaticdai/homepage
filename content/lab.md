@@ -1,5 +1,5 @@
 ---
-title: Lab
+title: ReFLEX Lab
 authorbox: false
 sidebar: false
 menu: main
@@ -10,6 +10,15 @@ toc: false
 # ReFLEX Lab
 
 ![](/img/reflex_topics.png)
+
+---
+
+<blockquote style="font-size: 1.5em;">
+"Cyber-physical systems, such as autonomous robots and self-driving cars, are becoming integral to modern society, with profound economic and societal implications. Our lab envisions leading the advancement of real-time scheduling and assurance techniques that enable safe, reliable, and adaptive robotics and autonomous systems."  <br>
+<footer style="font-size: 0.8em;"> — Dr. Steven Xiaotian Dai, Director of ReFLEX lab</footer>
+</blockquote>
+
+---
 
 At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
@@ -40,23 +49,20 @@ At ReFLEX Lab, we focus on advancing real-time and embedded systems across topic
 - Riko Puusepp (2024/25), *AR for accellerating learning of programming*
 - Dean Kenny (2020/21), *Simulating and improving the scheduling in time-sensitive networks*
 
-## Collaborators / Alumni
+## Collaborators
 - [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
 - [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
-- [Prof. Tim Kelly](https://scholar.google.com/citations?user=cNeDb_8AAAAJ&hl=en), University of York, UK
-- [Prof. Neil Audsley](https://www.citystgeorges.ac.uk/about/people/academics/neil-audsley), University of York, UK
-- [Prof. Wanli Chang](https://scholar.google.com/citations?user=OYcT_B4AAAAJ&hl=en), Hunan University, China
 - [Prof. Zhe Jiang](https://scholar.google.co.uk/citations?user=V5e-7hcAAAAJ&hl=en), Southeast University, China
-- [Dr. Pengcheng Liu](https://sites.google.com/view/pliu), University of York, UK
-- [Dr. Shuai Zhao](https://scholar.google.com/citations?hl=en&user=BzXwx8YAAAAJ), Sun Yat-Sen University, China
+- [Prof. Shuai Zhao](https://scholar.google.com/citations?hl=en&user=BzXwx8YAAAAJ), Sun Yat-Sen University, China
 - [Dr. Benjamin Lesage](https://www.linkedin.com/in/benjamin-lesage-649b3676/?originalSubdomain=fr), ONERA, France
+- [Dr. Pengcheng Liu](https://sites.google.com/view/pliu), University of York, UK
 - [Dr. Seyed Amir Tafrishi](https://sites.google.com/site/samirtafrishi/), University of Cardiff, UK
 
 ---
 
 ## Opportunities
-### *for prospective PhD students:*
+### 1. For prospective PhD students
 
 Note that a PhD programme is a commitment of 3-4 years of hard work. You should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested in applying for a PhD, please continue to read ---
 
@@ -81,19 +87,21 @@ I am happy to supervise the following research directions with some example topi
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The entry date for PhDs is normally in October, but other starting dates can be settled.
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The standard entry time for PhDs is normally in October and April, but other starting dates can be settled.
 
 The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
 
----
 
-### *for PhD Student/Professor visitors:*
+### 2. Guide to PhD/Professor visitors
 
-Please check [this page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab. Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
+If you are a PhD student, or a Professor from a UK or non-UK university,
+- Please check [this information page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab. 
+- Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
 
----
+For more information, please contact me via email (xiaotian.dai (at) york.ac.uk).
 
-### *for UG/PG projects:*
+
+### 3. Guide to UG/MSc students
 
 ReFLEX lab is open for supervising undergraduate/MSc projects related to cyber-physical systems, some examples are:
 
