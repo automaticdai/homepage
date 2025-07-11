@@ -43,6 +43,8 @@ Misc:
 
 ## News
 
+- {{< news "service" >}} July 2025: Invited as a TPC member of [MOST 2026](https://ieeemobility.org/MOST2026/).
+- {{< news "project" >}} July 2025: Our resident programme proposal was accepted by XR Stories, which will focus on robots and digital twins for virutial production ([see details here](https://xrstories.co.uk/xr-stories-welcomes-university-of-york-researchers-in-residence/)).
 - {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X).
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/).
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/).

@@ -48,7 +48,7 @@ toc: false
 - (<u>ICESS'22, ICESS'21, ICESS'20</u>) IEEE International Conference on Embedded Software and Systems
 - (<u>DSD'22, DSD'20</u>) Euromicro Conference on Digital System Design
 - (<u>AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>) Ada-Europe International Conference on Reliable Software Technologies
-- (<u>MOST'25</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
+- (<u>MOST'26, MOST'25</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
 - (<u>TAS'24, TAS'23</u>) International Symposium on Trustworthy Autonomous Systems
 - (<u>RAGE'24, RAGE'23, RAGE'22</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
 
@@ -86,6 +86,7 @@ toc: false
 - Computer Standards & Interfaces
 - Connection Science
 - Sustainable Computing: Informatics and Systems
+- Parallel Computing
 
 *Conferences*:
 - RTSS'23, RTSS'22, RTSS'21
