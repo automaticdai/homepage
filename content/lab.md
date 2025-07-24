@@ -20,27 +20,61 @@ toc: false
 
 ---
 
+## Introduction
 At ReFLEX Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
-## Research Fellows
-- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2027), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2027), Safety-Critical Digital Twin for Avionics (SCHEME project)
+A digital twin is a highly sophisticated virtual replica of a physical asset, process, or system that enables real-time monitoring, analysis, and simulation. By integrating data from sensors and IoT devices, digital twins provide valuable insights into the current state of the physical counterpart, facilitating predictive maintenance, performance optimization, and enhanced decision-making. This technology is widely used across industries such as manufacturing, healthcare, and urban planning to improve operational efficiency and reduce costs. As digital twin technology continues to evolve with advancements in artificial intelligence and machine learning, its ability to simulate complex scenarios with high accuracy makes it an indispensable tool for proactive management and innovation.
 
-## PhD Students
+Scheduling plays a critical role in optimizing workflows and resource allocation within various organizational contexts. Effective scheduling involves creating timely plans for tasks, appointments, or processes to ensure that objectives are met efficiently while minimizing delays and conflicts. The concept of scheduling goes beyond computer task scheduling. In manufacturing environments, scheduling algorithms help coordinate machine usage and workforce deployment to maximize productivity. In project management, scheduling ensures that milestones are achieved on time by allocating appropriate resources at each phase of the project. Advanced scheduling techniques often incorporate constraints, priorities, and uncertainties to generate robust plans that adapt to changing conditions while maintaining optimal performance.
+
+---
+
+## Our Research
+### ➤ Mixed-criticality scheduling and timing assurance for avionics
+This reseach explores advanced scheduling techniques and timing assurance methods tailored for mixed-criticality avionics systems. Given the increasing complexity and safety requirements of modern aircraft, ensuring reliable operation across diverse criticality levels is paramount. The study investigates novel algorithms that optimize task scheduling, enhance predictability, and guarantee timing constraints in environments where high-criticality functions coexist with lower-criticality tasks. The proposed approaches aim to improve system safety, reliability, and efficiency, contributing to the development of robust avionics architectures capable of meeting stringent certification standards.
+
+### ➤ Multi-core and network scheduling and allocation for autonomous driving
+Autonomous driving systems require real-time processing of vast amounts of sensor data, decision-making algorithms, and communication with other vehicles and infrastructure. Efficient scheduling and resource allocation across multiple cores and network components are critical to ensure safety, reliability, and performance. This work explores advanced multi-core processing strategies and network scheduling techniques tailored for autonomous vehicles, aiming to optimize computational efficiency, reduce latency, and enhance system robustness.
+
+### ➤ Large scale allocation and scheduling for cyber-physical systems
+Cyber-physical systems (CPS) are increasingly prevalent in diverse domains such as manufacturing, transportation, healthcare, and energy management. These systems integrate computational elements with physical processes, necessitating efficient allocation and scheduling strategies to ensure optimal performance, safety, and reliability. This paper addresses the challenges of large-scale resource allocation and task scheduling within CPS environments. We propose a scalable framework that leverages advanced optimization techniques and distributed algorithms to manage complex dependencies and real-time constraints. Our approach aims to enhance system throughput, reduce latency, and improve adaptability in dynamic settings. Extensive simulations demonstrate the effectiveness of our methods compared to existing solutions, paving the way for more resilient and efficient cyber-physical infrastructures.
+
+### ➤ Real-time digital twin and robotics for virtual production
+This project explores the integration of advanced digital twin technology with robotics systems to revolutionize virtual production workflows. By creating highly accurate, real-time virtual replicas of physical environments and assets, combined with robotic automation, we aim to enhance efficiency, flexibility, and creative possibilities in film, television, and live events.
+
+### ➤ Multi-robot safety-aware scheduling for Industry 5.0
+As Industry 5.0 advances towards increasingly collaborative human-robot environments, ensuring safety while maintaining efficiency becomes paramount. This study presents a novel multi-robot scheduling framework that integrates safety-awareness into task allocation and sequencing. By leveraging real-time sensor data and predictive analytics, the proposed approach dynamically adapts to operational uncertainties, prioritizing safety without compromising productivity. Simulation results demonstrate improved safety compliance and enhanced operational throughput in complex manufacturing scenarios, paving the way for more resilient and human-centric industrial automation.
+
+---
+
+## Our Team
+### Lab Lead
+- [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
+
+### Lab Advisors
+- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
+- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
+- [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
+
+### Research Fellows
+- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
+- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2028), Safety-Critical Digital Twin for Avionics (SCHEME project)
+
+### PhD Students
 - [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RADIANT-VP)*, co-supervisor: Dr. Pengcheng Liu
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
 
-## Academic Visitors
+### Academic Visitors
 - Haochun Liang, Real-time containers for Mixed-Criticality Real-Time Systems
 
-##  MSc Students
-- Xiyu Fang (2025), *Randomised DAG Generator*
-- Zilun Zhang (2025), *Randomised DAG Generator (AI)*
+### MSc Students
+- Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
+- Zilun Zhang (2025), *Randomised DAG generator with AI based on small samples*
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
-- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources* → Research Scientist, TESLA
+- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
-##  UG Students
+### UG Students
 - Chase Mo (2024/25), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024/25), *Routerless Network-on-Chip optimization*
 - James Sutton (2024/25), *Multi-robot scheduling for warehouses*
@@ -49,67 +83,13 @@ At ReFLEX Lab, we focus on advancing real-time and embedded systems across topic
 - Riko Puusepp (2024/25), *AR for accellerating learning of programming*
 - Dean Kenny (2020/21), *Simulating and improving the scheduling in time-sensitive networks*
 
-## Collaborators
-- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
-- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
-- [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
-- [Prof. Zhe Jiang](https://scholar.google.co.uk/citations?user=V5e-7hcAAAAJ&hl=en), Southeast University, China
-- [Prof. Shuai Zhao](https://scholar.google.com/citations?hl=en&user=BzXwx8YAAAAJ), Sun Yat-Sen University, China
-- [Dr. Benjamin Lesage](https://www.linkedin.com/in/benjamin-lesage-649b3676/?originalSubdomain=fr), ONERA, France
-- [Dr. Pengcheng Liu](https://sites.google.com/view/pliu), University of York, UK
-- [Dr. Seyed Amir Tafrishi](https://sites.google.com/site/samirtafrishi/), University of Cardiff, UK
-
 ---
 
-## Opportunities
-### 1. For prospective PhD students
-
-Note that a PhD programme is a commitment of 3-4 years of hard work. You should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested in applying for a PhD, please continue to read ---
-
-I am happy to supervise the following research directions with some example topics:
-
-- (R.1) Scheduling and allocation of real-time systems
-    - Novel scheduling and allocation methods for real-time systems
-    - Interference and contention modelling and analysis on multi- and many-cores
-    - Scheduling on complex architectures, including many-cores and CPU-GPU heterogeneous platforms
-- (R.2) Digital Twins for real-time embedded systems
-    - Dynamic modelling and verification of real-time systems
-    - Use digital twins to improve scheduling and allocation of real-time systems
-    - Fault and hazard identification using digital twins
-- (R.3) Addressing timing problems in Robotics and AI
-    - Timing assurance of robotic and autonomous systems using, for example, probabilistic models and formal methods
-    - Multi-robot systems scheduling, management and coordination
-    - Timing analysis of ROS 2 executors
-- (R.4) Design and verification of Long-lived Cyber-Physical Systems
-    - Using digital twin to develop and improve CPS
-    - Formal verification of CPS
-- (R.5) Hardware for real-time systems and internet-of-things
-    - Efficient, safe, secure hardware for RTS and IoT applications.
-    - Instruction set architecture (ISA) for real-time systems.
-
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The standard entry time for PhDs is normally in October and April, but other starting dates can be settled.
-
-The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
-
-
-### 2. Guide to PhD/Professor visitors
-
-If you are a PhD student, or a Professor from a UK or non-UK university,
-- Please check [this information page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab. 
-- Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
-
-For more information, please contact me via email (xiaotian.dai (at) york.ac.uk).
-
-
-### 3. Guide to UG/MSc students
-
-ReFLEX lab is open for supervising undergraduate/MSc projects related to cyber-physical systems, some examples are:
-
-- Simulating and improving the scheduling in Time-Sensitive Networks
-- Large-scale scheduling of Time-Sensitive Networks
-- Traffic scheduling for smart transportation
-- Discrete simulation of Routerless Network-on-Chips
-
-For more details, please look at the departmental project lists. We also accept self-defined projects should that align with the lab research objectives.
+## Contact
+Dr. Steven Xiaotian Dai  
+(xiaotian.dai@york.ac.uk)  
+Department of Computer Science  
+University of York, UK  
+YO10 5GH
 
 ---

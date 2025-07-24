@@ -35,7 +35,8 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ## Research Projects
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
-*(2023 - 2027) Co-I, University of York*  
+
+*(2023 - 2028) Co-I, University of York*  
 *Funded by Innovate UK, £2,270,617*
 
 The next generation of aircraft, designed to meet net-zero targets, will require more complex, intelligent, autonomous, and connected systems, and at the heart of those software-enabled systems is the need for a cyber-secure, high-integrity processor.
