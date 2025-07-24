@@ -19,11 +19,11 @@ I am a Lecturer in the Department of Computer Science at the University of York,
 
 My work has contributed to innovative modeling, scheduling, simulation, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
 
-You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/lab/).
+You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/opportunities/).
 
 ---
 
-*Short Bio:*
+➤ *Short Bio*
 
 From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), which is the top real-time research group in the UK. The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
 
@@ -33,7 +33,7 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ---
 
-Misc:
+➤ *Misc*
 
 - [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
 - [My robotics projects](https://www.xiaotiandai.com/robots/)
@@ -43,6 +43,7 @@ Misc:
 
 ## News
 
+- {{< news "service" >}} Aug 2025: Invited as the publication chair of [RTAS 2026](https://2026.rtas.org/).
 - {{< news "service" >}} July 2025: Invited as a TPC member of [MOST 2026](https://ieeemobility.org/MOST2026/).
 - {{< news "project" >}} July 2025: Our resident programme proposal was accepted by XR Stories, which will focus on robots and digital twins for virutial production ([see details here](https://xrstories.co.uk/xr-stories-welcomes-university-of-york-researchers-in-residence/)).
 - {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X).

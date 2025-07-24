@@ -24,6 +24,7 @@ toc: false
 
 ## Conference Organisation and Chairing
 
+- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'26</u>](https://2026.rtas.org/))
 - *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'25</u>](https://2025.rtas.org/))
 - *Local Organisation*, IEEE Real-Time Systems Symposium ([<u>RTSS'24</u>](https://2024.rtss.org/))
 - *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems ([<u>SIES'24</u>](https://ieee-sies.org/))
@@ -67,12 +68,14 @@ toc: false
 - (<u>TC</u>) IEEE Transactions on Computers
 - (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
 - (<u>TCAD</u>) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+- (<u>TSC</u>) IEEE Transactions on Services Computing
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
 - (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
 - (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
-- (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
+- Parallel Computing, Elsevier
+- (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - (<u>RA-L</u>) The IEEE Robotics and Automation Letters
 - (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
 - (<u>JATS</u>) ACM Journal on Autonomous Transportation Systems
