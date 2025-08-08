@@ -42,7 +42,7 @@ toc: false
 
 ## Conference Technical Program Committee
 
-- (<u>RTSS'24, RTSS'23, RTSS'22</u>) IEEE Real-Time Systems Symposium
+- (<u>RTSS'25, RTSS'24, RTSS'23, RTSS'22</u>) IEEE Real-Time Systems Symposium
 - (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
 - (<u>ECRTS'24, ECRTS'23, ECRTS'22, ECRTS'19</u>) Euromicro Conference on Real-Time Systems
 - (<u>RTNS'21</u>) International Conference on Real-Time Networks and Systems
@@ -74,7 +74,7 @@ toc: false
 - (<u>JSA</u>) Journal of Sytems Architecture, Elsevier
 - (<u>MICPRO</u>) Microprocessors and Microsystems, Elsevier
 - (<u>RAS</u>) Robotics and Autonomous Systems, Elsevier
-- Parallel Computing, Elsevier
+- (<u>PARCO</u>) Elsevier Parallel Computing 
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - (<u>RA-L</u>) The IEEE Robotics and Automation Letters
 - (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems

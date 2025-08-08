@@ -16,6 +16,16 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 ---
 
 ## 2025
+- {{<tag-conference>}} <br>
+    {{< bibtitle "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" >}}
+    {{< bibauthors "Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain Bate, Shuai Zhao" >}}
+    **(*RTSS'25*)** IEEE Real-Time Systems Symposium. 2025. <br>
+
+- {{<tag-workshop>}} <br>
+    {{< bibtitle "Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems" >}}
+    {{< bibauthors "James Sutton, Xiaotian Dai" >}}
+    **(*TAROS'25*)** Towards Autonomous Robotic Systems Conference. 2025 <br>
+
 - {{<tag-journal>}} <br>
     {{< bibtitle "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions" >}}
     {{< bibauthors "Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, Xiaotian Dai, Shuai Zhao" >}}
