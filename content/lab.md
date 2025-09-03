@@ -52,20 +52,21 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
 ### Lab Advisors
-- [Prof. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
-- [Prof. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
+- [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/liup), University of York, UK
+- [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
+- [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
 
 ### Research Fellows
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
 - [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2028), Safety-Critical Digital Twin for Avionics (SCHEME project)
 
 ### PhD Students
-- [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RADIANT-VP)*, co-supervisor: Dr. Pengcheng Liu
-- [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. FREng. John McDermid → Research Fellow, University of York
+- [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
+- [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
 
 ### Academic Visitors
-- Haochun Liang, Real-time containers for Mixed-Criticality Real-Time Systems
+- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Student Visitor
 
 ### MSc Students
 - Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
@@ -75,13 +76,13 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
 ### UG Students
-- Chase Mo (2024/25), *Traffic detection for deriving KPIs*
-- Dom Decicco (2024/25), *Routerless Network-on-Chip optimization*
-- James Sutton (2024/25), *Multi-robot scheduling for warehouses*
-- Phoebe Russell (2024/25), *Traffic control with back-pressure*
-- Aron Hogarth (2024/25), *Gamification on High Education studying and learning of programming*
-- Riko Puusepp (2024/25), *AR for accellerating learning of programming*
-- Dean Kenny (2020/21), *Simulating and improving the scheduling in time-sensitive networks*
+- Chase Mo (2024-2025), *Traffic detection for deriving KPIs*
+- Dom Decicco (2024-2025), *Routerless Network-on-Chip optimization*
+- James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
+- Phoebe Russell (2024-2025), *Traffic control with back-pressure*
+- Aron Hogarth (2024-2025), *Gamification on High Education studying and learning of programming*
+- Riko Puusepp (2024-2025), *AR for accellerating learning of programming*
+- Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
 
 ---
 
