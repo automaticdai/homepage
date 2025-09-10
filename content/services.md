@@ -15,8 +15,8 @@ toc: false
 - Member of High Integrity Systems Engineering Research Group (HISE), University of York, UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
 - Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
-- Member of the Safety-Critical System Club (SCSC) at York
-- Member of Digital Creativity Network (DCN) at York
+- Member of the Safety-Critical System Club (SCSC) at University of York
+- Member of Digital Creativity Network (DCN) at University of York
 - Member of UKRI XR Networks+
 - Member of UKRI Digital Twin Network Plus (DTNet+)
 
@@ -24,11 +24,9 @@ toc: false
 
 ## Conference Organisation and Chairing
 
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'26</u>](https://2026.rtas.org/))
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'25</u>](https://2025.rtas.org/))
+- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'26</u>](https://2026.rtas.org/), [<u>RTAS'25</u>](https://2025.rtas.org/), [<u>RTAS'24</u>](https://2024.rtas.org/))
 - *Local Organisation*, IEEE Real-Time Systems Symposium ([<u>RTSS'24</u>](https://2024.rtss.org/))
 - *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems ([<u>SIES'24</u>](https://ieee-sies.org/))
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'24</u>](https://2024.rtas.org/))
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'23</u>](https://2023.rtas.org/))
 - *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS ([<u>WMC'22</u>](https://wmc2022.github.io/))
 - *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ [Monami'22](https://www.monami2022.org/)
@@ -42,16 +40,16 @@ toc: false
 
 ## Conference Technical Program Committee
 
-- (<u>RTSS'25, RTSS'24, RTSS'23, RTSS'22</u>) IEEE Real-Time Systems Symposium
-- (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>) IEEE Real-Time and Embedded Technology and Applications Symposium
-- (<u>ECRTS'24, ECRTS'23, ECRTS'22, ECRTS'19</u>) Euromicro Conference on Real-Time Systems
-- (<u>RTNS'21</u>) International Conference on Real-Time Networks and Systems
-- (<u>ICESS'22, ICESS'21, ICESS'20</u>) IEEE International Conference on Embedded Software and Systems
-- (<u>DSD'22, DSD'20</u>) Euromicro Conference on Digital System Design
-- (<u>AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>) Ada-Europe International Conference on Reliable Software Technologies
-- (<u>MOST'26, MOST'25</u>) IEEE International Conference on Mobility: Operations, Services, and Technologies
-- (<u>TAS'24, TAS'23</u>) International Symposium on Trustworthy Autonomous Systems
-- (<u>RAGE'24, RAGE'23, RAGE'22</u>) Real-time And intelliGent Edge computing workshop @ CPS-IoT Week
+- IEEE Real-Time Systems Symposium (<u>RTSS'25, RTSS'24, RTSS'23, RTSS'22</u>) 
+- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>) 
+- Euromicro Conference on Real-Time Systems (<u>ECRTS'24, ECRTS'23, ECRTS'22, ECRTS'19</u>)
+- International Conference on Real-Time Networks and Systems (<u>RTNS'21</u>) 
+- IEEE International Conference on Embedded Software and Systems (<u>ICESS'22, ICESS'21, ICESS'20</u>) 
+- Euromicro Conference on Digital System Design (<u>DSD'22, DSD'20</u>) 
+- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>) 
+- IEEE International Conference on Mobility: Operations, Services, and Technologies (<u>MOST'26, MOST'25</u>)
+- International Symposium on Trustworthy Autonomous Systems (<u>TAS'24, TAS'23</u>) 
+- Real-time And intelliGent Edge computing workshop (<u>RAGE'24, RAGE'23, RAGE'22</u>) 
 
 
 ---
@@ -63,8 +61,9 @@ toc: false
 
 ---
 
-## Reviewer
+## Reviewer of Journals/Conferences
 *Journals*:
+
 - (<u>TC</u>) IEEE Transactions on Computers
 - (<u>TPDS</u>) IEEE Transactions on Parallel and Distributed Systems
 - (<u>TCAD</u>) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
@@ -83,13 +82,13 @@ toc: false
 - (<u>COR</u>) Computers & Operations Research, Elsevier
 - (<u>NEUNET</u>) Neural Networks
 - (<u>FGCS</u>) Future Generation Computer Systems
+- Parallel Computing
 - Software - Practice and Experience, Wiley
 - IEEE Access
 - Journal of Supercomputing
 - Computer Standards & Interfaces
 - Connection Science
 - Sustainable Computing: Informatics and Systems
-- Parallel Computing
 
 *Conferences*:
 - RTSS'23, RTSS'22, RTSS'21

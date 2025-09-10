@@ -9,7 +9,7 @@ toc: false
 
 # ReFLEX Lab
 
-![](/img/reflex_topics.png)
+![](/img/reflex-logo-v2.png)
 
 ---
 
@@ -47,22 +47,27 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 ---
 
-## Our Team
+## Our Research Team
 ### Lab Lead
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
-### Lab Advisors
+### Research Advisors
+
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
 - [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/liup), University of York, UK
 - [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
 
 ### Research Fellows
+
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2028), Safety-Critical Digital Twin for Avionics (SCHEME project)
+- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
 
 ### PhD Students
 - [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
+
+Past:
+
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
 
 ### Academic Visitors
@@ -71,6 +76,9 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 ### MSc Students
 - Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
 - Zilun Zhang (2025), *Randomised DAG generator with AI based on small samples*
+
+Past:
+
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
@@ -82,6 +90,9 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 - Phoebe Russell (2024-2025), *Traffic control with back-pressure*
 - Aron Hogarth (2024-2025), *Gamification on High Education studying and learning of programming*
 - Riko Puusepp (2024-2025), *AR for accellerating learning of programming*
+
+Past:
+
 - Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
 
 ---
