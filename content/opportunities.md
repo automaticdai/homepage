@@ -51,10 +51,12 @@ For more information, please contact me via email (xiaotian.dai (at) york.ac.uk)
 
 ReFLEX lab is open for supervising undergraduate/MSc projects related to cyber-physical systems, some examples are:
 
+- Scheduling of large groups of robots in warehouse
 - Simulating and improving the scheduling in Time-Sensitive Networks
 - Large-scale scheduling of Time-Sensitive Networks
 - Traffic scheduling for smart transportation
 - Discrete simulation of Routerless Network-on-Chips
+- ......
 
 For more details, please look at the departmental project lists. We also accept self-defined projects should that align with the lab research objectives.
 

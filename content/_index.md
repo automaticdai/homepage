@@ -12,8 +12,6 @@ toc: false
 
 ---
 
-
-
 ## About
 I am a Lecturer in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/). My research focuses on the scheduling and verification of cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical applications. The applications of my interest include robotics, autonomous vehicles, avionic systems and other cyber-physical systems that must meet strict timing constraints.
 
@@ -43,21 +41,16 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ## News
 
-- {{< news "service" >}} Aug 2025: Invited as a TPC of RTSS 2025 (BP session).
-- {{< news "paper" >}} Aug 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at RTSS 2025!
+- {{< news "paper" >}} Sep 2025: Our paper "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" is published at IEEE TC!
+- {{< news "talk" >}} Aug 2025: I am giving a talk on digital twin for real-time cyber-physical systems at Systron Lab Research and Demo day.
+- {{< news "service" >}} Aug 2025: I am invited as a TPC of [RTSS 2025](https://2025.rtss.org/) (AE and BP sessions).
+- {{< news "paper" >}} Aug 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at RTSS 2025! Hope to see you all in Boston in December!
 - {{< news "service" >}} Aug 2025: Invited as the publication chair of [RTAS 2026](https://2026.rtas.org/).
 - {{< news "paper" >}} July 2025: Our poster "Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems" is published at [TAROS'25](https://taros-conference.org/)!
 - {{< news "service" >}} July 2025: Invited as a TPC member of [MOST 2026](https://ieeemobility.org/MOST2026/).
 - {{< news "project" >}} July 2025: Our resident programme proposal was accepted by XR Stories, which will focus on robots and digital twins for virutial production ([see details here](https://xrstories.co.uk/xr-stories-welcomes-university-of-york-researchers-in-residence/)).
 - {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in JSA [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X).
-- {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/).
-- {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/).
-- {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
-- {{< news "service" >}} Sep 2024: Invited as the publication chair and a TPC member of [RTAS 2025](https://2025.rtas.org/).
-- {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
-- {{< news "service" >}} Apr 2024: Invited as a TPC member of [TAS 2024](https://symposium.tas.ac.uk/2024/).
-- {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
 
-Please visit [News](https://www.xiaotiandai.com/news) for all the news.
+Please visit [News](https://www.xiaotiandai.com/news) for more news.
 
 ---

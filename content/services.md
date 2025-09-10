@@ -17,7 +17,7 @@ toc: false
 - Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
 - Member of the Safety-Critical System Club (SCSC) at York
 - Member of Digital Creativity Network (DCN) at York
-- Member of XR Networks+
+- Member of UKRI XR Networks+
 - Member of UKRI Digital Twin Network Plus (DTNet+)
 
 ---

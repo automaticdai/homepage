@@ -16,6 +16,13 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 ---
 
 ## 2025
+- {{<tag-journal>}} <br>
+    {{< bibtitle "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" >}}
+    {{< bibauthors "Nan Chen, Xiaotian Dai , Alan Burns , Iain Bate" >}}
+    **(*TC*)** IEEE Transactions on Computers. 2025. <br>
+    [\[Paper\]](https://www.computer.org/csdl/journal/tc/5555/01/11152392/29LASHEm3x6)
+
+
 - {{<tag-conference>}} <br>
     {{< bibtitle "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" >}}
     {{< bibauthors "Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain Bate, Shuai Zhao" >}}
@@ -30,7 +37,7 @@ For a full list of publications, please visit my [Google Scholar](https://schola
     {{< bibtitle "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions" >}}
     {{< bibauthors "Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, Xiaotian Dai, Shuai Zhao" >}}
     **(*JSA*)** Journal of Systems Architecture. 2025.  <br>
-    [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S138376212500044X)
+    [\[Paper\]](https://pure.york.ac.uk/portal/files/117261772/JSA24_Cache_aware_DAG.pdf)
 
 ## 2024
 - {{<tag-chapter>}} <br>

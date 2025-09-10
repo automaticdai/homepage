@@ -86,11 +86,18 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 ---
 
+## Open-Source Projects
+
+Please check our GitHub: [ReFLEX-Lab-York](https://github.com/ReFLEX-Lab-York).
+
+---
+
 ## Contact
 Dr. Steven Xiaotian Dai  
-(xiaotian.dai@york.ac.uk)  
+(xiaotian.dai (at) york.ac.uk)  
+Ian Wand Building  
 Department of Computer Science  
-University of York, UK  
+University of York, York, UK  
 YO10 5GH
 
 ---
