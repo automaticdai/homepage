@@ -23,7 +23,7 @@ You can find more about my research interests and projects in [the research page
 
 ---
 
-## Background
+### Background
 
 From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), which is the top real-time research group in the UK. The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
 
@@ -45,7 +45,7 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ---
 
-##  Personal and Misc
+###  Personal and Misc
 
 - [Real-time & embedded systems conferences tracking](https://automaticdai.github.io/realtime-embedded-conferences/)
 - [My robotics projects](https://www.xiaotiandai.com/robots/)
