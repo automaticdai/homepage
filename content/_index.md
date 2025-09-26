@@ -15,9 +15,9 @@ toc: false
 ## About Me
 I am a Lecturer in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/). My research focuses on the scheduling and verification of cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical applications. The applications of my interest include robotics, autonomous vehicles, avionic systems and other cyber-physical systems that must meet strict timing constraints.
 
-**Expertise:** My work has contributed to innovative modeling, scheduling, simulation, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
+*Expertise:* My work has contributed to innovative modeling, scheduling, simulation, and analysis techniques; digital twins for runtime improvement; and specialized hardware designs for safety-critical embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
 
-**Track-record:** To date, I have published over 30 papers with 500+ citations and an H-index of 12. I am regularly serve as a Technical Program Committee (TPC) member and reviewer for prominent conferences and journals spanning real-time embedded systems, robotics, and design automation.
+*Track-record:* To date, I have published over 30 papers with 500+ citations and an H-index of 12. I am regularly serve as a Technical Program Committee (TPC) member and reviewer for prominent conferences and journals spanning real-time embedded systems, robotics, and design automation.
 
 You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/opportunities/).
 
@@ -35,12 +35,10 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ### Research Expertise
 
-- Scheduling and verification of cyber-physical systems  
-- Timing analysis  
+- Scheduling and timing analysis of real-time & cyber-physical systems  
 - Improving scheduling flexibility & adaptability for safety-critical applications  
-- Modeling, simulation & analysis techniques  
-- Digital twins for runtime improvement  
-- Specialized hardware designs for safety-critical embedded systems  
+- Digital twins for runtime modelling, simulation, optimisation and improvement  
+- Hardware designs for safety-critical embedded systems  
 - Ensuring operational safety, robustness & resilience within robotics & autonomous systems
 
 ---
