@@ -2,6 +2,7 @@
 title: ATAS - Adaptive Task Scheduling Framework for CPS
 authorbox: false
 sidebar: false
+show_on_homepage: false
 toc: false
 ---
 

@@ -2,6 +2,7 @@
 title: DEIS - Dependability Engineering Innovation for CPS
 authorbox: false
 sidebar: false
+show_on_homepage: false
 toc: false
 ---
 
