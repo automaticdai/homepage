@@ -7,7 +7,7 @@ weight: 3
 toc: false
 ---
 
-# Pulications
+# Publications
 
 ---
 
