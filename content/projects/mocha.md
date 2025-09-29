@@ -2,7 +2,8 @@
 title: MOCHA - Modelling and Optimising Complex Heterogenous Architectures
 authorbox: false
 sidebar: false
-show_on_homepage: false
+_build:
+  list: never
 toc: false
 ---
 
