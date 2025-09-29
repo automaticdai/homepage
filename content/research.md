@@ -41,7 +41,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The project aims to build UK national resilience in high-integrity avionics design and manufacturing.
 
-[**Read more about SCHEME →**](projects/scheme)
+[**Read more about SCHEME →**](/projects/scheme)
 
 ### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
 *(2019 - 2022) RA, University of York*  
@@ -49,7 +49,7 @@ Developing a new generation of UK-native, safety critical and cyber-secure micro
 
 Research into building statistical models of systems and adaptive policies for complex heterogeneous architectures, addressing high overheads and low cache hit rates in real-time systems.
 
-[**Read more about MOCHA →**](projects/mocha)
+[**Read more about MOCHA →**](/projects/mocha)
 
 ### ➤ DEIS: Dependability Engineering Innovation for CPS
 *(2018 - 2019) RA, University of York*  
@@ -57,14 +57,14 @@ Research into building statistical models of systems and adaptive policies for c
 
 Developing technologies that enable dependable system integration through the concept of Digital Dependability Identity (DDI) for cyber-physical systems.
 
-[**Read more about DEIS →**](projects/deis)
+[**Read more about DEIS →**](/projects/deis)
 
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
 *(2015 - 2018) PhD Student, University of York*
 
 An adaptive real-time scheduling framework for Cyber-Physical Control Systems with hierarchical structure, dynamic WCET analysis, and dual-period operational modes.
 
-[**Read more about ATAS →**](projects/atas)
+[**Read more about ATAS →**](/projects/atas)
 
 
 

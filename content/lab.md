@@ -35,7 +35,7 @@ This reseach explores advanced scheduling techniques and timing assurance method
 
 **Related Projects:**
 
-- [SCHEME: Safety Critical Harsh Environment Micro-processing Evolution](projects/scheme)
+- [SCHEME: Safety Critical Harsh Environment Micro-processing Evolution](/projects/scheme)
 
 ### ➤ Multi-core and network scheduling and allocation for autonomous driving
 Autonomous driving systems require real-time processing of vast amounts of sensor data, decision-making algorithms, and communication with other vehicles and infrastructure. Efficient scheduling and resource allocation across multiple cores and network components are critical to ensure safety, reliability, and performance. This work explores advanced multi-core processing strategies and network scheduling techniques tailored for autonomous vehicles, aiming to optimize computational efficiency, reduce latency, and enhance system robustness.
@@ -49,8 +49,8 @@ Cyber-physical systems (CPS) are increasingly prevalent in diverse domains such 
 
 **Related Projects:**
 
-- [MOCHA: Modelling and Optimising Complex Heterogenous Architectures](projects/mocha)
-- [ATAS: Adaptive Task Scheduling Framework for CPS](projects/atas)
+- [MOCHA: Modelling and Optimising Complex Heterogenous Architectures](/projects/mocha)
+- [ATAS: Adaptive Task Scheduling Framework for CPS](/projects/atas)
 
 ### ➤ Real-time digital twin and robotics for virtual production
 This project explores the integration of advanced digital twin technology with robotics systems to revolutionize virtual production workflows. By creating highly accurate, real-time virtual replicas of physical environments and assets, combined with robotic automation, we aim to enhance efficiency, flexibility, and creative possibilities in film, television, and live events.
@@ -64,7 +64,7 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 **Related Projects:**
 
-- [DEIS: Dependability Engineering Innovation for CPS](projects/deis)
+- [DEIS: Dependability Engineering Innovation for CPS](/projects/deis)
 
 ---
 

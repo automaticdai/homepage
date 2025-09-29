@@ -2,8 +2,6 @@
 title: SCHEME - Safety Critical Harsh Environment Micro-processing Evolution
 authorbox: false
 sidebar: false
-menu: main
-weight: 8
 toc: false
 ---
 
