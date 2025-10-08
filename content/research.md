@@ -28,8 +28,9 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ## Research Grants
 - CoI, Innovate UK, *SCHEME - Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m, 05/2023-04/2027
+- PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
-- PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, University of York, £6K, 09/2023-09/2026
+- PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, £6K, 09/2023-09/2026
 
 ---
 
