@@ -8,9 +8,22 @@ toc: false
 ---
 
 # Opportunities
-## 1. For prospective PhD students
+## Why join ReFLEX Lab?
 
-Note that a PhD programme is a commitment of 3-4 years of hard work. You should have the expectation that this is a hard path to go, and not everyone can finish it. If you are (still) interested in applying for a PhD, please continue to read ---
+- *Cutting-edge research*: Work on impactful problems at the intersection of real-time systems, robotics, AI, and cyber-physical systems
+- *Collaborative environment*: Join a supportive team of researchers working on interdisciplinary projects
+- *Strong track record*: Our lab has published in top-tier conferences and journals (RTSS, RTAS, EMSOFT, TC, TCAD, etc.)
+- *Industry connections*: Opportunities to collaborate with industry partners and apply research to real-world problems
+- *Resources and facilities*: Access to state-of-the-art computing facilities, robotic platforms, and experimental setups
+- *Professional development*: Opportunities to present at international conferences, participate in summer schools, and build your academic network
+
+---
+
+## For prospective PhD students
+
+A PhD programme is a rewarding 3-4 year journey that offers the opportunity to conduct cutting-edge research, develop expertise in your field, and contribute to advancing knowledge in real-time systems and cyber-physical systems. While it requires dedication and perseverance, the experience provides invaluable skills, international collaborations, and career opportunities in both academia and industry.
+
+**Research directions:**
 
 I am happy to supervise the following research directions with some example topics:
 
@@ -33,12 +46,16 @@ I am happy to supervise the following research directions with some example topi
     - Efficient, safe, secure hardware for RTS and IoT applications.
     - Instruction set architecture (ISA) for real-time systems.
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss immature ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to ease the discussion. The standard entry time for PhDs is normally in October and April, but other starting dates can be settled.
+Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss early-stage ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to facilitate a more productive discussion. The standard entry time for PhDs is normally in October and April, but other starting dates can be settled.
 
-The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). There are also opportunities from our CDT centers [SAINTS Safe AI](https://www.york.ac.uk/study/postgraduate-research/centres-doctoral-training/safe-ai-training/) and [iGGi](https://www.iggi-phd.org/). If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
+**About funding:**
+- The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). 
+- There are also opportunities from our CDT (Centre for Doctoral Training centers) [SAINTS Safe AI](https://www.york.ac.uk/study/postgraduate-research/centres-doctoral-training/safe-ai-training/) and [iGGi](https://www.iggi-phd.org/). 
+- If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
 
+---
 
-## 2. Guide to PhD/Professor visitors
+## Guide for PhD/Professor visitors
 
 If you are a PhD student, or a Professor from a UK or non-UK university,
 - Please check [this information page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab.
@@ -46,18 +63,19 @@ If you are a PhD student, or a Professor from a UK or non-UK university,
 
 For more information, please contact me via email (xiaotian.dai (at) york.ac.uk).
 
+---
 
-## 3. Guide to UG/MSc students
+## Guide for UG/MSc students
 
-ReFLEX lab is open for supervising undergraduate/MSc projects related to cyber-physical systems, some examples are:
+ReFLEX lab is open for supervising undergraduate/MSc projects related to real-time and cyber-physical systems, some example projects are:
 
 - Scheduling of large groups of robots in warehouse
-- Simulating and improving the scheduling in Time-Sensitive Networks
-- Large-scale scheduling of Time-Sensitive Networks
 - Traffic scheduling for smart transportation
 - Discrete simulation of Routerless Network-on-Chips
-- ......
+- Real-time task scheduling and resource allocation algorithms
+- Timing analysis and verification tools for embedded systems
+- Digital twin development for cyber-physical systems
 
-For more details, please look at the departmental project lists. We also accept self-defined projects should that align with the lab research objectives.
+For more details, please look at the departmental project lists. We also accept self-defined projects if they align with the lab research objectives.
 
 ---

@@ -82,10 +82,11 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 ### Research Fellows
 
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://www.cs.york.ac.uk/people/?group=ai&username=felix) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
+- [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
 
 ### PhD Students
-- [Modie Al Shakarchi](https://www.maximodgames.com/) (2025-2027), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
+- Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
+- Manal Abdelrahman (2023-2026), *DDTwins - An Industiral Digial Twin Framework*, co-supervisor: Suresh Perinpanayagam
 
 Past students:
 
@@ -94,27 +95,27 @@ Past students:
 ### Academic Visitors
 - Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Student Visitor
 
-### MSc Students
-- Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
-- Zilun Zhang (2025), *Randomised DAG generator with AI based on small samples*
+### UG Students
+*(Last cohort has finished in June.)*
 
 Past students:
-
-- Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
-- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
-- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
-
-### UG Students
 - Chase Mo (2024-2025), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024-2025), *Routerless Network-on-Chip optimization*
 - James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
 - Phoebe Russell (2024-2025), *Traffic control with back-pressure*
 - Aron Hogarth (2024-2025), *Gamification on High Education studying and learning of programming*
 - Riko Puusepp (2024-2025), *AR for accellerating learning of programming*
+- Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
+
+### MSc Students
+*(Last cohort has finished in Oct.)*
 
 Past students:
-
-- Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
+- Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
+- Zilun Zhang (2025), *Randomised DAG generator with AI based on small samples*
+- Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
+- Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
+- Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
 ---
 

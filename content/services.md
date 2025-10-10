@@ -15,7 +15,6 @@ toc: false
 - Member of High Integrity Systems Engineering Research Group (HISE), University of York, UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
 - Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
-- Member of the Safety-Critical System Club (SCSC) at University of York
 - Member of Digital Creativity Network (DCN) at University of York
 - Member of UKRI XR Networks+
 - Member of UKRI Digital Twin Network Plus (DTNet+)
@@ -58,6 +57,13 @@ toc: false
 
 - *Guest Editor*, Real-Time Systems Journal (RTSJ), [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3)
 
+
+---
+
+## External Service
+
+- PhD Examnier (University of Newcastle)
+- UKRI Expert Reviewer
 
 ---
 
