@@ -100,18 +100,19 @@ Past students:
 - Huzaifa Thakur (2025-26), Imitation Learning for Humanoid Robot Training
 - Luke Tissiman (2025-26), Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems
 - Maciek Racis (2025-26), People Detection for Autonomous Retail and Smart Refrigeration Systems
+- Mikolaj Wyrzykowski (2025-26), Imitation Learning for Humanoid Robot Training
 - Mohamed Eljak (2025-26), Edge AI for Real-Time Anomaly Detection in Robotic Systems
 - Rosie Kern (2025-26), Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems
 - Sam Knight (2025-26), Embedded GPU Interference Analysis for Real-Time Robotics
 
 Past students:
-- Chase Mo (2024-2025), *Traffic detection for deriving KPIs*
-- Dom Decicco (2024-2025), *Routerless Network-on-Chip optimization*
-- James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
-- Phoebe Russell (2024-2025), *Traffic control with back-pressure*
-- Aron Hogarth (2024-2025), *Gamification on High Education studying and learning of programming*
-- Riko Puusepp (2024-2025), *AR for accellerating learning of programming*
-- Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
+- Chase Mo (2024-25), *Traffic detection for deriving KPIs*
+- Dom Decicco (2024-25), *Routerless Network-on-Chip optimization*
+- James Sutton (2024-25), *Multi-robot scheduling for warehouses*
+- Phoebe Russell (2024-25), *Traffic control with back-pressure*
+- Aron Hogarth (2024-25), *Gamification on High Education studying and learning of programming*
+- Riko Puusepp (2024-25), *AR for accellerating learning of programming*
+- Dean Kenny (2020-21), *Simulating and improving the scheduling in time-sensitive networks*
 
 ### MSc Students
 *(Last cohort has finished in Oct.)*
