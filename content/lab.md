@@ -96,14 +96,15 @@ Past students:
 - Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Student Visitor
 
 ### UG Students
-- Charlie Piper (2025-26), Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions
-- Huzaifa Thakur (2025-26), Imitation Learning for Humanoid Robot Training
-- Luke Tissiman (2025-26), Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems
-- Maciek Racis (2025-26), People Detection for Autonomous Retail and Smart Refrigeration Systems
-- Mikolaj Wyrzykowski (2025-26), Imitation Learning for Humanoid Robot Training
-- Mohamed Eljak (2025-26), Edge AI for Real-Time Anomaly Detection in Robotic Systems
-- Rosie Kern (2025-26), Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems
-- Sam Knight (2025-26), Embedded GPU Interference Analysis for Real-Time Robotics
+- Charlie Piper (2025-26), *Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions*
+- Huzaifa Thakur (2025-26), *Imitation Learning for Humanoid Robot Training*
+- Luke Tissiman (2025-26), *Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems*
+- Maciek Racis (2025-26), *People Detection for Autonomous Retail and Smart Refrigeration Systems*
+- Wrijurekh Mukherjee (2025-26), *People Detection for Autonomous Retail and Smart Refrigeration Systems*
+- Mikolaj Wyrzykowski (2025-26), *Imitation Learning for Humanoid Robot Training*
+- Mohamed Eljak (2025-26), *Edge AI for Real-Time Anomaly Detection in Robotic Systems*
+- Rosie Kern (2025-26), *Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems*
+- Sam Knight (2025-26), *Embedded GPU Interference Analysis for Real-Time Robotics*
 
 Past students:
 - Chase Mo (2024-25), *Traffic detection for deriving KPIs*
