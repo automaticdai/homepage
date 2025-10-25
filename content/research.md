@@ -27,8 +27,9 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 ---
 
 ## Research Grants
-- CoI, Innovate UK, *SCHEME - Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m, 05/2023-04/2027
+- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
+- PI, Google Cloud Research Credits Program, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
 - PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, £6K, 09/2023-09/2026
 
@@ -74,10 +75,10 @@ An adaptive real-time scheduling framework for Cyber-Physical Control Systems wi
 ## Research Involvement
 Research projects which I am formally or informally involved:
 - [The Assuring Autonomy International Programme (AAIP)](https://www.york.ac.uk/assuring-autonomy/)
-- [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
-- [Future factories in the Cloud (FiC)]((https://research.chalmers.se/en/project/7231))
 - [XR Stories](https://xrstories.co.uk/)
 - [CoSTAR](https://www.costarnetwork.co.uk/)
+- [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
+- [Future factories in the Cloud (FiC)]((https://research.chalmers.se/en/project/7231))
 
 
 
