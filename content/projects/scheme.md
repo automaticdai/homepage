@@ -10,7 +10,7 @@ toc: false
 # SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 
 *(2023 - 2028) Co-I, University of York*  
-*Funded by Innovate UK, £2,270,617*
+*Funded by Innovate UK, £2,270,617 (out of £22m)*
 
 ---
 

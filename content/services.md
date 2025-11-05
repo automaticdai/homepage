@@ -12,16 +12,14 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- Member of High Integrity Systems Engineering Research Group (HISE), University of York, UK
 - Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
 - Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
-- Member of Digital Creativity Network (DCN) at University of York
-- Member of UKRI XR Networks+
 - Member of UKRI Digital Twin Network Plus (DTNet+)
+- Member of UKRI XR Networks+
 
 ---
 
-## Conference Organisation and Chairing
+## Conference Chairing and Organisation
 
 - *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'26</u>](https://2026.rtas.org/), [<u>RTAS'25</u>](https://2025.rtas.org/), [<u>RTAS'24</u>](https://2024.rtas.org/))
 - *Local Organisation*, IEEE Real-Time Systems Symposium ([<u>RTSS'24</u>](https://2024.rtss.org/))
@@ -37,7 +35,7 @@ toc: false
 
 ---
 
-## Conference Technical Program Committee
+## Conference Technical Program Committee (TPC)
 
 - IEEE Real-Time Systems Symposium (<u>RTSS'25, RTSS'24, RTSS'23, RTSS'22</u>) 
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>) 
@@ -62,8 +60,8 @@ toc: false
 
 ## External Service
 
-- PhD Examnier (University of Newcastle)
-- UKRI Expert Reviewer
+- External Examiner for Doctoral Thesis, University of Newcastle
+- Expert Reviewer for the UK Research and Innovation (UKRI)
 
 ---
 

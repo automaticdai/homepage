@@ -60,6 +60,7 @@ Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss th
 If you are a PhD student, or a Professor from a UK or non-UK university,
 - Please check [this information page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab.
 - Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
+- Note that you do need an ATAS in order to conduct research in the UK.
 
 For more information, please contact me via email (xiaotian.dai (at) york.ac.uk).
 

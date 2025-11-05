@@ -27,9 +27,10 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 ---
 
 ## Research Grants
-- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m, 05/2023-04/2028
+
+- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
-- PI, Google Cloud Research Credits Program, £3,731, 10/2025-04/2026
+- PI, Google Cloud Research Credits Program, *Immitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
 - PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, £6K, 09/2023-09/2026
 
@@ -39,7 +40,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 *(2023 - 2028) Co-I, University of York*  
-*Funded by Innovate UK, £2,270,617*
+*Funded by Innovate UK, £2,270,617 (out of £22m)*
 
 Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The project aims to build UK national resilience in high-integrity avionics design and manufacturing.
 
@@ -73,6 +74,7 @@ An adaptive real-time scheduling framework for Cyber-Physical Control Systems wi
 ---
 
 ## Research Involvement
+
 Research projects which I am formally or informally involved:
 - [The Assuring Autonomy International Programme (AAIP)](https://www.york.ac.uk/assuring-autonomy/)
 - [XR Stories](https://xrstories.co.uk/)
@@ -85,11 +87,12 @@ Research projects which I am formally or informally involved:
 ---
 
 ## Open-Source Software
+
 - [dag-gen-rnd: A Randomized Multi-DAG Task Generator for Scheduling and Allocation Research](https://github.com/automaticdai/dag-gen-rnd)
 - [DAG Scheduling Simulator on Multiprocessor Systems](https://github.com/automaticdai/research-dag-scheduling-analysis)
 - [Fixed Priority Scheduling and Controller Co-Design for TSN](https://github.com/automaticdai/research-sched-tsn)
 - [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
 
-Please check our [GitHub](https://www.github.com/automaticdai) for more projects.
+Please check my [GitHub](https://www.github.com/automaticdai) for more projects.
 
 ---

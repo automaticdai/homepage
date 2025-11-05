@@ -14,9 +14,9 @@ I believe in fostering a dynamic and interactive learning environment that encou
 ## Embedded Systems Design & Implementation (EMBS)
 [2025/26 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2025-26) | [2024/25 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2024-25) | [2023/24 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00003H/2023-24)
 
-- Module Leader
-- @ University of York
-- For UG (Stage 3 & 4) / PGT students
+- Module Leader @ University of York
+- This module is for UG (Stage 3 & 4) / PGT students
+- 4.3/5 based on student feedback!
 
 This course covers the principles and practices of embedded systems design, including real-time operating systems, hardware-software co-design, and IoT applications.
 
@@ -25,9 +25,9 @@ This course covers the principles and practices of embedded systems design, incl
 ## High Performance Computing Systems (HIPC)
 [2025/26 Fall](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2025-26) | [2024/25 Fall](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2024-25) | [2023/24 Fall](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2023-24) | [2022/23 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2022-23) | [2021/22 Spring](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00036H/2021-22)
 
-- Module Co-Leader
-- @ University of York
-- For UG (Stage 3 & 4) / PGT students
+- Module Co-Leader @ University of York
+- This module is for UG (Stage 3 & 4) / PGT students
+- 5/5 based on student feedback!
 
 This course explores advanced topics in high performance computing, including parallel programming models, performance optimization, and emerging architectures.
 
