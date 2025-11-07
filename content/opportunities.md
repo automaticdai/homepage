@@ -68,7 +68,9 @@ For more information, please contact me via email (xiaotian.dai (at) york.ac.uk)
 
 ## Guide for UG/MSc students
 
-ReFLEX lab is open for supervising undergraduate/MSc projects related to real-time and cyber-physical systems, some example projects are:
+ReFLEX lab is open for supervising UG/MSc projects related to real-time and cyber-physical systems. All of our projects are research-informed and most have a connection with real-world systems. 
+
+Some example projects are:
 
 - Scheduling of large groups of robots in warehouse
 - Traffic scheduling for smart transportation
