@@ -18,6 +18,7 @@ toc: false
 - {{< news "service" >}} Feb 2024: Invited as the publication chair of [SIES 2024](https://ieee-sies.org/).
 
 ## 2023
+- {{< news "news" >}} Nov 2023: SCHEME project featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version).
 - {{< news "news" >}} Oct 2023: Started as a Lecturer in Cyber-Physical Systems at the University of York.
 - {{< news "service" >}} July 2023: Invited as the Publication Chair of [RTAS 2024](https://2024.rtas.org/).
 - {{< news "news" >}} Apr 2023: I am attending the UK Systems Research Challenges workshop. See you there!

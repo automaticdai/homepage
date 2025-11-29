@@ -40,9 +40,9 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 *(2023 - 2028) Co-I, University of York*  
-*Funded by Innovate UK, £2,270,617 (out of £22m)*
+*Funded by Innovate UK, £2,270,617 (out of £41.7m)*
 
-Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The project aims to build UK national resilience in high-integrity avionics design and manufacturing.
+Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The project aims to build UK national resilience in high-integrity avionics design and manufacturing. SCHEME has been featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version).
 
 [**Read more about SCHEME →**](/projects/scheme)
 

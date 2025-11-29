@@ -107,6 +107,12 @@ toc: false
 
 ---
 
+## Featured in Media
+
+- *SCHEME Project*, featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version), Nov 2023
+
+---
+
 ## External Service
 
 - External Examiner for Doctoral Thesis, University of Newcastle

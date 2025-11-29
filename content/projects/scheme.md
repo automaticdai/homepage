@@ -10,7 +10,7 @@ toc: false
 # SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 
 *(2023 - 2028) Co-I, University of York*  
-*Funded by Innovate UK, £2,270,617 (out of £22m)*
+*Funded by Innovate UK, £2,270,617 (out of £41.7m)*
 
 ---
 
@@ -31,6 +31,10 @@ This project will build UK national resilience in this area and make the process
 ## Project Partners
 
 The project is partly funded by the UK government agencies, BEIS, ATI, and Innovate UK. Rolls-Royce is joined by TT Electronics, Volant Autonomy, Rapita Systems, Adacore, The Manufacturing Technology Centre, Queen's University Belfast, University of Bristol, University of Sheffield, and University of York.
+
+## Recognition
+
+SCHEME has been featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version), highlighting the project's contribution to building UK national resilience in high-integrity avionics design and manufacturing.
 
 ---
 

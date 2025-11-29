@@ -9,7 +9,7 @@ toc: false
 
 # ReFLEX Lab
 
-![](/img/reflex-logo-v2.png)
+![](/img/reflex-lab-logo.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ toc: false
 
 ---
 
-## Introduction
+## 1. Introduction
 At Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
 A digital twin is a highly sophisticated virtual replica of a physical asset, process, or system that enables real-time monitoring, analysis, and simulation. By integrating data from sensors and IoT devices, digital twins provide valuable insights into the current state of the physical counterpart, facilitating predictive maintenance, performance optimization, and enhanced decision-making. This technology is widely used across industries such as manufacturing, healthcare, and urban planning to improve operational efficiency and reduce costs. As digital twin technology continues to evolve with advancements in artificial intelligence and machine learning, its ability to simulate complex scenarios with high accuracy makes it an indispensable tool for proactive management and innovation.
@@ -29,7 +29,7 @@ Scheduling plays a critical role in optimizing workflows and resource allocation
 
 ---
 
-## Our Research
+## 2. Our Research
 ### ➤ Mixed-criticality scheduling and timing assurance for avionics
 This reseach explores advanced scheduling techniques and timing assurance methods tailored for mixed-criticality avionics systems. Given the increasing complexity and safety requirements of modern aircraft, ensuring reliable operation across diverse criticality levels is paramount. The study investigates novel algorithms that optimize task scheduling, enhance predictability, and guarantee timing constraints in environments where high-criticality functions coexist with lower-criticality tasks. The proposed approaches aim to improve system safety, reliability, and efficiency, contributing to the development of robust avionics architectures capable of meeting stringent certification standards.
 
@@ -68,34 +68,25 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 ---
 
-## Our Research Team
-### Lab Lead
+## 3. Our Research Team
+### ➤ Lab Lead
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
-### Research Advisors
-
-- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/), University of York, UK
-- [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/liup), University of York, UK
-- [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
-- [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/), University of York, UK
-
-### Research Fellows
+### ➤ Research Fellows
 
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
 - [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
 
-### PhD Students
+### ➤ PhD Students
 - Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
 - Manal Abdelrahman (2023-2026), *DDTwins - An Industiral Digial Twin Framework*, co-supervisor: Suresh Perinpanayagam
+- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Visting Student
 
 Past students:
 
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
 
-### Academic Visitors
-- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Student Visitor
-
-### UG Students
+### ➤ UG Students
 - Charlie Piper (2025-26), *Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions*
 - Huzaifa Thakur (2025-26), *Imitation Learning for Humanoid Robot Training*
 - Luke Tissiman (2025-26), *Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems*
@@ -115,7 +106,7 @@ Past students:
 - Riko Puusepp (2024-25), *AR for accellerating learning of programming*
 - Dean Kenny (2020-21), *Simulating and improving the scheduling in time-sensitive networks*
 
-### MSc Students
+### ➤ MSc Students
 *(Last cohort has finished in Oct.)*
 
 Past students:
@@ -125,20 +116,17 @@ Past students:
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
+
+### ➤ Research Advisors
+- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/) (CS HoD), University of York, UK
+- [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/liup) (RTDS Group Lead), University of York, UK
+- [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
+- [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/) (ISA Director), University of York, UK
+
 ---
 
-## Open-Source Projects
+## 4. Open-Source Projects
 
 Please check our GitHub: [ReFLEX-Lab-York](https://github.com/ReFLEX-Lab-York).
-
----
-
-## Contact
-Dr. Steven Xiaotian Dai  
-(xiaotian.dai (at) york.ac.uk)  
-Ian Wand Building  
-Department of Computer Science  
-University of York, York, UK  
-YO10 5GH
 
 ---

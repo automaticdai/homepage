@@ -8,8 +8,7 @@ toc: false
 ---
 
 # Opportunities
-## Why join ReFLEX Lab?
-
+## 1. Why join ReFLEX Lab?
 - *Cutting-edge research*: Work on impactful problems at the intersection of real-time systems, robotics, AI, and cyber-physical systems
 - *Collaborative environment*: Join a supportive team of researchers working on interdisciplinary projects
 - *Strong track record*: Our lab has published in top-tier conferences and journals (RTSS, RTAS, EMSOFT, TC, TCAD, etc.)
@@ -19,54 +18,113 @@ toc: false
 
 ---
 
-## For prospective PhD students
+## 2. PhD Opportunities
 
-A PhD programme is a rewarding 3-4 year journey that offers the opportunity to conduct cutting-edge research, develop expertise in your field, and contribute to advancing knowledge in real-time systems and cyber-physical systems. While it requires dedication and perseverance, the experience provides invaluable skills, international collaborations, and career opportunities in both academia and industry.
+A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct groundbreaking research, develop deep expertise, and contribute to advancing the state-of-the-art in real-time systems and cyber-physical systems. You'll join a supportive community of researchers working on projects that have real-world impact.
 
-**Research directions:**
+### What You'll Gain
 
-I am happy to supervise the following research directions with some example topics:
+- **Deep Expertise**: Become a leading expert in your chosen research area
+- **Research Skills**: Learn to identify problems, design solutions, and validate your work
+- **Professional Network**: Build connections with leading researchers and industry professionals
+- **Career Flexibility**: Open doors to careers in academia, industry R&D, or entrepreneurship
+- **Personal Growth**: Develop resilience, critical thinking, and problem-solving skills
 
-- (R.1) Scheduling and allocation of real-time systems
-    - Novel scheduling and allocation methods for real-time systems
-    - Interference and contention modelling and analysis on multi- and many-cores
-    - Scheduling on complex architectures, including many-cores and CPU-GPU heterogeneous platforms
-- (R.2) Digital Twins for real-time embedded systems
-    - Dynamic modelling and verification of real-time systems
-    - Use digital twins to improve scheduling and allocation of real-time systems
-    - Fault and hazard identification using digital twins
-- (R.3) Addressing timing problems in Robotics and AI
-    - Timing assurance of robotic and autonomous systems using, for example, probabilistic models and formal methods
-    - Multi-robot systems scheduling, management and coordination
-    - Timing analysis of ROS 2 executors
-- (R.4) Design and verification of Long-lived Cyber-Physical Systems
-    - Using digital twin to develop and improve CPS
-    - Formal verification of CPS
-- (R.5) Hardware for real-time systems and internet-of-things
-    - Efficient, safe, secure hardware for RTS and IoT applications.
-    - Instruction set architecture (ISA) for real-time systems.
+### Research Directions
 
-Please drop me an email (xiaotian.dai (at) york.ac.uk) if you want to discuss this further. I am happy to discuss early-stage ideas and would appreciate it if a more detailed proposal ([details are here](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/)) could be provided to facilitate a more productive discussion. The standard entry time for PhDs is normally in October and April, but other starting dates can be settled.
+I'm excited to supervise PhD students in the following areas. Each direction offers exciting opportunities to make significant contributions:
 
-**About funding:**
-- The department is offering a limited number of studentships, [details can be found here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/). 
-- There are also opportunities from our CDT (Centre for Doctoral Training centers) [SAINTS Safe AI](https://www.york.ac.uk/study/postgraduate-research/centres-doctoral-training/safe-ai-training/) and [iGGi](https://www.iggi-phd.org/). 
-- If you are from China, please find details on the [China Scholarships Council Scholarship (CSC)](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
+#### **(R.1) Scheduling and Allocation of Real-Time Systems**
+Design the next generation of scheduling algorithms for complex computing platforms. Work on:
+- Novel scheduling methods for multi-core and many-core systems
+- Interference and contention modeling for modern architectures
+- Scheduling on heterogeneous platforms (CPU-GPU, CPU-FPGA)
+- Real-time guarantees for safety-critical applications
+
+*Why it matters*: As systems become more complex, efficient scheduling is crucial for autonomous vehicles, aerospace systems, and industrial automation.
+
+#### **(R.2) Digital Twins for Real-Time Embedded Systems**
+Build virtual replicas that enable real-time monitoring, optimization, and verification. Explore:
+- Dynamic modeling and verification of real-time systems
+- Using digital twins to improve scheduling and resource allocation
+- Fault and hazard identification through simulation
+- Predictive maintenance and performance optimization
+
+*Why it matters*: Digital twins are revolutionizing how we design, operate, and maintain complex systems — from aircraft to smart factories.
+
+#### **(R.3) Timing Assurance in Robotics and AI**
+Ensure robots and AI systems meet strict timing requirements. Investigate:
+- Timing assurance for robotic and autonomous systems
+- Multi-robot coordination and scheduling
+- Timing analysis of ROS2 executors and robotic frameworks
+- Probabilistic models and formal methods for timing guarantees
+
+*Why it matters*: As robots become more prevalent in warehouses, manufacturing, and daily life, ensuring they operate safely and predictably is critical.
+
+#### **(R.4) Design and Verification of Long-Lived Cyber-Physical Systems**
+Develop methods to ensure CPS remain safe and reliable over their entire lifetime. Focus on:
+- Using digital twins for continuous system improvement
+- Formal verification techniques for CPS
+- Adaptive systems that evolve safely over time
+- Long-term reliability and maintenance strategies
+
+*Why it matters*: Many CPS operate for decades (e.g., aircraft, power plants). Ensuring their safety throughout their lifetime is a grand challenge.
+
+#### **(R.5) Hardware for Real-Time Systems and Internet-of-Things**
+Design efficient, safe, and secure hardware for real-time applications. Work on:
+- Specialized hardware for real-time and IoT applications
+- Instruction set architectures (ISA) optimized for real-time systems
+- Hardware-software co-design for timing predictability
+- Security-enhanced processors for critical systems
+
+*Why it matters*: Hardware design is fundamental to system performance and security. Projects like SCHEME are developing next-generation processors for aerospace.
+
+### How to Apply
+
+**Getting Started**: I'm always happy to discuss research ideas and potential projects! Please email me at **xiaotian.dai (at) york.ac.uk** with:
+- Your research interests and how they align with our lab
+- Your background and relevant experience
+- A brief research proposal or ideas you'd like to explore ([proposal guidelines](https://www.york.ac.uk/study/postgraduate-research/apply/documents/proposal/))
+
+**Entry Dates**: Standard entry times are October and April, but we can discuss alternative starting dates to suit your circumstances.
+
+### Funding Opportunities
+
+We have multiple funding pathways available:
+
+- **University Studentships**: The University of York offers competitive studentships covering tuition fees and a living stipend. [Find details and deadlines here](https://www.york.ac.uk/computer-science/study/postgraduate-research/funding/).
+- **Centre for Doctoral Training (CDT) Programs**
+Join a cohort of students in specialized training programs:
+    - **[SAINTS Safe AI CDT](https://www.york.ac.uk/study/postgraduate-research/centres-doctoral-training/safe-ai-training/)**: Focus on safe and trustworthy AI systems
+    - **[ALBERT CDT](https://www.york.ac.uk/yorrobots/more-projects/albert/cdt-albert-funded-projects/)**: Autonomous Robotic Systems for Laboratory Experiments
+- **China Scholarships Council (CSC)**: If you're from China, the CSC scholarship provides excellent funding opportunities. [Learn more here](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
+- **Project-Specific Funding**: Some projects (like SCHEME) may have associated funding opportunities. We can discuss these during your application process.
+- **Self-Funding**: Self-funding is also an option. I actively work to secure additional funding opportunities for students, including short-term research assistant positions, teaching assistant roles, and equipment allowances. We can discuss these opportunities during your application.
+
+**💡 Tip**: Apply early! Funding deadlines are typically in January/February for October entry. I'm happy to help you identify the best funding route for your situation.
 
 ---
 
-## Guide for PhD/Professor visitors
+## 3. Visiting Researchers
 
-If you are a PhD student, or a Professor from a UK or non-UK university,
-- Please check [this information page](https://www.york.ac.uk/computer-science/research/academic-visitors/) for more details on visiting our lab.
-- Information on visa can be found [here](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/).
-- Note that you do need an ATAS in order to conduct research in the UK.
+We welcome visiting PhD students and professors from universities worldwide! Visiting our lab is a great way to:
+- Collaborate on joint research projects
+- Learn new techniques and methodologies
+- Build international research connections
+- Experience the vibrant research environment at the University of York
 
-For more information, please contact me via email (xiaotian.dai (at) york.ac.uk).
+### How to Arrange a Visit
+
+1. **Check Visitor Information**: Review the [University's academic visitor guidelines](https://www.york.ac.uk/computer-science/research/academic-visitors/)
+2. **Visa Requirements**: If you're from outside the UK, check [visitor visa information](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/)
+3. **ATAS Certificate**: You'll need an ATAS (Academic Technology Approval Scheme) certificate to conduct research in the UK
+4. **Contact Me**: Email me at **xiaotian.dai (at) york.ac.uk** to discuss your visit, research interests, and potential collaboration
+
+We're happy to host visitors for short-term collaborations (weeks to months) or longer research stays. Let's discuss how we can make your visit productive and enjoyable!
 
 ---
 
-## Guide for UG/MSc students
+## 4. Guide for UG/MSc students
 
 ReFLEX lab is open for supervising UG/MSc projects related to real-time and cyber-physical systems. All of our projects are research-informed and most have a connection with real-world systems. 
 
@@ -78,7 +136,35 @@ Some example projects are:
 - Real-time task scheduling and resource allocation algorithms
 - Timing analysis and verification tools for embedded systems
 - Digital twin development for cyber-physical systems
+- Simulation frameworks for real-time systems
+- Performance modeling and prediction
+- Virtual testing environments
 
-For more details, please look at the departmental project lists. We also accept self-defined projects if they align with the lab research objectives.
+### Current Student Projects
+
+Our current UG students are working on exciting projects including:
+- Adaptive decentralized coordination for robotic swarms
+- Imitation learning for humanoid robots
+- Criticality-aware scheduling for multi-robot systems
+- Edge AI for real-time anomaly detection
+- People detection for autonomous retail systems
+
+### How to Get Involved
+
+1. **Check Department Lists**: Review the departmental project lists when they're published
+2. **Propose Your Own**: Have an idea? We welcome self-defined projects that align with our research
+3. **Contact Me**: Email **xiaotian.dai (at) york.ac.uk** to discuss potential projects
+
+**Note**: Project availability varies by term. Contact me early to discuss opportunities and ensure we can provide appropriate supervision.
+
+---
+
+## Questions?
+
+I'm always happy to chat about research opportunities, funding, or any questions you might have. Don't hesitate to reach out:
+
+**Email**: xiaotian.dai (at) york.ac.uk
+
+Looking forward to hearing from you!
 
 ---
