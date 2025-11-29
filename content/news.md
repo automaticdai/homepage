@@ -10,7 +10,7 @@ toc: false
 # News
 ## 2024
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/).
-- {{< news "service" >}} Nov 2024: Invited as a TPC member of [AEiC 2025](https://www.ada-europe.org/conference2025/).
+- {{< news "service" >}} Nov 2024: Invited as a TPC member of [Ada Europe 2025](https://www.ada-europe.org/conference2025/).
 - {{< news "news" >}} Oct 2024: We would like to welcome everyone who will come and join us at [RTSS 2024](https://2024.rtss.org/) here at the Uni. of York!
 - {{< news "service" >}} Sep 2024: Invited as the publication chair and a TPC member of [RTAS 2025](https://2025.rtas.org/).
 - {{< news "service" >}} July 2024: Invited as a TPC member of [RTSS 2024](https://2024.rtss.org/) BP track.
