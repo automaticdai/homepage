@@ -1,0 +1,455 @@
+[
+  {
+    "id": 1,
+    "year": 2014,
+    "type": "thesis",
+    "title": "Visual-Based Localization and Tracking of a UGV with a Quadcopter",
+    "authors": "Xiaotian Dai",
+    "venue": "University of Sheffield",
+    "venueShort": "",
+    "links": {
+      "Thesis": "../files/Visual-Based-Localization-and-Tracking-of-a-UGV-with-a-Quadcopter.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "year": 2017,
+    "type": "conference",
+    "title": "Predicting Worst-Case Execution Times in Long-Lived Real-Time Systems",
+    "authors": "Xiaotian Dai, Alan Burns",
+    "venue": "International Conference on Reliable Software Technologies",
+    "venueShort": "AEiC'17",
+    "links": {
+      "Paper": "https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6",
+      "GitHub": "https://github.com/automaticdai/research-wcet-trend-analysis"
+    },
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "year": 2019,
+    "type": "journal",
+    "title": "Model Based System Assurance Using the Structured Assurance Case Metamodel",
+    "authors": "Ran Wei, Tim Kelly, Xiaotian Dai, Shuai Zhao, Richard Hawkins",
+    "venue": "Journal of Software Systems",
+    "venueShort": "JSS",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S0164121219301062?via%3Dihub"
+    },
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "year": 2019,
+    "type": "journal",
+    "title": "A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design",
+    "authors": "Xiaotian Dai, Wanli Chang, Shuai Zhao, Alan Burns",
+    "venue": "ACM Transaction on Embedded Computer System",
+    "venueShort": "TECS",
+    "links": {
+      "Paper": "https://dl.acm.org/citation.cfm?id=3358213",
+      "Slides": "../files/emsoft19_dual_period_v3_rev1.pdf",
+      "GitHub": "https://github.com/automaticdai/research-dual-period"
+    },
+    "notes": "(*) Accepted and presented at EMSOFT 2019."
+  },
+  {
+    "id": 5,
+    "year": 2019,
+    "type": "thesis",
+    "title": "Flexible and Adaptive Real-Time Task Scheduling in Cyber-Physical Control Systems",
+    "authors": "Xiaotian Dai",
+    "venue": "University of York",
+    "venueShort": "",
+    "links": {
+      "Thesis": "http://etheses.whiterose.ac.uk/23950/"
+    },
+    "notes": "(*) Best Thesis Award, Computer Science Department, University of York."
+  },
+  {
+    "id": 6,
+    "year": 2019,
+    "type": "conference",
+    "title": "MCS-IOV: Real-time I/O Virtualization for Mixed-Criticality Systems",
+    "authors": "Zhe Jiang, Neil Audsley, Pan Dong, Nan Guan, Xiaotian Dai, Lifeng Wei",
+    "venue": "40th IEEE Real-Time Systems Symposium",
+    "venueShort": "RTSS'19",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/abstract/document/9052193"
+    },
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "year": 2020,
+    "type": "journal",
+    "title": "Period Adaptation of Real-Time Control Tasks with Fixed-Priority Scheduling in Cyber-Physical Systems",
+    "authors": "Xiaotian Dai, Alan Burns",
+    "venue": "Journal of Systems Architecture",
+    "venueShort": "JSA",
+    "links": {
+      "Paper": "https://doi.org/10.1016/j.sysarc.2019.101691",
+      "GitHub": "https://github.com/automaticdai/research-period-adaptation"
+    },
+    "notes": "(*) Accepted and presented at Ada-Europe 2019."
+  },
+  {
+    "id": 8,
+    "year": 2020,
+    "type": "conference",
+    "title": "All in One Network for Driver Attention Monitoring",
+    "authors": "Dawei Yang, Xinlei Li, Xiaotian Dai, Rui Zhang, Lizhe Qi, Wenqiang Zhang, Zhe Jiang",
+    "venue": "45th International Conference on Acoustics, Speech and Processing",
+    "venueShort": "ICASSP'20",
+    "links": {
+      "Paper": "http://eprints.whiterose.ac.uk/158675/"
+    },
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "year": 2020,
+    "type": "conference",
+    "title": "Timing-Accurate General-Purpose I/O for Multi- and Many-Core Systems: Scheduling and Hardware Support",
+    "authors": "Shuai Zhao, Zhe Jiang, Xiaotian Dai, Iain Bate, Ibrahim Habli, Wanli Chang",
+    "venue": "Design Automation Conference",
+    "venueShort": "DAC'20",
+    "links": {
+      "Paper": "http://eprints.whiterose.ac.uk/158882/1/PID6411059.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "year": 2020,
+    "type": "conference",
+    "title": "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks",
+    "authors": "Xiaotian Dai, Shuai Zhao, Yu Jiang, Xun Jiao, Xiaobo Sharon Hu, Wanli Chang",
+    "venue": "International Conference on Computer Aided Design",
+    "venueShort": "ICCAD'20",
+    "links": {
+      "Paper": "http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf",
+      "Video": "https://www.youtube.com/watch?v=fPSlHvK1NGc",
+      "GitHub": "https://github.com/automaticdai/research-sched-tsn"
+    },
+    "notes": "(*) Best Paper Nomination"
+  },
+  {
+    "id": 11,
+    "year": 2020,
+    "type": "conference",
+    "title": "DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency",
+    "authors": "Shuai Zhao, Xiaotian Dai, Iain Bate, Alan Burns, Wanli Chang",
+    "venue": "41th IEEE Real-Time Systems Symposium",
+    "venueShort": "RTSS'20",
+    "links": {
+      "Paper": "http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf",
+      "Video": "https://www.youtube.com/watch?v=DriyJdDGtNc",
+      "GitHub": "https://github.com/automaticdai/research-dag-scheduling-analysis"
+    },
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "year": 2021,
+    "type": "journal",
+    "title": "Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection",
+    "authors": "Seyed A. Tafrishi, Xiaotian Dai, Vahid E. Kandjani",
+    "venue": "Robotics and Autonomous Systems",
+    "venueShort": "RAS",
+    "links": {
+      "Paper": "https://arxiv.org/pdf/2008.09315.pdf",
+      "Video": "https://www.youtube.com/watch?v=hh6B4aF7jDI",
+      "GitHub": "https://github.com/SeyedAmirTafrishi/LCS_Filter"
+    },
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "year": 2021,
+    "type": "journal",
+    "title": "Towards an Analysable, Scalable, Energy-Efficient I/O Virtualization for Mixed-Criticality Systems",
+    "authors": "Zhe Jiang, Xiaotian Dai, Pan Dong, Ran Wei, Dawei Yang, Neil Audsley, Nan Guan",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "venueShort": "TCAD",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/9354856"
+    },
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "year": 2021,
+    "type": "conference",
+    "title": "Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges",
+    "authors": "Xiaotian Dai, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang",
+    "venue": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+    "venueShort": "RTAS'21",
+    "links": {
+      "Paper": "https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "year": 2021,
+    "type": "conference",
+    "title": "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems",
+    "authors": "Zhe Jiang, Xiaotian Dai, Neil Audsley",
+    "venue": "42th IEEE Real-Time Systems Symposium",
+    "venueShort": "RTSS'21",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/abstract/document/9622396",
+      "GitHub": "https://github.com/automaticdai/research-mcs-ap-analysis"
+    },
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "year": 2022,
+    "type": "conference",
+    "title": "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling",
+    "authors": "Seyed A. Tafrishi, Xiaotian Dai, Yasuhisa Hirata, Alan Burns",
+    "venue": "American Control Conference",
+    "venueShort": "ACC'22",
+    "links": {
+      "Paper": "https://arxiv.org/pdf/2206.05994.pdf",
+      "Slides": "../files/ACC22_Presentation.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "year": 2022,
+    "type": "wip",
+    "title": "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems",
+    "authors": "Zou Jie, Xiaotian Dai, John A. McDermid",
+    "venue": "International Conference on Reliable Software Technologies",
+    "venueShort": "AEiC'22",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/abs/10.1145/3577949.3577965",
+      "Slides": "../files/Ada22-presentation.pdf",
+      "Poster": "../files/Ada22-Poster_v2.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "year": 2022,
+    "type": "journal",
+    "title": "DAG Scheduling and Analysis on Multi-core Systems by Modelling Parallelism and Dependency",
+    "authors": "Shuai Zhao, Xiaotian Dai, Iain Bate",
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "venueShort": "TPDS",
+    "links": {
+      "Paper": "https://eprints.whiterose.ac.uk/187710/1/Zhao_2022_Dag_scheduling_and_analysis_on_mult.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "year": 2022,
+    "type": "journal",
+    "title": "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication",
+    "authors": "Zou Jie, Xiaotian Dai, John McDermid",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "venueShort": "TCAD",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/9826899"
+    },
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "year": 2022,
+    "type": "conference",
+    "title": "Using Digital Twins in the Development of Complex Dependable Real-Time Embedded Systems",
+    "authors": "Xiaotian Dai, Shuai Zhao, Benjamin Lesage, Iain Bate",
+    "venue": "11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation",
+    "venueShort": "ISoLA'22",
+    "links": {
+      "Paper": "https://link.springer.com/chapter/10.1007/978-3-031-19762-8_4",
+      "Slides": "../files/ISoLA22_Digital_Twin.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "year": 2022,
+    "type": "journal",
+    "title": "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems",
+    "authors": "Zhe Jiang, Xiaotian Dai, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray",
+    "venue": "IEEE Transactions on Computers",
+    "venueShort": "TC",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/abstract/document/9869703"
+    },
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "year": 2022,
+    "type": "workshop",
+    "title": "A High-Resilience Imprecise Computing Architecture for Mixed-Criticality Systems",
+    "authors": "Zhe Jiang, Xiaotian Dai, Alan Burns, Neil Audsley, Zonghua Gu, Ian Gray",
+    "venue": "9th Workshop on Mixed-Criticality Systems (WMC 2022 @ RTSS)",
+    "venueShort": "WMC'22",
+    "links": {
+      "Paper": "https://wmc2022.github.io/assets/WMC_2022_Proceedings.pdf"
+    },
+    "notes": "(*) Invited paper"
+  },
+  {
+    "id": 23,
+    "year": 2023,
+    "type": "workshop",
+    "title": "Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems",
+    "authors": "Jie Zou, Xiaotian Dai, John McDermid",
+    "venue": "Real-time And intelliGent Edge computing workshop (RAGE 2023 @ CPS-IoT Week)",
+    "venueShort": "RAGE'23",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/abs/10.1145/3576914.3587511"
+    },
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "year": 2023,
+    "type": "workshop",
+    "title": "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability",
+    "authors": "Zhe Jiang, Xiaotian Dai, Shuai Zhao, Ran Wei, Ian Gray",
+    "venue": "Real-time And intelliGent Edge computing workshop (RAGE 2023 @ CPS-IoT Week)",
+    "venueShort": "RAGE'23",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/abs/10.1145/3576914.3587514"
+    },
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "year": 2023,
+    "type": "conference",
+    "title": "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling",
+    "authors": "Benjamin Lesage, Xiaotian Dai, Shuai Zhao, Iain Bate",
+    "venue": "International Conference on Real-Time Networks and Systems",
+    "venueShort": "RTNS'23",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/abs/10.1145/3575757.3593654"
+    },
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "year": 2023,
+    "type": "conference",
+    "title": "Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency",
+    "authors": "Shuai Zhao, Xiaotian Dai, Benjamin Lesage, Iain Bate",
+    "venue": "International Conference on Real-Time Networks and Systems",
+    "venueShort": "RTNS'23",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/abs/10.1145/3575757.3593642"
+    },
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "year": 2023,
+    "type": "journal",
+    "title": "Context-aware Graceful Degradation for Mixed-Criticality Scheduling in Autonomous Systems",
+    "authors": "Jie Zou, Xiaotian Dai, John A McDermid",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "venueShort": "TCAD",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/document/10310275"
+    },
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "year": 2023,
+    "type": "journal",
+    "title": "NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability",
+    "authors": "Zhe Jiang, Xiaotian Dai, Ran Wei, Ian Gray, Zonghua Gu, Qingling Zhao, Shuai Zhao",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "venueShort": "TCAD",
+    "links": {
+      "Paper": "https://ieeexplore.ieee.org/abstract/document/10168011"
+    },
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "year": 2023,
+    "type": "chapter",
+    "title": "Evolvement of Scheduling Theories for Autonomous Vehicles",
+    "authors": "Wanli Chang, Nan Chen, Shuai Zhao, Xiaotian Dai",
+    "venue": "Springer",
+    "venueShort": "",
+    "links": {
+      "Chapter": "https://link.springer.com/chapter/10.1007/978-3-031-28016-0_2"
+    },
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "year": 2024,
+    "type": "chapter",
+    "title": "Special edition on resource partitioning for modern multicore systems",
+    "authors": "Ian Gray, Xiaotian Dai",
+    "venue": "Real-Time Systems Journal",
+    "venueShort": "RTSJ",
+    "links": {
+      "Chapter": "https://link.springer.com/article/10.1007/s11241-024-09428-2"
+    },
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "year": 2025,
+    "type": "journal",
+    "title": "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions",
+    "authors": "Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, Xiaotian Dai, Shuai Zhao",
+    "venue": "Journal of Systems Architecture",
+    "venueShort": "JSA",
+    "links": {
+      "Paper": "https://pure.york.ac.uk/portal/files/117261772/JSA24_Cache_aware_DAG.pdf"
+    },
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "year": 2025,
+    "type": "workshop",
+    "title": "Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems",
+    "authors": "James Sutton, Xiaotian Dai",
+    "venue": "Towards Autonomous Robotic Systems Conference",
+    "venueShort": "TAROS'25",
+    "links": {},
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "year": 2025,
+    "type": "conference",
+    "title": "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems",
+    "authors": "Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain Bate, Shuai Zhao",
+    "venue": "IEEE Real-Time Systems Symposium",
+    "venueShort": "RTSS'25",
+    "links": {},
+    "notes": "Outstanding Paper Award"
+  },
+  {
+    "id": 34,
+    "year": 2025,
+    "type": "journal",
+    "title": "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification",
+    "authors": "Nan Chen, Xiaotian Dai , Alan Burns , Iain Bate",
+    "venue": "IEEE Transactions on Computers",
+    "venueShort": "TC",
+    "links": {
+      "Paper": "https://www.computer.org/csdl/journal/tc/5555/01/11152392/29LASHEm3x6"
+    },
+    "notes": ""
+  }
+]
