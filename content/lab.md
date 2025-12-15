@@ -72,19 +72,24 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 ### ➤ Lab Lead
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
-### ➤ Research Fellows
 
+### ➤ RA / RF
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
 - [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
 
+
 ### ➤ PhD Students
 - Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
-- Manal Abdelrahman (2023-2026), *DDTwins - An Industiral Digial Twin Framework*, co-supervisor: Suresh Perinpanayagam
-- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Visting Student
+- Manal Abdelrahman (2023-2026), *An Industiral Digial Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
 
 Past students:
 
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
+
+
+### ➤ Academic Vistors
+- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, CSC Visting Student
+
 
 ### ➤ UG Students
 - Charlie Piper (2025-26), *Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions*
@@ -106,6 +111,7 @@ Past students:
 - Riko Puusepp (2024-25), *AR for accellerating learning of programming*
 - Dean Kenny (2020-21), *Simulating and improving the scheduling in time-sensitive networks*
 
+
 ### ➤ MSc Students
 *(Last cohort has finished in Oct.)*
 
@@ -117,9 +123,8 @@ Past students:
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
 
-### ➤ Research Advisors
+### ➤ Lab Research Advisors
 - [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/) (CS HoD), University of York, UK
-- [Dr. Pengcheng Liu](https://www.cs.york.ac.uk/people/liup) (RTDS Group Lead), University of York, UK
 - [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
 - [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/) (ISA Director), University of York, UK
 

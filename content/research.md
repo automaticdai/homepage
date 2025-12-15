@@ -28,7 +28,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ## Research Grants
 
-- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22m, 05/2023-04/2028
+- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22.4m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
 - PI, Google Cloud Research Credits Program, *Immitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
@@ -40,7 +40,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 ### ➤ SCHEME: Safety Critical Harsh Environment Micro-processing Evolution
 *(2023 - 2028) Co-I, University of York*  
-*Funded by Innovate UK, £2,270,617 (out of £41.7m)*
+*Funded by Innovate UK, £2,270,617 (out of £22.4m)*
 
 Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The project aims to build UK national resilience in high-integrity avionics design and manufacturing. SCHEME has been featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version).
 

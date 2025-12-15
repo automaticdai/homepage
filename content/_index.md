@@ -38,6 +38,7 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ## News
 
+- {{< news "paper" >}} Dec 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at RTSS 2025 (**Outstanding Paper**)! 
 - {{< news "service" >}} Nov 2025: Invited as a TPC member of [ECRTS 2026](https://www.ecrts.org/).
 - {{< news "service" >}} Nov 2025: Invited as a TPC member of [Ada Europe 2026](https://www.ada-europe.org/conference2026/).
 - {{< news "project" >}} Oct 2025: Our proposal to use a humanoid robot for virtual production (RAVEN-G1) was granted (£48k).
@@ -45,7 +46,6 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 - {{< news "paper" >}} Sep 2025: Our paper "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" is published in *IEEE Transactions on Computers*!
 - {{< news "talk" >}} Aug 2025: Invited Talk, "Digital Twin for Real-Time Cyber-Physical Systems", on the *Systron Lab Research and Demo day*.
 - {{< news "service" >}} Aug 2025: Invited as a TPC of IEEE [RTSS 2025](https://2025.rtss.org/) (AE and BP sessions).
-- {{< news "paper" >}} Aug 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at RTSS 2025 (**Outstanding Paper**)! Hope to see you all in Boston in December!
 - {{< news "service" >}} Aug 2025: Invited as the *Publication Chair* of IEEE [RTAS 2026](https://2026.rtas.org/).
 - {{< news "paper" >}} July 2025: Our poster "Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems" is published at [TAROS'25](https://taros-conference.org/)!
 - {{< news "service" >}} July 2025: Invited as a TPC member of IEEE [MOST 2026](https://ieeemobility.org/MOST2026/).
