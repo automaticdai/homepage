@@ -8,7 +8,7 @@ toc: false
 ---
 
 # Opportunities
-## 1. Why join ReFLEX Lab?
+## I. Why join ReFLEX Lab?
 - *Cutting-edge research*: Work on impactful problems at the intersection of real-time systems, robotics, AI, and cyber-physical systems
 - *Collaborative environment*: Join a supportive team of researchers working on interdisciplinary projects
 - *Strong track record*: Our lab has published in top-tier conferences and journals (RTSS, RTAS, EMSOFT, TC, TCAD, etc.)
@@ -18,7 +18,7 @@ toc: false
 
 ---
 
-## 2. PhD Opportunities
+## II. PhD Opportunities
 
 A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct groundbreaking research, develop deep expertise, and contribute to advancing the state-of-the-art in real-time systems and cyber-physical systems. You'll join a supportive community of researchers working on projects that have real-world impact.
 
@@ -105,7 +105,7 @@ Join a cohort of students in specialized training programs:
 
 ---
 
-## 3. Visiting Researchers
+## III. Visiting Researchers
 
 We welcome visiting PhD students and professors from universities worldwide! Visiting our lab is a great way to:
 - Collaborate on joint research projects
@@ -124,7 +124,7 @@ We're happy to host visitors for short-term collaborations (weeks to months) or 
 
 ---
 
-## 4. Guide for UG/MSc students
+## IV. Guide for UG/MSc students
 
 ReFLEX lab is open for supervising UG/MSc projects related to real-time and cyber-physical systems. All of our projects are research-informed and most have a connection with real-world systems. 
 

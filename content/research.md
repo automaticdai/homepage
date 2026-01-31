@@ -22,13 +22,13 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 *Collaborations:* I am working with academics and companies from UK, US, France, Germany, Portugal and China (mainland, Taiwan and Hong Kong), and I am open to collaborations related to these topics and fields, addressing open problems and grand challenges both from industry and academia, with a focus on timing and scheduling, and applications in real-time embedded systems, cyber-physical systems and autonomous systems.
 
-![collabrators](/img/collabrators.png)
+![Collaborators](/img/collaborators.png)
 
 ---
 
 ## Research Grants
 
-- CoI, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22.4m, 05/2023-04/2028
+- Co-I, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22.4m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
 - PI, Google Cloud Research Credits Program, *Immitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
@@ -63,7 +63,8 @@ Developing technologies that enable dependable system integration through the co
 [**Read more about DEIS →**](/projects/deis)
 
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
-*(2015 - 2018) PhD Student, University of York*
+*(2015 - 2018) PhD Student, University of York*  
+*Funded by University of York, £1,800*
 
 An adaptive real-time scheduling framework for Cyber-Physical Control Systems with hierarchical structure, dynamic WCET analysis, and dual-period operational modes.
 
@@ -76,12 +77,10 @@ An adaptive real-time scheduling framework for Cyber-Physical Control Systems wi
 ## Research Involvement
 
 Research projects which I am formally or informally involved:
-- [The Assuring Autonomy International Programme (AAIP)](https://www.york.ac.uk/assuring-autonomy/)
 - [XR Stories](https://xrstories.co.uk/)
 - [CoSTAR](https://www.costarnetwork.co.uk/)
-- [CyPhyAssure](https://www.cs.york.ac.uk/circus/CyPhyAssure/)
+- [Centre for Assuring Autonomy (CfAA)](https://www.york.ac.uk/assuring-autonomy/)
 - [Future factories in the Cloud (FiC)]((https://research.chalmers.se/en/project/7231))
-
 
 
 ---
@@ -94,5 +93,6 @@ Research projects which I am formally or informally involved:
 - [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
 
 Please check my [GitHub](https://www.github.com/automaticdai) for more projects.
+
 
 ---

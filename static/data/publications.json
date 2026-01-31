@@ -49,7 +49,7 @@
     "venueShort": "TECS",
     "links": {
       "Paper": "https://dl.acm.org/citation.cfm?id=3358213",
-      "Slides": "../files/emsoft19_dual_period_v3_rev1.pdf",
+      "Slides": "../files/emsoft19-dual-period.pdf",
       "GitHub": "https://github.com/automaticdai/research-dual-period"
     },
     "notes": "(*) Accepted and presented at EMSOFT 2019."
