@@ -8,7 +8,7 @@ toc: false
 ---
 
 # Opportunities
-## I. Why join ReFLEX Lab?
+## Why Join ReFLEX Lab?
 - *Cutting-edge research*: Work on impactful problems at the intersection of real-time systems, robotics, AI, and cyber-physical systems
 - *Collaborative environment*: Join a supportive team of researchers working on interdisciplinary projects
 - *Strong track record*: Our lab has published in top-tier conferences and journals (RTSS, RTAS, EMSOFT, TC, TCAD, etc.)
@@ -18,7 +18,7 @@ toc: false
 
 ---
 
-## II. PhD Opportunities
+## PhD Opportunities
 
 A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct groundbreaking research, develop deep expertise, and contribute to advancing the state-of-the-art in real-time systems and cyber-physical systems. You'll join a supportive community of researchers working on projects that have real-world impact.
 
@@ -32,7 +32,7 @@ A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct gr
 
 ### Research Directions
 
-I'm excited to supervise PhD students in the following areas. Each direction offers exciting opportunities to make significant contributions:
+The lab welcomes PhD students in the following areas, each offering opportunities for significant contributions:
 
 #### **(R.1) Scheduling and Allocation of Real-Time Systems**
 Design the next generation of scheduling algorithms for complex computing platforms. Work on:
@@ -101,13 +101,13 @@ Join a cohort of students in specialized training programs:
 - **Project-Specific Funding**: Some projects (like SCHEME) may have associated funding opportunities. We can discuss these during your application process.
 - **Self-Funding**: Self-funding is also an option. I actively work to secure additional funding opportunities for students, including short-term research assistant positions, teaching assistant roles, and equipment allowances. We can discuss these opportunities during your application.
 
-**💡 Tip**: Apply early! Funding deadlines are typically in January/February for October entry. I'm happy to help you identify the best funding route for your situation.
+**Tip**: Apply early! Funding deadlines are typically in January/February for October entry. I'm happy to help you identify the best funding route for your situation.
 
 ---
 
-## III. Visiting Researchers
+## Visiting Researchers
 
-We welcome visiting PhD students and professors from universities worldwide! Visiting our lab is a great way to:
+We welcome visiting PhD students and professors from universities worldwide. A visit offers the opportunity to:
 - Collaborate on joint research projects
 - Learn new techniques and methodologies
 - Build international research connections
@@ -120,17 +120,17 @@ We welcome visiting PhD students and professors from universities worldwide! Vis
 3. **ATAS Certificate**: You'll need an ATAS (Academic Technology Approval Scheme) certificate to conduct research in the UK
 4. **Contact Me**: Email me at **xiaotian.dai (at) york.ac.uk** to discuss your visit, research interests, and potential collaboration
 
-We're happy to host visitors for short-term collaborations (weeks to months) or longer research stays. Let's discuss how we can make your visit productive and enjoyable!
+We host visitors for short-term collaborations (weeks to months) or longer research stays.
 
 ---
 
-## IV. Guide for UG/MSc students
+## Guide for UG/MSc students
 
 ReFLEX lab is open for supervising UG/MSc projects related to real-time and cyber-physical systems. All of our projects are research-informed and most have a connection with real-world systems. 
 
 Some example projects are:
 
-- Scheduling of large groups of robots in warehouse
+- Scheduling of large groups of robots in warehouses
 - Traffic scheduling for smart transportation
 - Discrete simulation of Routerless Network-on-Chips
 - Real-time task scheduling and resource allocation algorithms
@@ -142,7 +142,7 @@ Some example projects are:
 
 ### Current Student Projects
 
-Our current UG students are working on exciting projects including:
+Current UG student projects include:
 - Adaptive decentralized coordination for robotic swarms
 - Imitation learning for humanoid robots
 - Criticality-aware scheduling for multi-robot systems
@@ -159,12 +159,8 @@ Our current UG students are working on exciting projects including:
 
 ---
 
-## Questions?
+## Contact
 
-I'm always happy to chat about research opportunities, funding, or any questions you might have. Don't hesitate to reach out:
-
-**Email**: xiaotian.dai (at) york.ac.uk
-
-Looking forward to hearing from you!
+For enquiries about any of the above opportunities, please email **xiaotian.dai (at) york.ac.uk**.
 
 ---

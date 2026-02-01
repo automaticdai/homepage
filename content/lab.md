@@ -20,18 +20,16 @@ toc: false
 
 ---
 
-## I. Introduction
+## Introduction
 At Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab, we focus on advancing real-time and embedded systems across topics like scheduling on many-core architectures, harnessing digital twins for performance gains, ensuring reliable timing in robotics and AI, verifying long-lived cyber-physical systems, and innovating hardware for real-time and IoT solutions. Typical target systems of the lab include autonomous driving, avionic and aerospace control systems, robotic warehouse, virtual production and transportation. By blending theory and practice, we aim to push the boundaries of computing and deliver safer, more efficient technologies that can serve both industry and society.
 
-A digital twin is a highly sophisticated virtual replica of a physical asset, process, or system that enables real-time monitoring, analysis, and simulation. By integrating data from sensors and IoT devices, digital twins provide valuable insights into the current state of the physical counterpart, facilitating predictive maintenance, performance optimization, and enhanced decision-making. This technology is widely used across industries such as manufacturing, healthcare, and urban planning to improve operational efficiency and reduce costs. As digital twin technology continues to evolve with advancements in artificial intelligence and machine learning, its ability to simulate complex scenarios with high accuracy makes it an indispensable tool for proactive management and innovation.
-
-Scheduling plays a critical role in optimizing workflows and resource allocation within various organizational contexts. Effective scheduling involves creating timely plans for tasks, appointments, or processes to ensure that objectives are met efficiently while minimizing delays and conflicts. The concept of scheduling goes beyond computer task scheduling. In manufacturing environments, scheduling algorithms help coordinate machine usage and workforce deployment to maximize productivity. In project management, scheduling ensures that milestones are achieved on time by allocating appropriate resources at each phase of the project. Advanced scheduling techniques often incorporate constraints, priorities, and uncertainties to generate robust plans that adapt to changing conditions while maintaining optimal performance.
+Our lab leverages digital twin technology to build real-time virtual replicas of embedded and cyber-physical systems, enabling runtime monitoring, scheduling optimisation, and verification of timing properties. We also develop novel scheduling algorithms and resource allocation strategies for safety-critical platforms, from multi-core processors and networks-on-chip to multi-robot systems and autonomous vehicles.
 
 ---
 
-## II. Our Research
+## Our Research
 ### ➤ Mixed-criticality scheduling and timing assurance for avionics
-This reseach explores advanced scheduling techniques and timing assurance methods tailored for mixed-criticality avionics systems. Given the increasing complexity and safety requirements of modern aircraft, ensuring reliable operation across diverse criticality levels is paramount. The study investigates novel algorithms that optimize task scheduling, enhance predictability, and guarantee timing constraints in environments where high-criticality functions coexist with lower-criticality tasks. The proposed approaches aim to improve system safety, reliability, and efficiency, contributing to the development of robust avionics architectures capable of meeting stringent certification standards.
+We develop scheduling algorithms and timing assurance methods for mixed-criticality avionics, where safety-critical and lower-criticality tasks share the same hardware platform. Our work on the SCHEME project focuses on UK-native safety-critical microprocessors, addressing task isolation, predictable timing, and certification requirements for next-generation aerospace systems.
 
 **Related Projects:**
 
@@ -39,15 +37,15 @@ This reseach explores advanced scheduling techniques and timing assurance method
 
 
 ### ➤ Multi-core and network scheduling and allocation for autonomous driving
-Autonomous driving systems require real-time processing of vast amounts of sensor data, decision-making algorithms, and communication with other vehicles and infrastructure. Efficient scheduling and resource allocation across multiple cores and network components are critical to ensure safety, reliability, and performance. This work explores advanced multi-core processing strategies and network scheduling techniques tailored for autonomous vehicles, aiming to optimize computational efficiency, reduce latency, and enhance system robustness.
+We investigate scheduling and resource allocation techniques for autonomous driving platforms, where sensor processing, decision-making, and vehicle-to-infrastructure communication must meet strict real-time deadlines. Our research addresses multi-core contention, cache interference, and network scheduling to provide timing guarantees for safety-critical autonomous functions.
 
 **Related Projects:**
 
 - Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems
 
 
-### ➤ Large scale allocation and scheduling for cyber-physical systems
-Cyber-physical systems (CPS) are increasingly prevalent in diverse domains such as manufacturing, transportation, healthcare, and energy management. These systems integrate computational elements with physical processes, necessitating efficient allocation and scheduling strategies to ensure optimal performance, safety, and reliability. This paper addresses the challenges of large-scale resource allocation and task scheduling within CPS environments. We propose a scalable framework that leverages advanced optimization techniques and distributed algorithms to manage complex dependencies and real-time constraints. Our approach aims to enhance system throughput, reduce latency, and improve adaptability in dynamic settings. Extensive simulations demonstrate the effectiveness of our methods compared to existing solutions, paving the way for more resilient and efficient cyber-physical infrastructures.
+### ➤ Large-scale allocation and scheduling for cyber-physical systems
+We develop scalable scheduling and allocation frameworks for complex cyber-physical systems, building on our work in the MOCHA and ATAS projects. Our approaches combine statistical modelling, adaptive policies, and digital-twin-based feedback to manage task dependencies and real-time constraints across many-core architectures, including 5G/6G base stations and industrial control systems.
 
 **Related Projects:**
 
@@ -56,7 +54,7 @@ Cyber-physical systems (CPS) are increasingly prevalent in diverse domains such 
 
 
 ### ➤ Real-time digital twin and robotics for virtual production
-This project explores the integration of advanced digital twin technology with robotics systems to revolutionize virtual production workflows. By creating highly accurate, real-time virtual replicas of physical environments and assets, combined with robotic automation, we aim to enhance efficiency, flexibility, and creative possibilities in film, television, and live events.
+We integrate real-time digital twin technology with robotic systems for virtual production in film, television, and live events. Through the RAVEN project and our XR Stories residency, we develop virtual replicas of physical sets and robotic camera platforms, enabling real-time previsualization and autonomous filming workflows.
 
 **Related Projects:**
 
@@ -64,14 +62,14 @@ This project explores the integration of advanced digital twin technology with r
 
 
 ### ➤ Real-time Industrial Digital Twin
-Our research investigates the real-time challenges of Digital Twins (DTs), where continuous synchronisation between physical and virtual entities demands strict timing guarantees. Key research questions include how to maintain temporal fidelity under resource constraints, how to integrate machine learning models within time-critical update loops, and how to formally verify timing properties of DT architectures. We explore scheduling strategies, communication middleware, and adaptive computation techniques to ensure DTs meet real-time deadlines in safety-critical domains such as smart manufacturing, energy systems, and autonomous operations.
+We investigate the real-time challenges of industrial digital twins, focusing on how to maintain temporal fidelity between physical and virtual entities under resource constraints. Through the DDTwins framework, we develop scheduling strategies and adaptive computation techniques to ensure digital twins meet real-time deadlines in domains such as smart manufacturing and energy systems.
 
 **Related Projects:**
 - DDTwins: An Industrial Digital Twin Framework
 
 
 ### ➤ Multi-robot safety-aware scheduling for Industry 5.0
-As Industry 5.0 advances towards increasingly collaborative human-robot environments, ensuring safety while maintaining efficiency becomes paramount. This study presents a novel multi-robot scheduling framework that integrates safety-awareness into task allocation and sequencing. By leveraging real-time sensor data and predictive analytics, the proposed approach dynamically adapts to operational uncertainties, prioritizing safety without compromising productivity. Simulation results demonstrate improved safety compliance and enhanced operational throughput in complex manufacturing scenarios, paving the way for more resilient and human-centric industrial automation.
+We develop multi-robot scheduling frameworks that integrate safety awareness into task allocation for collaborative human-robot environments. Our approach combines real-time sensor data with criticality-aware scheduling to dynamically adapt to operational uncertainties while maintaining safety guarantees in manufacturing and warehouse settings.
 
 **Related Projects:**
 
@@ -79,7 +77,7 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 ---
 
-## III. Our Research Team
+## Our Research Team
 ### Lab Lead
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
@@ -91,11 +89,11 @@ As Industry 5.0 advances towards increasingly collaborative human-robot environm
 
 ### PhD Students
 - Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
-- Manal Abdelrahman (2023-2026), *An Industiral Digial Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
+- Manal Abdelrahman (2023-2026), *An Industrial Digital Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
 
 
-### Academic Vistors
-- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, Visting PhD Student (CSC)
+### Academic Visitors
+- Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, Visiting PhD Student (CSC)
 
 
 ### UG Students
@@ -132,18 +130,18 @@ BSc:
 - James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
 - Phoebe Russell (2024-2025), *Traffic control with back-pressure*
 - Aron Hogarth (2024-2025), *Gamification on High Education studying and learning of programming*
-- Riko Puusepp (2024-2025), *AR for accellerating learning of programming*
+- Riko Puusepp (2024-2025), *AR for accelerating learning of programming*
 - Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
 
 MSc:
-- Xiyu Fang (2025), *Randomised DAG generator for evaluting scheduling performance*
+- Xiyu Fang (2025), *Randomised DAG generator for evaluating scheduling performance*
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
 
 ---
 
-## IV. Open-Source Projects
+## Open-Source Projects
 
 Please check our GitHub: [ReFLEX-Lab-York](https://github.com/ReFLEX-Lab-York).
 

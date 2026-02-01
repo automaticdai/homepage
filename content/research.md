@@ -30,7 +30,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 - Co-I, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22.4m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
-- PI, Google Cloud Research Credits Program, *Immitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
+- PI, Google Cloud Research Credits Program, *Imitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
 - PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, £6K, 09/2023-09/2026
 
@@ -80,7 +80,7 @@ Research projects which I am formally or informally involved:
 - [XR Stories](https://xrstories.co.uk/)
 - [CoSTAR](https://www.costarnetwork.co.uk/)
 - [Centre for Assuring Autonomy (CfAA)](https://www.york.ac.uk/assuring-autonomy/)
-- [Future factories in the Cloud (FiC)]((https://research.chalmers.se/en/project/7231))
+- [Future factories in the Cloud (FiC)](https://research.chalmers.se/en/project/7231)
 
 
 ---
