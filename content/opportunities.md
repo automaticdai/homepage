@@ -43,7 +43,7 @@ Design the next generation of scheduling algorithms for complex computing platfo
 
 *Why it matters*: As systems become more complex, efficient scheduling is crucial for autonomous vehicles, aerospace systems, and industrial automation.
 
-#### **(R.2) Digital Twins for Real-Time Embedded Systems**
+#### **(R.2) Digital Twins for Real-Time Cyber-Physical Systems**
 Build virtual replicas that enable real-time monitoring, optimization, and verification. Explore:
 - Dynamic modeling and verification of real-time systems
 - Using digital twins to improve scheduling and resource allocation
@@ -52,7 +52,7 @@ Build virtual replicas that enable real-time monitoring, optimization, and verif
 
 *Why it matters*: Digital twins are revolutionizing how we design, operate, and maintain complex systems — from aircraft to smart factories.
 
-#### **(R.3) Timing Assurance in Robotics and AI**
+#### **(R.3) Timing Analysis and Assurance of Robotics and AI**
 Ensure robots and AI systems meet strict timing requirements. Investigate:
 - Timing assurance for robotic and autonomous systems
 - Multi-robot coordination and scheduling
@@ -70,7 +70,7 @@ Develop methods to ensure CPS remain safe and reliable over their entire lifetim
 
 *Why it matters*: Many CPS operate for decades (e.g., aircraft, power plants). Ensuring their safety throughout their lifetime is a grand challenge.
 
-#### **(R.5) Hardware for Real-Time Systems and Internet-of-Things**
+#### **(R.5) Co-Design and Design Automation for Real-Time Systems**
 Design efficient, safe, and secure hardware for real-time applications. Work on:
 - Specialized hardware for real-time and IoT applications
 - Instruction set architectures (ISA) optimized for real-time systems

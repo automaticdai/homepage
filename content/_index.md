@@ -38,6 +38,7 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 
 ## News
 
+- {{< news "service" >}} Feb 2026: Invited as a TPC member of [RTCSA 2026](https://rtcsa2026.github.io/).
 - {{< news "service" >}} Jan 2026: Invited as a TPC member of [EMSOFT 2026](https://esweek.org/emsoft/).
 - {{< news "service" >}} Jan 2026: Invited as a TPC member of [RTNS 2026](https://rtns-conference.org/).
 - {{< news "paper" >}} Dec 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at RTSS 2025 (**Outstanding Paper**)! 

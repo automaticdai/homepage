@@ -436,7 +436,9 @@
     "authors": "Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain Bate, Shuai Zhao",
     "venue": "IEEE Real-Time Systems Symposium",
     "venueShort": "RTSS'25",
-    "links": {},
+    "links": {
+      "Paper": "https://arxiv.org/pdf/2512.21701"
+    },
     "notes": "Outstanding Paper Award"
   },
   {

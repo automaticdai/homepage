@@ -12,10 +12,9 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED) and Design Automation (ACM SIGDA)
-- Member of IEEE Computer Society (IEEE CS) and Robotics and Automation Society (IEEE RAS)
-- Member of UKRI Digital Twin Network Plus (DTNet+)
-- Member of UKRI XR Networks+
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED), Design Automation (ACM SIGDA)
+- Member of IEEE Computer Society (IEEE CS), Robotics and Automation Society (IEEE RAS)
+- Member of UKRI Digital Twin Network Plus (DTNet+), XR Networks+
 
 ---
 
@@ -40,6 +39,7 @@ toc: false
 - IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>) 
 - Euromicro Conference on Real-Time Systems (<u>ECRTS'26, ECRTS'24, ECRTS'23, ECRTS'22, ECRTS'19</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS'26, RTNS'21</u>) 
+- IEEE International Conference on Embedded and Real-Time Computing Systems and Application (<u>RTCSA'26</u>) 
 - IEEE/ACM International Conference on Embedded Software (<u>EMSOFT'26</u>) 
 - Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC'26, AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>) 
 - IEEE International Conference on Mobility: Operations, Services, and Technologies (<u>MOST'26, MOST'25</u>)
@@ -51,9 +51,9 @@ toc: false
 ---
 
 ## Conference Reviewer
-- *Real-Time*: RTSS'23, RTSS'22, RTSS'21; RTAS'23, RTAS'21, RTAS'20, RTAS'19; RTNS'21, RTCSA'21
-- *Robotics*: ICRA'25, ICRA'24, ICRA'23, ICRA'22
-- *Embedded*: EMSOFT'20; ICESS'22, ICESS'21, ICESS'20
+- *Real-Time Systems*: RTSS'23, RTSS'22, RTSS'21; RTAS'23, RTAS'21, RTAS'20, RTAS'19; RTNS'21, RTCSA'21
+- *Robotics and Autonomous Systems*: ICRA'25, ICRA'24, ICRA'23, ICRA'22
+- *Embedded Systems*: EMSOFT'20; ICESS'22, ICESS'21, ICESS'20
 - *Design Automation*: DAC'20; DATE'21, DATE'20; DSD'22, DSD'20; CASES'21
 
 ---
@@ -72,7 +72,6 @@ toc: false
 - (<u>TSC</u>) IEEE Transactions on Services Computing
 - (<u>RA-L</u>) IEEE Robotics and Automation Letters
 - (<u>TSTE</u>) IEEE Transactions on Sustainable Energy
-- IEEE Access
 - (<u>TECS</u>) ACM Transactions on Embedded Computing Systems
 - (<u>TCPS</u>) ACM Transactions on Cyber-Physical Systems
 - (<u>TAAS</u>) ACM Transactions on Autonomous and Adaptive Systems
@@ -84,26 +83,23 @@ toc: false
 - (<u>COR</u>) Computers & Operations Research, Elsevier
 - (<u>NEUNET</u>) Neural Networks, Elsevier
 - (<u>FGCS</u>) Future Generation Computer Systems, Elsevier
-- Sustainable Computing: Informatics and Systems, Elsevier
-- Computer Standards & Interfaces, Elsevier
 - (<u>JCSC</u>) Journal of Circuits, Systems and Computers
 - (<u>SPE</u>) Software - Practice and Experience, Wiley
 - Journal of Supercomputing, Springer
-- Connection Science, Taylor & Francis
 
 ---
 
 ## Talks and Invited Presentations
 
-- *Oral*, "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems", IEEE Real-Time Systems Symposium (RTSS'25), Dec 2025 (presented by Dr. Nan)
-- *Invited Talk*, "Digital Twin for Real-Time Cyber-Physical Systems", Systron Lab Research and Demo day, Aug 2025
-- *Oral*, "Digital Twin for Real-Time Embedded Systems", 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation ([ISoLA'22](https://link.springer.com/chapter/10.1007/978-3-031-19762-8_4)), Oct 2022
-- *Oral*, "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems", Ada-Europe International Conference on Reliable Software Technologies (Ada Europe'22), June 2022 (presented by Jie Zou)
-- *Oral*, "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling", American Control Conference (ACC'22), June 2022 (presented by Dr. Tafrashi)
-- *Invited Talk*, "Digital Twin for Scheduling in Embedded and Real-Time Systems", 6th Annual UK System Research Challenges Workshop, Nov 2021
-- *Oral*, "Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges", IEEE Real-Time and Embedded Technology and Applications Symposium ([RTAS'21](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf)), May 2021
-- *Oral*, "DAG Scheduling and Analysis on Multiprocessor Systems", IEEE Real-Time Systems Symposium (RTSS'20), Dec 2020 (presented by Dr. Zhao) [[Video]](https://www.youtube.com/watch?v=DriyJdDGtNc)
-- *Oral*, "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", International Conference on Computer Aided Design ([ICCAD'20](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf)), Nov 2020 [[Video]](https://www.youtube.com/watch?v=fPSlHvK1NGc)
+- *Conference talk*, "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems", IEEE Real-Time Systems Symposium (RTSS'25), Dec 2025 (presented by Dr. Nan)
+- *Invited talk*, "Digital Twin for Real-Time Cyber-Physical Systems", Systron Lab Research and Demo day, Aug 2025
+- *Conference talk*, "Digital Twin for Real-Time Embedded Systems", 11th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation ([ISoLA'22](https://link.springer.com/chapter/10.1007/978-3-031-19762-8_4)), Oct 2022
+- *Conference talk*, "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems", Ada-Europe International Conference on Reliable Software Technologies (Ada Europe'22), June 2022 (presented by Jie Zou)
+- *Conference talk*, "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling", American Control Conference (ACC'22), June 2022 (presented by Dr. Tafrashi)
+- *Invited talk*, "Digital Twin for Scheduling in Embedded and Real-Time Systems", 6th Annual UK System Research Challenges Workshop, Nov 2021
+- *Conference talk*, "Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges", IEEE Real-Time and Embedded Technology and Applications Symposium ([RTAS'21](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf)), May 2021
+- *Conference talk*, "DAG Scheduling and Analysis on Multiprocessor Systems", IEEE Real-Time Systems Symposium (RTSS'20), Dec 2020 (presented by Dr. Zhao) [[Video]](https://www.youtube.com/watch?v=DriyJdDGtNc)
+- *Conference talk*, "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", International Conference on Computer Aided Design ([ICCAD'20](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf)), Nov 2020 [[Video]](https://www.youtube.com/watch?v=fPSlHvK1NGc)
 
 ---
 
@@ -113,9 +109,10 @@ toc: false
 
 ---
 
-## External Service
+## External Services
 
 - External Examiner for Doctoral Thesis, University of Newcastle
 - Expert Reviewer for the UK Research and Innovation (UKRI) / EPSRC
 
 ---
+

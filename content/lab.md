@@ -28,52 +28,39 @@ Our lab leverages digital twin technology to build real-time virtual replicas of
 ---
 
 ## Our Research
-### ➤ Mixed-criticality scheduling and timing assurance for avionics
-We develop scheduling algorithms and timing assurance methods for mixed-criticality avionics, where safety-critical and lower-criticality tasks share the same hardware platform. Our work on the SCHEME project focuses on UK-native safety-critical microprocessors, addressing task isolation, predictable timing, and certification requirements for next-generation aerospace systems.
+
+### ➤ Multi-core and mixed-criticality task scheduling and allocation
+
+Scaling real-time guarantees across many-core architectures is a fundamental challenge for next-generation cyber-physical systems. We develop scalable scheduling and allocation frameworks for complex CPS — including 5G/6G base stations and industrial control systems — combining statistical modelling, adaptive policies, and digital-twin-based feedback to manage task dependencies and timing constraints at scale.
+
+For safety-critical avionics, we address the harder problem of mixed-criticality scheduling, where safety-critical and lower-criticality tasks share the same hardware platform. Our SCHEME project develops timing assurance methods for UK-native aerospace microprocessors, targeting task isolation, predictable execution, and next-generation certification requirements.
 
 **Related Projects:**
-
 - [SCHEME: Safety Critical Harsh Environment Micro-processing Evolution](/projects/scheme)
+- [MOCHA: Modelling and Optimising Complex Heterogenous Architectures](/projects/mocha)
 
 
-### ➤ Multi-core and network scheduling and allocation for autonomous driving
-We investigate scheduling and resource allocation techniques for autonomous driving platforms, where sensor processing, decision-making, and vehicle-to-infrastructure communication must meet strict real-time deadlines. Our research addresses multi-core contention, cache interference, and network scheduling to provide timing guarantees for safety-critical autonomous functions.
+
+### ➤ Timing assurance of robotics and autonomous systems
+
+Autonomous driving and control platforms must simultaneously satisfy hard real-time deadlines for sensor processing, decision-making, and V2X communication — on shared, resource-constrained hardware. We develop scheduling and resource allocation techniques that provide timing guarantees under multi-core contention, cache interference, and network latency. We also develop criticality-aware multi-robot scheduling frameworks that integrate real-time sensor data to adapt task allocation on the fly, maintaining safety guarantees under operational uncertainty in manufacturing and warehouse environments.
 
 **Related Projects:**
-
+- [ATAS: Adaptive Task Scheduling Framework for Cyber-Physical Systems](/projects/atas)
 - Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems
 
 
-### ➤ Large-scale allocation and scheduling for cyber-physical systems
-We develop scalable scheduling and allocation frameworks for complex cyber-physical systems, building on our work in the MOCHA and ATAS projects. Our approaches combine statistical modelling, adaptive policies, and digital-twin-based feedback to manage task dependencies and real-time constraints across many-core architectures, including 5G/6G base stations and industrial control systems.
+
+### ➤ Digital twins and simulation
+
+We develop real-time digital twin infrastructure across two complementary domains. Through the DDTwins framework, we address the core industrial challenge — maintaining temporal fidelity between physical and virtual entities under resource constraints — with applications in smart manufacturing and energy systems. Through the RAVEN project and our XR Stories residency, we apply these capabilities to virtual production, building virtual replicas of physical film and television sets coupled with robotic camera platforms for real-time previsualization and autonomous cinematography.
+
+We also investigate differentiable simulation as a tool for training and validating robotic manipulation of deformable objects, where physical modelling accuracy directly impacts real-world performance.
 
 **Related Projects:**
-
-- [MOCHA: Modelling and Optimising Complex Heterogenous Architectures](/projects/mocha)
-- [ATAS: Adaptive Task Scheduling Framework for CPS](/projects/atas)
-
-
-### ➤ Real-time digital twin and robotics for virtual production
-We integrate real-time digital twin technology with robotic systems for virtual production in film, television, and live events. Through the RAVEN project and our XR Stories residency, we develop virtual replicas of physical sets and robotic camera platforms, enabling real-time previsualization and autonomous filming workflows.
-
-**Related Projects:**
-
 - [RAVEN: Real-time Adaptive Virtual-Twin Environment for Next-Generation Robotics in Virtual Production](https://raven-vp.github.io/)
-
-
-### ➤ Real-time Industrial Digital Twin
-We investigate the real-time challenges of industrial digital twins, focusing on how to maintain temporal fidelity between physical and virtual entities under resource constraints. Through the DDTwins framework, we develop scheduling strategies and adaptive computation techniques to ensure digital twins meet real-time deadlines in domains such as smart manufacturing and energy systems.
-
-**Related Projects:**
 - DDTwins: An Industrial Digital Twin Framework
-
-
-### ➤ Multi-robot safety-aware scheduling for Industry 5.0
-We develop multi-robot scheduling frameworks that integrate safety awareness into task allocation for collaborative human-robot environments. Our approach combines real-time sensor data with criticality-aware scheduling to dynamically adapt to operational uncertainties while maintaining safety guarantees in manufacturing and warehouse settings.
-
-**Related Projects:**
-
-- [DEIS: Dependability Engineering Innovation for CPS](/projects/deis)
+- Differentiable Simulators for robotic manipulation of deformable objects
 
 ---
 
@@ -83,13 +70,14 @@ We develop multi-robot scheduling frameworks that integrate safety awareness int
 
 
 ### Research Associate/Fellow
-- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), Adaptive Task and Resource Scheduling in Avionics (SCHEME project)
-- [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), Safety-Critical Network Scheduling for Avionics (SCHEME project)
+- [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), *Adaptive Task and Resource Scheduling in Avionics (SCHEME project)*
+- [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), *Safety-Critical Network Scheduling for Avionics (SCHEME project)*
 
 
 ### PhD Students
 - Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
 - Manal Abdelrahman (2023-2026), *An Industrial Digital Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
+- Ryan McKenna (2024-2029), *Differentiable Simulators for supporting robotic manipulation of deformable objects*, co-supervisor: Jihong Zhu
 
 
 ### Academic Visitors
@@ -121,10 +109,10 @@ Student Intern:
 
 
 ### Past Members
-PhD:
+PhD students:
 - [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
 
-BSc:
+BSc students:
 - Chase Mo (2024-2025), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024-2025), *Routerless Network-on-Chip optimization*
 - James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
@@ -133,7 +121,7 @@ BSc:
 - Riko Puusepp (2024-2025), *AR for accelerating learning of programming*
 - Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
 
-MSc:
+MSc students:
 - Xiyu Fang (2025), *Randomised DAG generator for evaluating scheduling performance*
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*

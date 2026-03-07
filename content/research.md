@@ -10,13 +10,12 @@ toc: false
 # Research
 ## Research Interests
 
-My research lies at the intersection of real-time embedded systems (RTES), cyber-physical systems (CPS), and robotics and autonomous systems (RAS). The overarching vision is to advance the development of adaptive, safe, and predictable engineering systems. My key research areas include:
+My research lies at the intersection of real-time embedded systems (RTES), cyber-physical systems (CPS), and robotics and autonomous systems (RAS). The overarching vision is to advance the development of adaptive, safe, and predictable mixed-criticality and safety-critical systems. My key research areas include:
 
-- Real-time scheduling and allocation on multi-cores, network-on-chips (NoC) and time-sensitive networks (TSN);
-- Flexible, feedback-driven approaches to resource scheduling of CPS, including multi-robot and transportation systems;
-- Digital Twins for the design, simulation, verification, and optimisation of CPS;
-- Hardware-software co-design, and investigate timing-predictable hardware;
-- Timing assurance of mixed-criticality and safety-critical systems.
+- Real-time scheduling and allocation on multi-cores, CPU-GPUs, network-on-chips (NoC) and time-sensitive networks (TSN);
+- Flexible, feedback-driven approaches to resource scheduling of CPS, including avionic, industrial control, robotic, and transportation systems;
+- Digital Twins to support design, simulation, verification, and optimisation of CPS;
+- Hardware-software co-design, and investigate timing-predictable hardware.
 
 ![](/img/wordcloud.png)
 
@@ -70,17 +69,6 @@ An adaptive real-time scheduling framework for Cyber-Physical Control Systems wi
 
 [**Read more about ATAS →**](/projects/atas)
 
-
-
----
-
-## Research Involvement
-
-Research projects which I am formally or informally involved:
-- [XR Stories](https://xrstories.co.uk/)
-- [CoSTAR](https://www.costarnetwork.co.uk/)
-- [Centre for Assuring Autonomy (CfAA)](https://www.york.ac.uk/assuring-autonomy/)
-- [Future factories in the Cloud (FiC)](https://research.chalmers.se/en/project/7231)
 
 
 ---
