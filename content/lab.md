@@ -51,7 +51,7 @@ Autonomous driving and control platforms must simultaneously satisfy hard real-t
 
 
 
-### ➤ Digital twins and simulation
+### ➤ Digital twins and simulation for robotics and AI
 
 We develop real-time digital twin infrastructure across two complementary domains. Through the DDTwins framework, we address the core industrial challenge — maintaining temporal fidelity between physical and virtual entities under resource constraints — with applications in smart manufacturing and energy systems. Through the RAVEN project and our XR Stories residency, we apply these capabilities to virtual production, building virtual replicas of physical film and television sets coupled with robotic camera platforms for real-time previsualization and autonomous cinematography.
 

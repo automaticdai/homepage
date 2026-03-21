@@ -14,30 +14,33 @@ toc: false
 
 ## About Me
 
-I am a Lecturer in the Department of Computer Science at the University of York, UK, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/), which is a part of the [RTDS Research Group](https://www.cs.york.ac.uk/rts/index.html). 
+I am a Lecturer in the Department of Computer Science at the University of York, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/) within the [RTDS Research Group](https://www.cs.york.ac.uk/rts/index.html).
 
-My research focuses on the scheduling and verification of cyber-physical systems, with a particular emphasis on timing analysis and on improving scheduling flexibility and adaptability in safety-critical systems. My research has been applied to real-world applications including robots, autonomous vehicles, avionics, control systems, 5G base stations, transportation, and many other cyber-physical systems that must meet strict timing constraints.
+My research focuses on the scheduling and verification of cyber-physical systems, with particular emphasis on timing analysis and on improving flexibility and adaptability in safety-critical systems. This work has been applied to a wide range of real-world domains, including robotics, autonomous vehicles, avionics, control systems, 5G base stations, and transportation systems.
 
-*Expertise:* My work has contributed to innovative modeling, scheduling, simulation, and analysis techniques; digital twins for feedback-based runtime improvement; and specialized hardware designs for safety-critical real-time & embedded systems. Many of these advancements have been adopted by industry. I am also actively involved in the robotics and autonomous systems (RAS) community, concentrating on ensuring operational safety, robustness, and resilience.
+*Expertise:* My work spans modelling, scheduling, simulation, and analysis techniques for cyber-physical systems, as well as digital twins for feedback-driven runtime improvement and specialised hardware designs for safety-critical real-time and embedded systems. Many of these advances have been adopted in industry. I am also active in the robotics and autonomous systems (RAS) community, with a focus on operational safety, robustness, and resilience.
 
-*Track-record:* To date, I have published over 30 papers with 500+ citations and an H-index of 12. I regularly serve as a Technical Program Committee (TPC) member and reviewer for prominent conferences and journals spanning real-time embedded systems, robotics, and design automation. I also serve as an external reviewer for UKRI funding.
+*Track record:* I have published over 30 peer-reviewed papers, with more than 500 citations and an H-index of 13. I regularly serve as a Technical Program Committee (TPC) member and reviewer for leading conferences and journals in real-time embedded systems, robotics, and design automation, and I also act as an external reviewer for UKRI funding.
 
-You can find more about my research interests and projects in [the research page](https://www.xiaotiandai.com/research). If you are interested in pursuing a PhD in real-time systems or cyber-physical systems, you can find more information on [PhD opportunities](https://www.xiaotiandai.com/opportunities/). I maintain a [tracking website for real-time, embedded and robotics systems](https://automaticdai.github.io/realtime-embedded-conferences/). You can find [my robotics projects](https://www.xiaotiandai.com/robots/) here. I am an amateur photographer — here is [my photography portfolio](https://automaticdai.wixsite.com/home).
+You can find more about my research interests and projects on [the research page](https://www.xiaotiandai.com/research). Information about joining my group is available on [PhD opportunities](https://www.xiaotiandai.com/opportunities/). I also maintain a [tracking website for real-time, embedded, and robotics systems](https://automaticdai.github.io/realtime-embedded-conferences/), share [robotics projects](https://www.xiaotiandai.com/robots/), and keep an [amateur photography portfolio](https://automaticdai.wixsite.com/home).
 
 ---
 
 ## Background
 
-From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html), which is the top real-time research group in the UK. The MOCHA project targets complex many-core architectures with demanding performance and timing requirements, leveraging digital twins and cache-aware scheduling to develop key techniques for next-generation 5G/6G communication base stations.
+I started as a Lecturer in Computer Science at the University of York in 2023, joining the Real-Time and Distributed Systems Research Group.
 
-Prior to MOCHA, I contributed to the [EU H2020 DEIS project](https://deis-project.eu) in 2019, collaborating with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). DEIS focused on model-based safety assurance — using the [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/) (now an OMG standard) — and developed corresponding tools for model-based autonomous and cyber-physical systems in partnership with AVL, Siemens, General Motors, and Fraunhofer.
+From 2019 to 2023, I worked as a Research Associate on the [MOCHA research project](https://www.cs.york.ac.uk/rts/mocha/) (funded by Huawei), under the supervision of [Prof. Iain Bate](https://www-users.cs.york.ac.uk/~ijb/) and [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/) in the [Real-Time and Distributed Systems Research Group (RTDS)](https://www.cs.york.ac.uk/rts/index.html). MOCHA addressed complex many-core architectures with demanding performance and timing requirements, using digital twins and cache-aware scheduling to develop techniques for next-generation 5G/6G communication base stations.
 
-I first joined the Real-Time Systems Group at York in 2015 as a PhD student under [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), earning my PhD in 2019 with a Best Thesis award. Before that, I completed an MSc (with distinction) in Automatic Control and Systems Engineering at the University of Sheffield in 2014, following a BSc (First Class Honours) in Automatic Control in 2011. 
+Before MOCHA, I contributed to the [EU H2020 DEIS project](https://deis-project.eu) in 2019, working with [Prof. Tim Kelly](https://www.cs.york.ac.uk/people/tpk) and [Prof. Ibrahim Habli](https://www.cs.york.ac.uk/people/ihabli). DEIS focused on model-based safety assurance, built around the [Structured Assurance Case Metamodel (SACM)](https://www.omg.org/spec/SACM/2.0/About-SACM/) standard, and developed supporting tools for autonomous and cyber-physical systems in collaboration with AVL, Siemens, General Motors, and Fraunhofer.
+
+I first joined the Real-Time Systems Group at York in 2015 as a PhD student under [Prof. Alan Burns](https://www-users.cs.york.ac.uk/~burns/), and completed my PhD in 2019 with a Best Thesis award. Before that, I received an MSc with distinction in Automatic Control and Systems Engineering from the University of Sheffield in 2014, following a BSc with First Class Honours in Automatic Control in 2011.
 
 ---
 
 ## News
 
+- {{< news "paper" >}} Mar 2026: Our paper "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence" is accepted at DAC 2026!
 - {{< news "service" >}} Feb 2026: Invited as a TPC member of [RTCSA 2026](https://rtcsa2026.github.io/).
 - {{< news "service" >}} Jan 2026: Invited as a TPC member of [EMSOFT 2026](https://esweek.org/emsoft/).
 - {{< news "service" >}} Jan 2026: Invited as a TPC member of [RTNS 2026](https://rtns-conference.org/).
@@ -58,3 +61,4 @@ I first joined the Real-Time Systems Group at York in 2015 as a PhD student unde
 Please visit [News](/news) for more news.
 
 ---
+

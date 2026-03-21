@@ -1,0 +1,17 @@
+<div class="project-card">
+  {{ with .Get "headline" }}
+  <div class="project-card__headline">
+    {{ . | markdownify }}
+  </div>
+  {{ end }}
+  <div class="project-card__body{{ if eq (.Get "imgpos") "left" }} project-card__body--img-left{{ end }}">
+    <div class="project-card__text">
+      {{ .Inner | markdownify }}
+    </div>
+    {{ with .Get "img" }}
+    <div class="project-card__img">
+      <img src="{{ . }}" alt="">
+    </div>
+    {{ end }}
+  </div>
+</div>

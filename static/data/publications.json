@@ -453,5 +453,16 @@
       "Paper": "https://www.computer.org/csdl/journal/tc/5555/01/11152392/29LASHEm3x6"
     },
     "notes": ""
+  },
+  {
+    "id": 35,
+    "year": 2026,
+    "type": "conference",
+    "title": "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence",
+    "authors": "Shuai Zhao, Chen Jie, Yaowei Liang, Mingyue Cui, Xiaotian Dai, Nan Chen",
+    "venue": "Design Automation Conference",
+    "venueShort": "DAC'26",
+    "links": {},
+    "notes": ""
   }
 ]

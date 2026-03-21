@@ -22,7 +22,7 @@ toc: false
 
 A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct groundbreaking research, develop deep expertise, and contribute to advancing the state-of-the-art in real-time systems and cyber-physical systems. You'll join a supportive community of researchers working on projects that have real-world impact.
 
-### What You'll Gain
+**What you'll gain:**
 
 - **Deep Expertise**: Become a leading expert in your chosen research area
 - **Research Skills**: Learn to identify problems, design solutions, and validate your work
@@ -34,50 +34,44 @@ A PhD at ReFLEX Lab is a transformative 3-4 year journey where you'll conduct gr
 
 The lab welcomes PhD students in the following areas, each offering opportunities for significant contributions:
 
-#### **(R.1) Scheduling and Allocation of Real-Time Systems**
+**(R.1) Scheduling and Allocation of Real-Time Systems**  
 Design the next generation of scheduling algorithms for complex computing platforms. Work on:
 - Novel scheduling methods for multi-core and many-core systems
 - Interference and contention modeling for modern architectures
 - Scheduling on heterogeneous platforms (CPU-GPU, CPU-FPGA)
 - Real-time guarantees for safety-critical applications
 
-*Why it matters*: As systems become more complex, efficient scheduling is crucial for autonomous vehicles, aerospace systems, and industrial automation.
 
-#### **(R.2) Digital Twins for Real-Time Cyber-Physical Systems**
+**(R.2) Digital Twins for Real-Time Cyber-Physical Systems**  
 Build virtual replicas that enable real-time monitoring, optimization, and verification. Explore:
 - Dynamic modeling and verification of real-time systems
 - Using digital twins to improve scheduling and resource allocation
 - Fault and hazard identification through simulation
 - Predictive maintenance and performance optimization
 
-*Why it matters*: Digital twins are revolutionizing how we design, operate, and maintain complex systems — from aircraft to smart factories.
 
-#### **(R.3) Timing Analysis and Assurance of Robotics and AI**
+**(R.3) Timing Analysis and Assurance of Robotics and AI**  
 Ensure robots and AI systems meet strict timing requirements. Investigate:
 - Timing assurance for robotic and autonomous systems
 - Multi-robot coordination and scheduling
 - Timing analysis of ROS2 executors and robotic frameworks
 - Probabilistic models and formal methods for timing guarantees
 
-*Why it matters*: As robots become more prevalent in warehouses, manufacturing, and daily life, ensuring they operate safely and predictably is critical.
 
-#### **(R.4) Design and Verification of Long-Lived Cyber-Physical Systems**
+**(R.4) Design and Verification of Long-Lived Cyber-Physical Systems**  
 Develop methods to ensure CPS remain safe and reliable over their entire lifetime. Focus on:
 - Using digital twins for continuous system improvement
 - Formal verification techniques for CPS
 - Adaptive systems that evolve safely over time
 - Long-term reliability and maintenance strategies
 
-*Why it matters*: Many CPS operate for decades (e.g., aircraft, power plants). Ensuring their safety throughout their lifetime is a grand challenge.
 
-#### **(R.5) Co-Design and Design Automation for Real-Time Systems**
+**(R.5) Co-Design and Design Automation for Real-Time Systems**  
 Design efficient, safe, and secure hardware for real-time applications. Work on:
 - Specialized hardware for real-time and IoT applications
 - Instruction set architectures (ISA) optimized for real-time systems
 - Hardware-software co-design for timing predictability
 - Security-enhanced processors for critical systems
-
-*Why it matters*: Hardware design is fundamental to system performance and security. Projects like SCHEME are developing next-generation processors for aerospace.
 
 ### How to Apply
 
@@ -124,28 +118,26 @@ We host visitors for short-term collaborations (weeks to months) or longer resea
 
 ---
 
+## Student Intern
+
+We welcome enquiries from highly motivated students at all leves who are interested in joining the lab as interns. Remote internships are also possible, and we have previously supervised two remote students.
+
+---
+
 ## Guide for UG/MSc students
 
 ReFLEX lab is open for supervising UG/MSc projects related to real-time and cyber-physical systems. All of our projects are research-informed and most have a connection with real-world systems. 
 
 Some example projects are:
 
-- Scheduling of large groups of robots in warehouses
+- Criticality-aware scheduling for multi-robot systems in warehouses
 - Traffic scheduling for smart transportation
 - Discrete simulation of Routerless Network-on-Chips
 - Real-time task scheduling and resource allocation algorithms
 - Timing analysis and verification tools for embedded systems
 - Digital twin development for cyber-physical systems
-- Simulation frameworks for real-time systems
-- Performance modeling and prediction
-- Virtual testing environments
-
-### Current Student Projects
-
-Current UG student projects include:
 - Adaptive decentralized coordination for robotic swarms
 - Imitation learning for humanoid robots
-- Criticality-aware scheduling for multi-robot systems
 - Edge AI for real-time anomaly detection
 - People detection for autonomous retail systems
 
