@@ -69,16 +69,18 @@ We also investigate differentiable simulation as a tool for training and validat
 - [Dr. Steven Xiaotian Dai](https://www.xiaotiandai.com), University of York, UK
 
 
-### Research Associate/Fellow
+### Research Associates/Fellows
 - [Dr. Nan Chen](https://scholar.google.co.uk/citations?user=PIjEeDAAAAAJ&hl=en) (2023-2028), *Adaptive Task and Resource Scheduling in Avionics (SCHEME project)*
 - [Dr. Felix Ulrich-Oltean](https://felixvuo.github.io/) (2025-2028), *Safety-Critical Network Scheduling for Avionics (SCHEME project)*
 
 
 ### PhD Students
 - Modie Al Shakarchi (2025-2028), *Real-time Adaptive Digital Twin Robotics for Virtual Production (RAVEN project)*, co-supervisor: Dr. Pengcheng Liu
-- Manal Abdelrahman (2023-2026), *An Industrial Digital Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
 - Ryan McKenna (2024-2029), *Differentiable Simulators for supporting robotic manipulation of deformable objects*, co-supervisor: Jihong Zhu
+- Manal Abdelrahman (2023-2026), *An Industrial Digital Twin Framework (DDTwins project)*, co-supervisor: Suresh Perinpanayagam
 
+Past student:
+- [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
 
 ### Academic Visitors
 - Haochun Liang (2025-2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, Visiting PhD Student (CSC)
@@ -95,24 +97,11 @@ We also investigate differentiable simulation as a tool for training and validat
 - Rosie Kern (2025-2026), *Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems*
 - Sam Knight (2025-2026), *Embedded GPU Interference Analysis for Real-Time Robotics*
 
-Student Intern:
+Student interns:
 - Jixiang Zhen (2026), *Digital Twin for Humanoid Robots in Virtual Production*
+- Ollie Collett (2026), *Digital Twin for Humanoid Robots in Virtual Production*
 
-### MSc Students
-- Zilun Zhang (2025-2026), *Randomised DAG generator with AI based on small samples*
-
-
-### Research Advisors
-- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/) (CS HoD), University of York, UK
-- [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
-- [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/) (ISA Director), University of York, UK
-
-
-### Past Members
-PhD students:
-- [Dr. Zou Jie](https://scholar.google.co.uk/citations?user=unXFDCEAAAAJ&hl=en) (2019-2023), *Safety-Driven Timing-Predictable and Resource-Efficient Scheduling for Autonomous Systems*, co-supervisor: Prof. John McDermid → Research Fellow, University of York
-
-BSc students:
+Past students:
 - Chase Mo (2024-2025), *Traffic detection for deriving KPIs*
 - Dom Decicco (2024-2025), *Routerless Network-on-Chip optimization*
 - James Sutton (2024-2025), *Multi-robot scheduling for warehouses*
@@ -121,11 +110,19 @@ BSc students:
 - Riko Puusepp (2024-2025), *AR for accelerating learning of programming*
 - Dean Kenny (2020-2021), *Simulating and improving the scheduling in time-sensitive networks*
 
-MSc students:
+### MSc Students
+- Zilun Zhang (2025-2026), *Randomised DAG generator with AI based few-shot learning*
+
+Past students:
 - Xiyu Fang (2025), *Randomised DAG generator for evaluating scheduling performance*
 - Zirui Yuan (2023), *Simulation and Optimization of Routerless Networks-on-Chips*
 - Zhijian Wang (2021), *Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources*
 - Zixun Yu (2021), *Smart Intersection Control with Back-Pressure Algorithms* (co-supervised)
+
+### Advisors
+- [Prof. Iain Bate](https://www-users.york.ac.uk/~ijb500/) (CS HoD), University of York, UK
+- [Prof. FREng. Alan Burns](https://www-users.york.ac.uk/~ab38/), University of York, UK
+- [Prof. FREng. John McDermid](https://www.york.ac.uk/computer-science/about/news/50-years/hods/john-mcdermid/) (ISA Director), University of York, UK
 
 ---
 
