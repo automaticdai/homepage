@@ -464,5 +464,16 @@
     "venueShort": "DAC'26",
     "links": {},
     "notes": ""
+  },
+  {
+    "id": 36,
+    "year": 2026,
+    "type": "conference",
+    "title": "When Memory Matters: An Evaluation of LSTM-Based Multi-Agent Learning for Multi-Intersection Traffic Signal Control",
+    "authors": "Yingyi Kuang, George Vogiatzis, Xiaotian Dai, Maria Chli",
+    "venue": "IEEE International Conference on Intelligent Transportation Systems",
+    "venueShort": "ITSC'26",
+    "links": {},
+    "notes": ""
   }
 ]

@@ -8,6 +8,16 @@ toc: false
 ---
 
 # News
+## 2025
+- {{< news "paper" >}} Sep 2025: Our paper "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" is published in *IEEE Transactions on Computers*!
+- {{< news "talk" >}} Aug 2025: Invited Talk, "Digital Twin for Real-Time Cyber-Physical Systems", on the *Systron Lab Research and Demo day*.
+- {{< news "service" >}} Aug 2025: Invited as a TPC member of IEEE [RTSS 2025](https://2025.rtss.org/) (AE and BP sessions).
+- {{< news "service" >}} Aug 2025: Invited as the *Publication Chair* of IEEE [RTAS 2026](https://2026.rtas.org/).
+- {{< news "paper" >}} July 2025: Our poster "Criticality-aware Scheduling and Path Planning for Fault-Tolerant Cooperative Multi-Robot Systems" is published at [TAROS'25](https://taros-conference.org/)!
+- {{< news "service" >}} July 2025: Invited as a TPC member of IEEE [MOST 2026](https://ieeemobility.org/MOST2026/).
+- {{< news "project" >}} July 2025: Our resident programme proposal was accepted by XR Stories, which will focus on robots and digital twins for virtual production ([details can be found here](https://xrstories.co.uk/xr-stories-welcomes-university-of-york-researchers-in-residence/)).
+- {{< news "paper" >}} Mar 2025: Our paper, "A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions", is published in *Journal of Systems Architecture* [[Paper]](https://www.sciencedirect.com/science/article/pii/S138376212500044X).
+
 ## 2024
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [MOST 2025](https://ieeemobility.org/MOST2025/).
 - {{< news "service" >}} Nov 2024: Invited as a TPC member of [Ada Europe 2025](https://www.ada-europe.org/conference2025/).

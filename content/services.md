@@ -19,9 +19,10 @@ toc: false
 
 ---
 
-## External Examining and Expert Review
+## Editorial, Review & Examination
 
-- Expert Reviewer for the UK Research and Innovation (UKRI) / EPSRC
+- *Guest Editor*, [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3), Real-Time Systems Journal (RTSJ)
+- Expert Reviewer for the UK Research and Innovation (UKRI), EPSRC
 - External Examiner for Doctoral Thesis, University of Newcastle
 
 ---
@@ -55,12 +56,6 @@ toc: false
 - Real-time And intelliGent Edge computing workshop (<u>RAGE'24, RAGE'23, RAGE'22</u>)
 - IEEE International Conference on Embedded Software and Systems (<u>ICESS'22, ICESS'21, ICESS'20</u>)
 - Euromicro Conference on Digital System Design (<u>DSD'22, DSD'20</u>)
-
----
-
-## Journal Editor / Associate Editor
-
-- *Guest Editor*, [Special Issue on Resource Partitioning for Modern Multicore Systems](https://link.springer.com/journal/11241/volumes-and-issues/60-3), Real-Time Systems Journal (RTSJ)
 
 ---
 
