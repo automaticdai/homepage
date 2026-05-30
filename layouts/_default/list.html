@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="page">
+  <header class="page-head"><h1>{{ .Title }}</h1></header>
+  {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  {{- with .Pages }}
+  <div class="cards" style="margin-top:30px">
+    {{- range . }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+      {{- with .Params.lead }}<p style="color:var(--muted);margin-top:8px">{{ . }}</p>{{ end }}
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+</section>
+{{ end }}
