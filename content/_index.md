@@ -8,10 +8,6 @@ weight: 1
 toc: false
 ---
 
-{{<contact>}}
-
----
-
 ## About Me
 
 I am a Lecturer in the Department of Computer Science at the University of York, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](https://www.xiaotiandai.com/lab/) within the [RTDS Research Group](https://www.cs.york.ac.uk/rts/index.html).
