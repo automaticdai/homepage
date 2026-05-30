@@ -1,0 +1,33 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+
+{{- if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
+
+{{/* theme bootstrap: set stored theme before first paint to avoid FOUC */}}
+<script>(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="{{ "css/immersive.css" | relURL }}">
+{{- range .Site.Params.customCss }}
+<link rel="stylesheet" href="{{ . | relURL }}">
+{{- end }}
+
+<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
+
+{{/* Google Analytics 4 */}}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1Y9XTF4J6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Y1Y9XTF4J6');
+</script>
+
+{{- if eq .Title "Publications" }}
+<script defer src="{{ "js/publication-filter.js" | relURL }}"></script>
+{{- end }}
