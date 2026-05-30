@@ -1,0 +1,29 @@
+<div class="rail-bar">
+  <a class="rail-brand" href="{{ "/" | relURL }}">Steven <span>Dai</span></a>
+  <button class="nav-toggle" data-nav-toggle aria-label="Toggle navigation">
+    <svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+  </button>
+</div>
+
+<aside class="app-rail">
+  <a class="rail-brand" href="{{ "/" | relURL }}">Steven <span>Dai</span></a>
+  <div class="rail-role">Lecturer · Computer Science<br>University of York · ReFLEX Lab</div>
+
+  <nav class="rail-nav" aria-label="Primary">
+    {{- range .Site.Menus.main }}
+    {{- $active := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
+    <a class="rail-link{{ if $active }} is-active{{ end }}" href="{{ .URL | relLangURL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{- end }}
+  </nav>
+
+  <div class="rail-foot">
+    <div class="rail-social">
+      <a href="https://www.linkedin.com/in/{{ .Site.Params.widgets.social.linkedin }}/" aria-label="LinkedIn" target="_blank" rel="noopener">{{ partial "svg/linkedin.svg" (dict "class" "") }}</a>
+      <a href="https://github.com/{{ .Site.Params.widgets.social.github }}" aria-label="GitHub" target="_blank" rel="noopener">{{ partial "svg/github.svg" (dict "class" "") }}</a>
+      <a href="mailto:{{ .Site.Params.widgets.social.email }}" aria-label="Email">{{ partial "svg/email.svg" (dict "class" "") }}</a>
+    </div>
+    <button class="theme-toggle" data-theme-toggle aria-pressed="false" aria-label="Toggle light or dark theme">
+      <span class="ico-light">◐ Dark</span><span class="ico-dark">◑ Light</span>
+    </button>
+  </div>
+</aside>
