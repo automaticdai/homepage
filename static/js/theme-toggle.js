@@ -14,12 +14,16 @@
       apply(cur === 'dark' ? 'light' : 'dark');
       return;
     }
-    if (e.target.closest('[data-nav-toggle]')) {
-      document.body.classList.toggle('nav-open');
+    var navBtn = e.target.closest('[data-nav-toggle]');
+    if (navBtn) {
+      var open = document.body.classList.toggle('nav-open');
+      navBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
       return;
     }
     if (e.target.closest('.app-rail a')) {
       document.body.classList.remove('nav-open');
+      var nb = document.querySelector('[data-nav-toggle]');
+      if (nb) { nb.setAttribute('aria-expanded', 'false'); }
     }
   });
 })();

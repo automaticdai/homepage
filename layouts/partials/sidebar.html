@@ -1,6 +1,6 @@
 <div class="rail-bar">
   <a class="rail-brand" href="{{ "/" | relURL }}">Steven <span>Dai</span></a>
-  <button class="nav-toggle" data-nav-toggle aria-label="Toggle navigation">
+  <button class="nav-toggle" data-nav-toggle aria-expanded="false" aria-label="Toggle navigation">
     <svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
   </button>
 </div>
@@ -18,8 +18,8 @@
 
   <div class="rail-foot">
     <div class="rail-social">
-      <a href="https://www.linkedin.com/in/{{ .Site.Params.widgets.social.linkedin }}/" aria-label="LinkedIn" target="_blank" rel="noopener">{{ partial "svg/linkedin.svg" (dict "class" "") }}</a>
-      <a href="https://github.com/{{ .Site.Params.widgets.social.github }}" aria-label="GitHub" target="_blank" rel="noopener">{{ partial "svg/github.svg" (dict "class" "") }}</a>
+      <a href="https://www.linkedin.com/in/{{ .Site.Params.widgets.social.linkedin }}/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">{{ partial "svg/linkedin.svg" (dict "class" "") }}</a>
+      <a href="https://github.com/{{ .Site.Params.widgets.social.github }}" aria-label="GitHub" target="_blank" rel="noopener noreferrer">{{ partial "svg/github.svg" (dict "class" "") }}</a>
       <a href="mailto:{{ .Site.Params.widgets.social.email }}" aria-label="Email">{{ partial "svg/email.svg" (dict "class" "") }}</a>
     </div>
     <button class="theme-toggle" data-theme-toggle aria-pressed="false" aria-label="Toggle light or dark theme">

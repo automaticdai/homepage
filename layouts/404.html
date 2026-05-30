@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="page">
+  <header class="page-head"><h1>{{ T "404_title" | default "Page not found" }}</h1></header>
+  <div class="prose">
+    <p>{{ T "404_text" | default "The page you were looking for doesn't exist." }} <a href="{{ "" | relLangURL }}">{{ T "404_linktext" | default "Go to the homepage" }}</a>.</p>
+  </div>
+</section>
+{{ end }}
