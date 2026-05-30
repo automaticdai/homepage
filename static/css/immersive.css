@@ -32,6 +32,10 @@ a:hover{text-decoration:underline;}
 .skip-link{position:absolute;left:-9999px;top:0;background:var(--accent);color:#fff;padding:10px 16px;z-index:999;}
 .skip-link:focus{left:8px;top:8px;}
 
+/* visible keyboard focus */
+a:focus-visible,button:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px;}
+.app-rail a:focus-visible,.app-rail button:focus-visible{outline-color:#fff;}
+
 /* ---- shell layout ---- */
 .app-rail{
   position:fixed;top:0;left:0;bottom:0;width:var(--rail-w);background:var(--rail-bg);color:var(--rail-fg);

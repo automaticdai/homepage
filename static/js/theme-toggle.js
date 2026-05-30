@@ -8,6 +8,10 @@
     if (btn) { btn.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false'); }
   }
 
+  // sync the toggle's pressed state with the theme applied before first paint
+  var initBtn = document.querySelector('[data-theme-toggle]');
+  if (initBtn) { initBtn.setAttribute('aria-pressed', root.getAttribute('data-theme') === 'dark' ? 'true' : 'false'); }
+
   document.addEventListener('click', function (e) {
     if (e.target.closest('[data-theme-toggle]')) {
       var cur = root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
