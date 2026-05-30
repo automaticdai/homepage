@@ -7,7 +7,6 @@ weight: 1
 toc: false
 ---
 
-# News
 ## 2025
 - {{< news "paper" >}} Sep 2025: Our paper "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" is published in *IEEE Transactions on Computers*!
 - {{< news "talk" >}} Aug 2025: Invited Talk, "Digital Twin for Real-Time Cyber-Physical Systems", on the *Systron Lab Research and Demo day*.

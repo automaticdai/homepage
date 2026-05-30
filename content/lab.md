@@ -7,8 +7,6 @@ weight: 5
 toc: false
 ---
 
-# ReFLEX Lab
-
 ![](/img/reflex-lab-logo.jpg)
 
 ---

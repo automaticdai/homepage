@@ -7,8 +7,6 @@ weight: 4
 toc: false
 ---
 
-
-# Services
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK

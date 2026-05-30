@@ -7,7 +7,6 @@ weight: 7
 toc: false
 ---
 
-# Teaching
 I believe in fostering a dynamic and interactive learning environment that encourages critical thinking and practical application of knowledge. My goal is to inspire students to become independent problem-solvers and lifelong learners in the field of computer science.
 
 

@@ -7,7 +7,6 @@ weight: 6
 toc: false
 ---
 
-# Opportunities
 ## Why Join ReFLEX Lab?
 - *Cutting-edge research*: Work on impactful problems at the intersection of real-time systems, robotics, AI, and cyber-physical systems
 - *Collaborative environment*: Join a supportive team of researchers working on interdisciplinary projects
