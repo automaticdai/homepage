@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>{{ partial "head.html" . }}</head>
+<body class="app">
+  <a class="skip-link" href="#content">Skip to content</a>
+  {{ partial "sidebar.html" . }}
+  <main id="content" class="content">
+    {{ block "main" . }}
+      <div class="page"><div class="prose">{{ .Content }}</div></div>
+    {{ end }}
+  </main>
+  <script defer src="{{ "js/theme-toggle.js" | relURL }}"></script>
+  {{- partial "mathjax.html" . -}}
+</body>
+</html>
