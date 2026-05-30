@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="eyebrow">University of York · ReFLEX Lab</div>
+  <h1>Xiaotian<br>(Steven) Dai</h1>
+  <p class="sub">{{ .Site.Params.subtitle }}</p>
+  <div class="cta">
+    <a class="btn btn-pri" href="{{ "/research/" | relURL }}">View research</a>
+    <a class="btn btn-sec" href="{{ "/publications/" | relURL }}">Publications</a>
+  </div>
+</section>
+<div class="page"><div class="prose">
+  {{ .Content }}
+</div></div>
+{{ end }}
