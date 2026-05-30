@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Research homepage for Dr. Xiaotian (Steven) Dai, built with [Hugo](https://gohugo.io/) and the [Mainroad theme](https://github.com/Vimux/Mainroad) (git submodule). Deployed automatically to GitHub Pages on push to `master`.
+Research homepage for Dr. Xiaotian (Steven) Dai, built with [Hugo](https://gohugo.io/). The site is fully self-contained — all templates and styles live in this repo (no external Hugo theme). Deployed automatically to GitHub Pages on push to `master`.
 
 ## Commands
 
@@ -12,11 +12,6 @@ Research homepage for Dr. Xiaotian (Steven) Dai, built with [Hugo](https://gohug
 hugo server          # Local dev server with live reload (http://localhost:1313)
 hugo                 # Build site to ./public/
 hugo --minify        # Production build (used by CI)
-```
-
-The Mainroad theme must be initialized as a submodule:
-```bash
-git submodule update --init --recursive
 ```
 
 ## Architecture
@@ -44,18 +39,23 @@ Publications are stored in `static/data/publications.json` as a JSON array with 
 - `{{< tag-journal >}}`, `{{< tag-conference >}}`, `{{< tag-workshop >}}`, `{{< tag-chapter >}}`, `{{< tag-thesis >}}`, `{{< tag-wip >}}`, `{{< tag-preprint >}}` — publication type badges
 - `{{< layout-twocolumn >}}`, `{{< layout-twocolumn-experience >}}`, `{{< layout-row >}}`, `{{< layout-column >}}` — multi-column layout helpers for page content
 
-### Theme Overrides
+### Templates (`layouts/`)
 
-Files in `layouts/` override the Mainroad theme at the same relative path. Currently overridden:
-- `layouts/partials/header.html` — adds Google Analytics (GA4: `G-Y1Y9XTF4J6`)
-- `layouts/_default/single.html` — custom single page template
+The site is a self-contained "immersive app-shell": a persistent dark navigation rail with native View-Transitions page animations and a light/dark toggle. Key templates:
+- `layouts/_default/baseof.html` — the app shell (`<head>` + sidebar rail + single `<main>` content block)
+- `layouts/partials/head.html` — meta/OpenGraph, fonts, stylesheet links, theme-bootstrap script, Google Analytics (GA4: `G-Y1Y9XTF4J6`), and the conditional Publications JS
+- `layouts/partials/sidebar.html` — the persistent rail: nav from `menu.main` (server-side active state), inline social SVGs, light/dark toggle, mobile hamburger
+- `layouts/partials/mathjax.html` — conditional MathJax loader
+- `layouts/index.html` — home hero (portrait, name, role, profile links) above the bio content
+- `layouts/_default/single.html`, `list.html`, `404.html` — content / list / 404 pages, all inside the shell
 
 ### Styling (`static/css/`)
 
-- `mystyle.css` — structural overrides (container width, flex layouts, circular portrait image)
-- `custom.css` — additional customizations
+- `immersive.css` — the full design system: reset, CSS tokens (incl. `[data-theme="dark"]`), shell/rail layout, typography (Space Grotesk + Inter), prose, components, View Transitions, mobile drawer, reduced-motion
+- `mystyle.css` — shortcode/component classes (contact card, `layout-*` helpers, project cards)
+- `custom.css` — publication-list styles
 
-Both are loaded via `config.toml` `customCss` param. The site accent color is `#e22d30`.
+`immersive.css` is linked first in `head.html`; `mystyle.css` / `custom.css` follow via the `config.toml` `customCss` param. The accent color is `#e22d30`; the light/dark toggle is handled by `static/js/theme-toggle.js`.
 
 ### Deployment
 
