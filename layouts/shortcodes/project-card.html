@@ -6,7 +6,7 @@
   {{ end }}
   <div class="project-card__body{{ if eq (.Get "imgpos") "left" }} project-card__body--img-left{{ end }}">
     <div class="project-card__text">
-      {{ .Inner | markdownify }}
+      {{ .Inner | .Page.RenderString (dict "display" "block") }}
     </div>
     {{ with .Get "img" }}
     <div class="project-card__img">
