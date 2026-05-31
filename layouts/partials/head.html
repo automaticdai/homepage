@@ -12,7 +12,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="{{ "css/immersive.css" | relURL }}">
+{{ $css := resources.Get "css/immersive.css" | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 
 <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 
@@ -26,5 +27,6 @@
 </script>
 
 {{- if eq .Title "Publications" }}
-<script defer src="{{ "js/publication-filter.js" | relURL }}"></script>
+{{ $pubjs := resources.Get "js/publication-filter.js" | fingerprint }}
+<script defer src="{{ $pubjs.RelPermalink }}"></script>
 {{- end }}

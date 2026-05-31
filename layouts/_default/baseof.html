@@ -9,7 +9,8 @@
       <div class="page"><div class="prose">{{ .Content }}</div></div>
     {{ end }}
   </main>
-  <script defer src="{{ "js/theme-toggle.js" | relURL }}"></script>
+  {{ $toggle := resources.Get "js/theme-toggle.js" | fingerprint }}
+  <script defer src="{{ $toggle.RelPermalink }}"></script>
   {{- partial "mathjax.html" . -}}
 </body>
 </html>
