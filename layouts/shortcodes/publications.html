@@ -1,0 +1,58 @@
+{{- $pubs := site.Data.publications -}}
+{{- $labels := dict "journal" "journal" "conference" "conference" "workshop" "workshop" "chapter" "book chapter" "wip" "WiP paper" "thesis" "thesis" -}}
+{{- $linkOrder := slice "Paper" "Slides" "Poster" "Video" "Code" "Chapter" "Thesis" -}}
+{{- $years := slice -}}
+{{- range $pubs }}{{ $years = $years | append .year }}{{ end -}}
+{{- $years = collections.Reverse (sort (uniq $years)) -}}
+{{- $types := slice -}}
+{{- range $pubs }}{{ $types = $types | append .type }}{{ end -}}
+{{- $types = uniq $types -}}
+<div id="publications">
+  <div id="publication-filters" class="pub-toolbar">
+    <input type="search" id="filter-search" class="pub-input" placeholder="Search title, author, venue…" aria-label="Search publications">
+    <select id="filter-year" class="pub-select" aria-label="Filter by year">
+      <option value="all">All years</option>
+      {{- range $years }}<option value="{{ int . }}">{{ int . }}</option>{{ end }}
+    </select>
+    <select id="filter-type" class="pub-select" aria-label="Filter by type">
+      <option value="all">All types</option>
+      {{- range $types }}<option value="{{ . }}">{{ index $labels . | default . }}</option>{{ end }}
+    </select>
+    <select id="sort-order" class="pub-select" aria-label="Sort order">
+      <option value="year-desc">Newest first</option>
+      <option value="year-asc">Oldest first</option>
+      <option value="title-asc">Title A–Z</option>
+      <option value="title-desc">Title Z–A</option>
+    </select>
+    <button id="reset-filters" class="pub-reset" type="button">Reset</button>
+    <span id="publication-count" class="pub-count"></span>
+  </div>
+  <div id="publications-list">
+    {{- range $year := $years }}
+    <section class="pub-year" data-year="{{ int $year }}">
+      <h2 class="pub-year__head">{{ int $year }}</h2>
+      <ul class="pub-list">
+        {{- range where $pubs "year" $year }}
+        {{- $vs := replaceRE "^\\*+|\\*+$" "" (.venueShort | default "") -}}
+        {{- $authors := replace .authors "Xiaotian Dai" "<span class=\"pub-me\">Xiaotian Dai</span>" -}}
+        {{- $search := lower (printf "%s %s %s %s %s" .title .authors .venue (.venueShort | default "") (.notes | default "")) -}}
+        <li class="publication-item" data-year="{{ int .year }}" data-type="{{ .type }}" data-title="{{ .title }}" data-search="{{ $search }}">
+          <span class="pub-tag pub-tag--{{ .type }}">{{ index $labels .type | default .type }}</span>
+          <h3 class="pub-title">{{ .title }}</h3>
+          <p class="pub-authors">{{ $authors | safeHTML }}</p>
+          <p class="pub-venue">{{ with $vs }}<strong>({{ . }})</strong> {{ end }}{{ .venue }} · {{ int .year }}</p>
+          {{- with .notes }}<p class="pub-note"><em>{{ . }}</em></p>{{ end }}
+          {{- with .links }}
+          {{- $links := . }}{{ $done := slice }}
+          <p class="pub-links">
+            {{- range $label := $linkOrder }}{{ with index $links $label }}<a class="pub-link" href="{{ . }}">{{ $label }}</a>{{ $done = $done | append $label }}{{ end }}{{ end -}}
+            {{- range $label, $url := $links }}{{ if not (in $done $label) }}<a class="pub-link" href="{{ $url }}">{{ $label }}</a>{{ end }}{{ end -}}
+          </p>
+          {{- end }}
+        </li>
+        {{- end }}
+      </ul>
+    </section>
+    {{- end }}
+  </div>
+</div>
