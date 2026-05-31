@@ -22,7 +22,7 @@
     "venueShort": "AEiC'17",
     "links": {
       "Paper": "https://link.springer.com/chapter/10.1007%2F978-3-319-60588-3_6",
-      "GitHub": "https://github.com/automaticdai/research-wcet-trend-analysis"
+      "Code": "https://github.com/automaticdai/research-wcet-trend-analysis"
     },
     "notes": ""
   },
@@ -50,7 +50,7 @@
     "links": {
       "Paper": "https://dl.acm.org/citation.cfm?id=3358213",
       "Slides": "../files/emsoft19-dual-period.pdf",
-      "GitHub": "https://github.com/automaticdai/research-dual-period"
+      "Code": "https://github.com/automaticdai/research-dual-period"
     },
     "notes": "(*) Accepted and presented at EMSOFT 2019."
   },
@@ -90,7 +90,7 @@
     "venueShort": "JSA",
     "links": {
       "Paper": "https://doi.org/10.1016/j.sysarc.2019.101691",
-      "GitHub": "https://github.com/automaticdai/research-period-adaptation"
+      "Code": "https://github.com/automaticdai/research-period-adaptation"
     },
     "notes": "(*) Accepted and presented at Ada-Europe 2019."
   },
@@ -131,7 +131,7 @@
     "links": {
       "Paper": "http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf",
       "Video": "https://www.youtube.com/watch?v=fPSlHvK1NGc",
-      "GitHub": "https://github.com/automaticdai/research-sched-tsn"
+      "Code": "https://github.com/automaticdai/research-sched-tsn"
     },
     "notes": "(*) Best Paper Nomination"
   },
@@ -146,7 +146,7 @@
     "links": {
       "Paper": "http://eprints.whiterose.ac.uk/167629/1/rtss2020_dag.pdf",
       "Video": "https://www.youtube.com/watch?v=DriyJdDGtNc",
-      "GitHub": "https://github.com/automaticdai/research-dag-scheduling-analysis"
+      "Code": "https://github.com/automaticdai/research-dag-scheduling-analysis"
     },
     "notes": ""
   },
@@ -161,7 +161,7 @@
     "links": {
       "Paper": "https://arxiv.org/pdf/2008.09315.pdf",
       "Video": "https://www.youtube.com/watch?v=hh6B4aF7jDI",
-      "GitHub": "https://github.com/SeyedAmirTafrishi/LCS_Filter"
+      "Code": "https://github.com/SeyedAmirTafrishi/LCS_Filter"
     },
     "notes": ""
   },
@@ -201,7 +201,7 @@
     "venueShort": "RTSS'21",
     "links": {
       "Paper": "https://ieeexplore.ieee.org/abstract/document/9622396",
-      "GitHub": "https://github.com/automaticdai/research-mcs-ap-analysis"
+      "Code": "https://github.com/automaticdai/research-mcs-ap-analysis"
     },
     "notes": ""
   },
