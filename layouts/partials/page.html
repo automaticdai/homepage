@@ -1,0 +1,11 @@
+{{- /* Shared page body. Context: (dict "page" <Page> "wide" <bool>). */ -}}
+{{- $page := .page -}}
+<article class="page">
+  <header class="page-head">
+    <h1>{{ $page.Title }}</h1>
+    {{- with $page.Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  </header>
+  <div class="prose{{ if .wide }} prose--wide{{ end }}">
+    {{ $page.Content }}
+  </div>
+</article>

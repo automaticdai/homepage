@@ -1,0 +1,3 @@
+{{/* Wide page layout — identical to single.html but a wider content column.
+     Select per page with `layout: wide` in front matter. */}}
+{{ define "main" }}{{ partial "page.html" (dict "page" . "wide" true) }}{{ end }}

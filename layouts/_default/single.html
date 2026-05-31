@@ -1,11 +1,1 @@
-{{ define "main" }}
-<article class="page">
-  <header class="page-head">
-    <h1>{{ .Title }}</h1>
-    {{- with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
-  </header>
-  <div class="prose">
-    {{ .Content }}
-  </div>
-</article>
-{{ end }}
+{{ define "main" }}{{ partial "page.html" (dict "page" . "wide" false) }}{{ end }}
