@@ -20,10 +20,9 @@ hugo --minify        # Production build (used by CI)
 
 Each `.md` file maps to a top-level page. Front matter controls menu weight, sidebar, TOC, and authorbox display. Pages:
 - `_index.md` — Home: bio, background, and recent news items
-- `publications.md` — Loads and renders publications client-side from JSON
+- `publications.md` — Publications list, rendered at build time from `data/publications.json`
 - `lab.md` — ReFLEX Lab page with team members
 - `news.md`, `research.md`, `teaching.md`, `services.md`, `opportunities.md`, `robots.md`
-- `projects/` — Individual project pages (mocha, atas, scheme, deis)
 
 ### Publications System
 
@@ -33,11 +32,9 @@ The `{{</* publications */>}}` shortcode (`layouts/shortcodes/publications.html`
 
 ### Custom Shortcodes (`layouts/shortcodes/`)
 
-- `{{<contact>}}` — renders the portrait + bio card on the homepage
 - `{{< news "type" >}}` — inline colored label for news items; types: `paper`, `service`, `project`, `talk`
-- `{{< bibtitle >}}`, `{{< bibauthors >}}` — publication title/author formatting
-- `{{< tag-journal >}}`, `{{< tag-conference >}}`, `{{< tag-workshop >}}`, `{{< tag-chapter >}}`, `{{< tag-thesis >}}`, `{{< tag-wip >}}`, `{{< tag-preprint >}}` — publication type badges
-- `{{< layout-twocolumn >}}`, `{{< layout-twocolumn-experience >}}`, `{{< layout-row >}}`, `{{< layout-column >}}` — multi-column layout helpers for page content
+- `{{< project-card headline="…" img="…" >}}` — project card (headline + body + image), used on the research page
+- `{{< tag-journal >}}`, `{{< tag-conference >}}`, `{{< tag-thesis >}}` — publication type badges (used on `robots.md`)
 
 ### Templates (`layouts/`)
 
@@ -51,11 +48,9 @@ The site is a self-contained "immersive app-shell": a persistent dark navigation
 
 ### Styling (`static/css/`)
 
-- `immersive.css` — the full design system: reset, CSS tokens (incl. `[data-theme="dark"]`), shell/rail layout, typography (Space Grotesk + Inter), prose, components, View Transitions, mobile drawer, reduced-motion
-- `mystyle.css` — shortcode/component classes (contact card, `layout-*` helpers, project cards)
-- `custom.css` — publication-list styles
+- `immersive.css` — the site's single stylesheet and full design system: reset, CSS tokens (incl. `[data-theme="dark"]`), shell/rail layout, typography (Space Grotesk + Inter), prose, components, project cards, the publications list, View Transitions, mobile drawer, reduced-motion
 
-`immersive.css` is linked first in `head.html`; `mystyle.css` / `custom.css` follow via the `config.toml` `customCss` param. The accent color is `#e22d30`; the light/dark toggle is handled by `static/js/theme-toggle.js`.
+`immersive.css` is linked directly from `head.html`. The accent color is `#e22d30`; the light/dark toggle is handled by `static/js/theme-toggle.js`.
 
 ### Deployment
 
