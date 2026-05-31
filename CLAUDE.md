@@ -27,9 +27,9 @@ Each `.md` file maps to a top-level page. Front matter controls menu weight, sid
 
 ### Publications System
 
-Publications are stored in `static/data/publications.json` as a JSON array with fields: `id`, `year`, `type`, `title`, `authors`, `venue`, `venueShort`, `links`, `notes`. Valid `type` values: `journal`, `conference`, `workshop`, `chapter`, `wip`, `thesis`.
+Publications are stored in `data/publications.json` as a JSON array with fields: `id`, `year`, `type`, `title`, `authors`, `venue`, `venueShort`, `links`, `notes`. Valid `type` values: `journal`, `conference`, `workshop`, `chapter`, `wip`, `thesis`.
 
-`static/js/publication-filter.js` fetches this JSON at runtime and renders a filterable, sortable publication list into `publications.md`'s placeholder `div#publications-container`. **To add a publication, edit `publications.json` only** — not the markdown file.
+The `{{</* publications */>}}` shortcode (`layouts/shortcodes/publications.html`) renders the list from `site.Data.publications` at build time, grouped by year with type-coloured accent-rail entries. `static/js/publication-filter.js` then only filters/sorts the already-rendered DOM (search, year, type, sort). Styles live in `immersive.css` under `#publications`. **To add a publication, edit `data/publications.json` only** — not the markdown file.
 
 ### Custom Shortcodes (`layouts/shortcodes/`)
 
