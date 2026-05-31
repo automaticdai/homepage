@@ -160,3 +160,52 @@ a:focus-visible,button:focus-visible,.btn:focus-visible{outline:2px solid var(--
   .card,.app-rail{transition:none;}
   ::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none !important;}
 }
+
+/* ===== publications ===== */
+:root{
+  --pub-journal:#2f5fe0; --pub-conference:#e22d30; --pub-workshop:#0d9488;
+  --pub-chapter:#b4690e; --pub-wip:#64748b; --pub-thesis:#7c4dff;
+}
+:root[data-theme="dark"]{
+  --pub-journal:#5b82f5; --pub-conference:#ff5a5c; --pub-workshop:#2dd4bf;
+  --pub-chapter:#e0962f; --pub-wip:#94a3b8; --pub-thesis:#a78bfa;
+}
+#publications .pub-toolbar{position:sticky;top:0;z-index:20;display:flex;flex-wrap:wrap;gap:10px;
+  align-items:center;padding:14px;margin:0 0 22px;background:var(--bg);border:1px solid var(--line);border-radius:12px;}
+#publications .pub-input,#publications .pub-select{font-family:var(--b);font-size:14px;color:var(--fg);
+  background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 10px;}
+#publications .pub-input{flex:1;min-width:200px;}
+#publications .pub-reset{font-family:var(--b);font-size:13px;color:var(--muted);background:transparent;
+  border:1px solid var(--line);border-radius:8px;padding:8px 14px;cursor:pointer;}
+#publications .pub-reset:hover{color:var(--fg);border-color:var(--muted);}
+#publications .pub-count{color:var(--muted);font-size:13px;margin-left:auto;}
+#publications h2.pub-year__head{font-size:clamp(22px,2.4vw,30px);margin:34px 0 8px;padding-bottom:6px;
+  border-bottom:1px solid var(--line);}
+#publications ul.pub-list{list-style:none;padding:0;margin:0;}
+#publications .publication-item{margin:0;border-left:3px solid var(--line);padding:14px 0 14px 16px;
+  border-bottom:1px solid var(--line);transition:background .15s;}
+#publications .publication-item:hover{background:var(--soft);}
+#publications .publication-item[data-type="journal"]{border-left-color:var(--pub-journal);}
+#publications .publication-item[data-type="conference"]{border-left-color:var(--pub-conference);}
+#publications .publication-item[data-type="workshop"]{border-left-color:var(--pub-workshop);}
+#publications .publication-item[data-type="chapter"]{border-left-color:var(--pub-chapter);}
+#publications .publication-item[data-type="wip"]{border-left-color:var(--pub-wip);}
+#publications .publication-item[data-type="thesis"]{border-left-color:var(--pub-thesis);}
+#publications .pub-tag{display:inline-block;font-size:11px;font-weight:600;color:#fff;padding:2px 10px;
+  border-radius:20px;margin-bottom:8px;}
+#publications .pub-tag--journal{background:var(--pub-journal);}
+#publications .pub-tag--conference{background:var(--pub-conference);}
+#publications .pub-tag--workshop{background:var(--pub-workshop);}
+#publications .pub-tag--chapter{background:var(--pub-chapter);}
+#publications .pub-tag--wip{background:var(--pub-wip);}
+#publications .pub-tag--thesis{background:var(--pub-thesis);}
+#publications h3.pub-title{font-family:var(--b);font-size:17px;font-weight:700;color:var(--fg);
+  line-height:1.35;margin:0;}
+#publications .pub-authors,#publications .pub-venue,#publications .pub-note{font-size:14.5px;
+  color:var(--muted);line-height:1.5;margin:4px 0 0;}
+#publications .pub-me{font-weight:700;color:var(--fg);}
+#publications .pub-note{font-style:italic;}
+#publications .pub-links{margin:9px 0 0;display:flex;flex-wrap:wrap;gap:8px;}
+#publications .pub-link{font-size:12.5px;color:var(--accent);border:1px solid var(--line);border-radius:6px;
+  padding:3px 10px;text-decoration:none;}
+#publications .pub-link:hover{background:var(--accent);color:#fff;border-color:var(--accent);text-decoration:none;}
