@@ -112,9 +112,19 @@ a:focus-visible,button:focus-visible,.btn:focus-visible{outline:2px solid var(--
 .card{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:22px;transition:.18s;}
 .card:hover{border-color:var(--accent);transform:translateY(-3px);box-shadow:0 12px 30px rgba(15,17,21,.08);}
 
-/* ---- publications restyle (output of publication-filter.js) ---- */
-.topic-tag{border-radius:6px;}
-.paper-item{padding-bottom:1rem;border-bottom:1px solid var(--line);}
+/* ---- project cards (research page, via project-card shortcode) ---- */
+.project-card{margin-bottom:32px;}
+.project-card__headline{margin-bottom:12px;color:var(--muted);font-style:italic;}
+.project-card__body{display:flex;gap:24px;align-items:flex-start;}
+.project-card__text{flex:1;min-width:0;}
+.project-card__img{flex-shrink:0;width:420px;max-width:100%;}
+.project-card__img img{width:100%;height:auto;border-radius:6px;}
+.project-card__body--img-left{flex-direction:row-reverse;}
+@media (max-width:640px){
+  .project-card__body{flex-direction:column;}
+  .project-card__body--img-left{flex-direction:column;}
+  .project-card__img{width:100%;}
+}
 
 /* ---- mobile top bar (hidden on desktop) ---- */
 .rail-bar{display:none;}

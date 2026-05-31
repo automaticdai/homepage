@@ -32,7 +32,6 @@ canonifyURLs = true
   PygmentsCodeFences = true
   PygmentsStyle = "monokai"
   highlightColor = "#e22d30"
-  customCss = ["css/mystyle.css", "css/custom.css"]
 
 #[Params.logo]
 #  image = "img/uoy-logo-small.png" # Logo image. Path relative to "static"
