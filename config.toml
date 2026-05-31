@@ -1,63 +1,21 @@
 baseurl = "/"
 title = "Xiaotian (Steven) Dai"
 languageCode = "en-us"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-#googleAnalytics = "UA-60989638-2" # Enable Google Analytics by entering your tracking id
 canonifyURLs = true
 
-[pagination]  
-  pagerSize = 10 # Number of posts per page
-
-[Author]
-  name = "Xiaotian Dai"
-  bio = "Research Associate at University of York."
-  avatar = "img/avatar.png"
-
 [Params]
-  subtitle = "Real-Time and Distributed Systems Group | University of York" # Subtitle of your site
-  description = "" # Description of your site
-  copyright = "Xiaotian Dai" # copyright holder, otherwise will use site title
+  subtitle = "Real-Time and Distributed Systems Group | University of York"
+  description = ""
   opengraph = true
-  twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
-  authorbox = false
-  toc = true
-  post_navigation = false
-  post_meta = ["date", "categories"] # Order of post meta information. Use ["none"] to turn off completely.
-  postSections = ["post"] # ["blog", "news"] alternative that shows more than one section's pages
-  dateformat = "2006-01-02" # change the format of dates
-  mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
-  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  PygmentsCodeFences = true
-  PygmentsStyle = "monokai"
-  highlightColor = "#e22d30"
+  mathjax = true
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 
-#[Params.logo]
-#  image = "img/uoy-logo-small.png" # Logo image. Path relative to "static"
-
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social"]
-
-[Params.widgets]
-  recent_num = 8 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
-
+# Social handles used by the sidebar rail (layouts/partials/sidebar.html)
 [Params.widgets.social]
-  # Enable parts of social widget
-  #facebook = "username"
-  #twitter = "username"
   linkedin = "xdai3"
-  #telegram = "username"
   github = "automaticdai"
-  #gitlab = "username"
-  #bitbucket = "username"
   email = "automatic.dai@gmail.com"
-  #google_plus = "profileid"
 
 [markup.goldmark.renderer]
   unsafe = true
