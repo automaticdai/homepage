@@ -163,12 +163,10 @@ a:focus-visible,button:focus-visible,.btn:focus-visible{outline:2px solid var(--
 
 /* ===== publications ===== */
 :root{
+  /* one palette for both themes — these mid-tones keep white chip text legible
+     and stay visible as rails on either light or dark page backgrounds */
   --pub-journal:#2f5fe0; --pub-conference:#e22d30; --pub-workshop:#0d9488;
   --pub-chapter:#b4690e; --pub-wip:#64748b; --pub-thesis:#7c4dff;
-}
-:root[data-theme="dark"]{
-  --pub-journal:#5b82f5; --pub-conference:#ff5a5c; --pub-workshop:#2dd4bf;
-  --pub-chapter:#e0962f; --pub-wip:#94a3b8; --pub-thesis:#a78bfa;
 }
 #publications .pub-toolbar{position:sticky;top:0;z-index:20;display:flex;flex-wrap:wrap;gap:10px;
   align-items:center;padding:14px;margin:0 0 22px;background:var(--bg);border:1px solid var(--line);border-radius:12px;}
