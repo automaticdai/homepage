@@ -32,7 +32,7 @@ toc: false
 - *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems ([<u>SIES'24</u>](https://ieee-sies.org/))
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'23</u>](https://2023.rtas.org/))
 - *Workshop Co-Chair*, the 9th Workshop on Mixed Criticality Systems @ RTSS ([<u>WMC'22</u>](https://wmc2022.github.io/))
-- *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ [Monami'22](https://www.monami2022.org/)
+- *Workshop Co-Chair*, the workshop Innovative Defence Technologies in 5G and Beyond Networks Using Machine Learning @ [Monami'22](https://mon-ami.eai-conferences.org/2022/)
 - *Publicity Chair*, International Conference on Real-Time Networks and Systems ([<u>RTNS'21</u>](https://rtns2021.univ-nantes.fr/))
 - *Session Chair (Systems)*, International Conference on Real-Time Networks and Systems ([<u>RTNS'21</u>](https://rtns2021.univ-nantes.fr/))
 - *Session Chair (Resource Management)*, IEEE International Conference on Embedded Software and Systems ([<u>ICESS'20</u>](http://icess.net/2020/))

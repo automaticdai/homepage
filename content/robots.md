@@ -48,7 +48,7 @@ My next step is to build a robot for SLAM and Navigation! I decide to choose ROS
 
 {{<tag-conference>}} Seyed Amir Tafrishi, and Vahid E. Kandjani. ["Line-circle: A geometric filter for single camera edge-based object detection"](https://arxiv.org/pdf/1707.08095). 2017 5th RSI International Conference on Robotics and Mechatronics (ICRoM). IEEE, 2017.
 
-\[[Paper](https://arxiv.org/pdf/1707.08095.pdf)\] \[[Github](https://github.com/automaticdai/LCS-filter/tree/lc-filter)\]
+\[[Paper](https://arxiv.org/pdf/1707.08095)\] \[[Github](https://github.com/automaticdai/LCS-filter/tree/lc-filter)\]
 
 A geometric filter that is able to use machine learning technique as a definition of Trust factor with relation to geometric orientations and constraints. LC filter minimizes the data usage for detection or other applications like SLAM in which prevent the systems from critical over calculations during entrance to overwhelming landmarks. This filter is designed for edge-base detection or advance cameras like event-camera. As another outstanding property, due to two layer expert evaluations, LC filter simply can estimate the incoming objects to the camera with only reliance to vehicle IMU sensor.
 
@@ -87,7 +87,7 @@ A side project during the summer holiday. The hardware of this self-balance robo
 
 ## YM4 FIRA Educational Robot (2015)
 
-[[GitHub](https://github.com/automaticdai/arduino-ym4-robot-lib)]
+[[GitHub](https://github.com/automaticdai/ym4-robot-arduino-lib)]
 
 This is a FIRA form factor robot that is designed for educational purpose. The platform is built by a friend's company: Embedded Dream Studio. I was involved in the Arduino library design and PID controller improvement.
 

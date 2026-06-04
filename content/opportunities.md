@@ -109,7 +109,7 @@ We welcome visiting PhD students and professors from universities worldwide. A v
 ### How to Arrange a Visit
 
 1. **Check Visitor Information**: Review the [University's academic visitor guidelines](https://www.york.ac.uk/computer-science/research/academic-visitors/)
-2. **Visa Requirements**: If you're from outside the UK, check [visitor visa information](https://www.york.ac.uk/admin/hr/working-in-the-uk/visitor-visas/about/)
+2. **Visa Requirements**: If you're from outside the UK, check [visitor visa information](https://www.york.ac.uk/staff/hr/employment/visas-work-permission/visitor-visas/)
 3. **ATAS Certificate**: You'll need an ATAS (Academic Technology Approval Scheme) certificate to conduct research in the UK
 4. **Contact Me**: Email me at **xiaotian.dai (at) york.ac.uk** to discuss your visit, research interests, and potential collaboration
 

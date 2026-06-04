@@ -42,7 +42,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 Developing a new generation of UK-native, safety critical and cyber-secure microprocessors for aerospace applications. The SCHEME project aims to build UK national resilience in high-integrity avionics design and manufacturing. SCHEME has been featured in the UK Government's [Advanced Manufacturing Plan](https://www.gov.uk/government/publications/advanced-manufacturing-plan/advanced-manufacturing-plan-html-version).
 {{< /project-card >}}
 
-### ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures
+### ➤ MOCHA: Modelling and Optimising Complex Heterogeneous Architectures
 
 {{< project-card img="/img/base-station.png" headline="(2019 - 2022) RA, University of York | Funded by Huawei Technologies Co. Ltd, £985,926" >}}
 The aim of MOCHA is to research into building statistical models of systems and adaptive policies for complex heterogeneous architectures, addressing high overheads and low cache hit rates in real-time systems.
@@ -62,7 +62,7 @@ Key outcomes of DEIS include contributions to the OMG [System Assurance Case Met
 ### ➤ ATAS: Adaptive Task Scheduling Framework for CPS
 
 {{< project-card img="/img/atas.jpg" headline="(2015 - 2018) PhD Student, University of York | Funded by University of York, £1,800" >}}
-Adaptive Task Scheduling Framework for CPS (ATAS) us an adaptive real-time scheduling framework for Cyber-Physical Control Systems. ATAS includes a hierarchical structure, with dynamic worst-case execution time analysis, period adaptation and dual-period operational modes.
+Adaptive Task Scheduling Framework for CPS (ATAS) is an adaptive real-time scheduling framework for Cyber-Physical Control Systems. ATAS includes a hierarchical structure, with dynamic worst-case execution time analysis, period adaptation and dual-period operational modes.
 {{< /project-card >}}
 
 ---
@@ -75,9 +75,9 @@ Adaptive Task Scheduling Framework for CPS (ATAS) us an adaptive real-time sched
 - *Conference talk*, "Resilience-aware Mixed-criticality DAG Scheduling on Multi-cores for Autonomous Systems", Ada-Europe International Conference on Reliable Software Technologies (Ada Europe'22), June 2022 (presented by Jie Zou)
 - *Conference talk*, "Discretization and Stabilization of Energy-based Controller for Period Switching Control and Flexible Scheduling", American Control Conference (ACC'22), June 2022 (presented by Dr. Tafrashi)
 - *Invited talk*, "Digital Twin for Scheduling in Embedded and Real-Time Systems", 6th Annual UK System Research Challenges Workshop, Nov 2021
-- *Conference talk*, "Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges", IEEE Real-Time and Embedded Technology and Applications Symposium ([RTAS'21](https://eprints.whiterose.ac.uk/175031/1/RTAS_21_Digital_Twin.pdf)), May 2021
+- *Conference talk*, "Digital Twin for Dependable Multi-Core Real-Time Systems --- Requirements and Open Challenges", IEEE Real-Time and Embedded Technology and Applications Symposium ([RTAS'21](https://eprints.whiterose.ac.uk/id/eprint/175031/1/RTAS_21_Digital_Twin.pdf)), May 2021
 - *Conference talk*, "DAG Scheduling and Analysis on Multiprocessor Systems", IEEE Real-Time Systems Symposium (RTSS'20), Dec 2020 (presented by Dr. Zhao) [[Video]](https://www.youtube.com/watch?v=DriyJdDGtNc)
-- *Conference talk*, "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", International Conference on Computer Aided Design ([ICCAD'20](http://eprints.whiterose.ac.uk/164756/1/ICCAD_2020_TSN_FPS.pdf)), Nov 2020 [[Video]](https://www.youtube.com/watch?v=fPSlHvK1NGc)
+- *Conference talk*, "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", International Conference on Computer Aided Design ([ICCAD'20](https://eprints.whiterose.ac.uk/id/eprint/164756/1/ICCAD_2020_TSN_FPS.pdf)), Nov 2020 [[Video]](https://www.youtube.com/watch?v=fPSlHvK1NGc)
 
 ---
 
@@ -89,10 +89,10 @@ Adaptive Task Scheduling Framework for CPS (ATAS) us an adaptive real-time sched
 ## Open-Source Software
 
 - [dag-gen-rnd: A Randomized Multi-DAG Task Generator for Scheduling and Allocation Research](https://github.com/automaticdai/dag-gen-rnd)
-- [DAG Scheduling Simulator on Multiprocessor Systems](https://github.com/automaticdai/research-dag-scheduling-analysis)
+- [DAG Scheduling Simulator on Multiprocessor Systems](https://github.com/automaticdai/dag-scheduling-analysis)
 - [Fixed Priority Scheduling and Controller Co-Design for TSN](https://github.com/automaticdai/research-sched-tsn)
 - [Line-Circle-Square (LCS): A Multilayered Geometric Filter for Edge-Based Detection](https://github.com/automaticdai/LCS-filter)
 
-Please check my [GitHub](https://www.github.com/automaticdai) for more projects.
+Please check my [GitHub](https://github.com/automaticdai) for more projects.
 
 ---
