@@ -24,6 +24,7 @@ You can find more about my research interests and projects on the [research page
 
 ## News
 
+- {{< news "paper" >}} Jun 2026: Our paper "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes" is accepted at *IEEE Transactions on Parallel and Distributed Systems (TPDS)*!
 - {{< news "paper" >}} May 2026: Our paper "When Memory Matters: An Evaluation of LSTM-Based Multi-Agent Learning for Multi-Intersection Traffic Signal Control" is accepted at [ITSC 2026](https://ieee-itsc.org/2026/)!
 - {{< news "paper" >}} Mar 2026: Our paper "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence" is accepted at [DAC 2026](https://dac.com/2026)!
 - {{< news "service" >}} Feb 2026: Invited as a TPC member of [RTCSA 2026](https://rtcsa2026.github.io/).

@@ -475,5 +475,16 @@
     "venueShort": "ITSC'26",
     "links": {},
     "notes": ""
+  },
+  {
+    "id": 37,
+    "year": 2026,
+    "type": "journal",
+    "title": "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes",
+    "authors": "Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain Bate, Shuai Zhao",
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "venueShort": "TPDS",
+    "links": {},
+    "notes": ""
   }
 ]
