@@ -486,5 +486,16 @@
     "venueShort": "TPDS",
     "links": {},
     "notes": ""
+  },
+  {
+    "id": 38,
+    "year": 2026,
+    "type": "journal",
+    "title": "Reliable Resource Sharing and Analysis for Multicore Mixed-Criticality Systems",
+    "authors": "Nan Chen, Tong Cheng, Xiaotian Dai, Shuai Zhao, Wanli Chang",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "venueShort": "TCAD",
+    "links": {},
+    "notes": ""
   }
 ]
