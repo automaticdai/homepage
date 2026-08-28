@@ -24,6 +24,8 @@ You can find more about my research interests and projects on the [research page
 
 ## News
 
+- {{< news "project" >}} Aug 2026: Our proposal on adaptive robotics for XR lighting effects (RAVEN-SCAR) was granted.
+- {{< news "paper" >}} Aug 2026: Two workshop papers "RAVEN: A Latency-Aware Predictive Digital Twin Framework for Humanoid Robotic Cinematography in Virtual Production" and "Adaptive Decentralised Coordination Algorithms for Autonomous Swarm Robots in Planetary Surface Missions" are accepted at [TAROS 2026](https://taros-conference.org/)!
 - {{< news "paper" >}} Jul 2026: Our paper "Reliable Resource Sharing and Analysis for Multicore Mixed-Criticality Systems" is accepted at *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*!
 - {{< news "paper" >}} Jun 2026: Our paper "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes" is accepted at *IEEE Transactions on Parallel and Distributed Systems (TPDS)*!
 - {{< news "paper" >}} May 2026: Our paper "When Memory Matters: An Evaluation of LSTM-Based Multi-Agent Learning for Multi-Intersection Traffic Signal Control" is accepted at [ITSC 2026](https://ieee-itsc.org/2026/)!

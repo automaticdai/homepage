@@ -497,5 +497,27 @@
     "venueShort": "TCAD",
     "links": {},
     "notes": ""
+  },
+  {
+    "id": 39,
+    "year": 2026,
+    "type": "workshop",
+    "title": "RAVEN: A Latency-Aware Predictive Digital Twin Framework for Humanoid Robotic Cinematography in Virtual Production",
+    "authors": "Modie Shakarchi, Pengcheng Liu, Xiaotian Dai",
+    "venue": "Towards Autonomous Robotic Systems Conference",
+    "venueShort": "TAROS'26",
+    "links": {},
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "year": 2026,
+    "type": "workshop",
+    "title": "Adaptive Decentralised Coordination Algorithms for Autonomous Swarm Robots in Planetary Surface Missions",
+    "authors": "Charles Piper, Xiaotian Dai",
+    "venue": "Towards Autonomous Robotic Systems Conference",
+    "venueShort": "TAROS'26",
+    "links": {},
+    "notes": ""
   }
 ]
