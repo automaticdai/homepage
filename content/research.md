@@ -28,7 +28,7 @@ My research lies at the intersection of real-time embedded systems (RTES), cyber
 
 - Co-I, Innovate UK, *SCHEME: Safety Critical Harsh Environment Micro-processing Evolution*, £2.2m out of £22.4m, 05/2023-04/2028
 - PI, University Research Priming (URP) Capital Funding, *RAVEN: Real-time Adaptive Virtual-twin Environment for Next-generation Robotics in Virtual Production*, £48,746, 10/2025-07/2026
-- PI, EPSRC XR Network+, *RAVEN-SCAR: Adaptive Robotics for XR Lighting Effects*, £10,232 out of £19,983, 09/2026-03/2027
+- PI, EPSRC XR Network+, *RAVEN-SCAR: Adaptive Robotics for XR Lighting Effects*, £19,983, 09/2026-03/2027
 - PI, Google Cloud Research Credits Program, *Imitation Learning of Humanoids Robots for Filming*, £3,731, 10/2025-04/2026
 - PI, XR Stories R&D Residency Programme, *Digital Twin and Robotics for Virtual Production*, 05/2025-04/2026
 - PI, ECR Funding, *Safe, Adaptive and Resilient Scheduling of Real-Time Systems*, £6K, 09/2023-09/2026
