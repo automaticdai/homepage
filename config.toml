@@ -2,6 +2,8 @@ baseurl = "/"
 title = "Xiaotian (Steven) Dai"
 languageCode = "en-us"
 canonifyURLs = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 
 [Params]
   subtitle = "Real-Time and Distributed Systems Group | University of York"
