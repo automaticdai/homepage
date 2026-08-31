@@ -519,5 +519,16 @@
     "venueShort": "TAROS'26",
     "links": {},
     "notes": ""
+  },
+  {
+    "id": 41,
+    "year": 2026,
+    "type": "conference",
+    "title": "PAPS: A Predictable and Adaptive Priority Scheme for Tasks with Variable Data Latency",
+    "authors": "Nan Chen, Xiaotian Dai, Alan Burns, Iain Bate, Shuai Zhao",
+    "venue": "IEEE Real-Time Systems Symposium",
+    "venueShort": "RTSS'26",
+    "links": {},
+    "notes": ""
   }
 ]
