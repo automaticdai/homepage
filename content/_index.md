@@ -10,7 +10,7 @@ toc: false
 
 ## About Me
 
-I am a Lecturer (~Assistant Professor) in the Department of Computer Science at the University of York, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](/lab/) within the [RTDS Research Group](https://www.cs.york.ac.uk/rts/).
+I am a Senior Lecturer (~Associate Professor) in the Department of Computer Science at the University of York, where I lead the [Real-Time and Flexible Cyber-Physical Systems (ReFLEX) Lab](/lab/) within the [RTDS Research Group](https://www.cs.york.ac.uk/rts/).
 
 My research focuses on modelling, scheduling, and timing analysis for cyber-physical systems, with an emphasis on making safety-critical systems more flexible, adaptive, and predictable. I also develop digital-twin techniques for feedback-driven runtime improvement and specialised hardware designs for real-time and embedded systems. This work has been applied across robotics and autonomous systems, self-driving, avionics, control systems, 5G base stations, and transportation, with a focus on operational safety, robustness, and resilience.
 
