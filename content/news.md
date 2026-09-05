@@ -7,7 +7,24 @@ weight: 1
 toc: false
 ---
 
+## 2026
+- {{< news "paper" >}} Aug 2026: Our paper "PAPS: A Predictable and Adaptive Priority Scheme for Tasks with Variable Data Latency" is accepted at [RTSS 2026](https://2026.rtss.org/)!
+- {{< news "project" >}} Aug 2026: Our proposal on adaptive robotics for XR lighting effects (RAVEN-SCAR) was granted (£20k).
+- {{< news "paper" >}} Aug 2026: Two workshop papers "RAVEN: A Latency-Aware Predictive Digital Twin Framework for Humanoid Robotic Cinematography in Virtual Production" and "Adaptive Decentralised Coordination Algorithms for Autonomous Swarm Robots in Planetary Surface Missions" are accepted at [TAROS 2026](https://taros-conference.org/)!
+- {{< news "paper" >}} Jul 2026: Our paper "Reliable Resource Sharing and Analysis for Multicore Mixed-Criticality Systems" is accepted at *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*!
+- {{< news "paper" >}} Jun 2026: Our paper "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes" is accepted at *IEEE Transactions on Parallel and Distributed Systems (TPDS)*!
+- {{< news "paper" >}} May 2026: Our paper "When Memory Matters: An Evaluation of LSTM-Based Multi-Agent Learning for Multi-Intersection Traffic Signal Control" is accepted at [ITSC 2026](https://ieee-itsc.org/2026/)!
+- {{< news "paper" >}} Mar 2026: Our paper "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence" is accepted at [DAC 2026](https://dac.com/2026)!
+- {{< news "service" >}} Feb 2026: Invited as a TPC member of [RTCSA 2026](https://rtcsa2026.github.io/).
+- {{< news "service" >}} Jan 2026: Invited as a TPC member of [EMSOFT 2026](https://esweek.org/emsoft/).
+- {{< news "service" >}} Jan 2026: Invited as a TPC member of [RTNS 2026](https://2026.rtns-conference.org/).
+
 ## 2025
+- {{< news "paper" >}} Dec 2025: Our paper "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems" is accepted at [RTSS 2025](https://2025.rtss.org/) (⭐Outstanding Paper⭐)!
+- {{< news "service" >}} Nov 2025: Invited as a TPC member of [ECRTS 2026](https://www.ecrts.org/).
+- {{< news "service" >}} Nov 2025: Invited as a TPC member of [Ada Europe 2026](https://www.ada-europe.org/conference2026/).
+- {{< news "project" >}} Oct 2025: Our proposal to use a humanoid robot for virtual production (RAVEN-G1) was granted (£48k).
+- {{< news "project" >}} Oct 2025: Our proposal on imitation training of humanoid robots for filming was granted via *Google Cloud Research Credits Program* (£3,731).
 - {{< news "paper" >}} Sep 2025: Our paper "A Hybrid Approach to Refine WCRT Bounds for DAG Scheduling Using Anomaly Classification" is published in *IEEE Transactions on Computers*!
 - {{< news "talk" >}} Aug 2025: Invited Talk, "Digital Twin for Real-Time Cyber-Physical Systems", on the *Systron Lab Research and Demo day*.
 - {{< news "service" >}} Aug 2025: Invited as a TPC member of IEEE [RTSS 2025](https://2025.rtss.org/) (AE and BP sessions).
