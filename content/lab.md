@@ -86,6 +86,7 @@ Past PhDs:
 Student interns:
 - Jixiang Zhen (2026--), *Digital Twin for Humanoid Robots in Virtual Production*
 - Ollie Collett (2026--), *Digital Twin for Humanoid Robots in Virtual Production*
+- Yunchuan Xu (2026--), *Real-Time Digital Twin for Self-Adaptive Autonomous Driving*
 
 Past students:
 - Huzaifa Thakur (2025/26), *Imitation Learning for Humanoid Robot Training*
