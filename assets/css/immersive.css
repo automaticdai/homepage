@@ -192,7 +192,7 @@ a:focus-visible,button:focus-visible,.btn:focus-visible{outline:2px solid var(--
 #publications .publication-item[data-type="wip"]{border-left-color:var(--pub-wip);}
 #publications .publication-item[data-type="thesis"]{border-left-color:var(--pub-thesis);}
 #publications .pub-tag,.news-tag{display:inline-block;font-size:11px;font-weight:600;color:#fff;padding:2px 10px;
-  border-radius:20px;}
+  border-radius:5px;}
 #publications .pub-tag{margin-bottom:8px;}
 #publications .pub-tag--journal{background:var(--pub-journal);}
 #publications .pub-tag--conference{background:var(--pub-conference);}

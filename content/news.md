@@ -8,6 +8,7 @@ toc: false
 ---
 
 ## 2026
+- {{< news "service" >}} Sep 2026: Invited as a TPC member of [AEiC 2027](https://www.ada-europe.org/conference2027/).
 - {{< news "paper" >}} Aug 2026: Our paper "PAPS: A Predictable and Adaptive Priority Scheme for Tasks with Variable Data Latency" is accepted at [RTSS 2026](https://2026.rtss.org/)!
 - {{< news "grant" >}} Aug 2026: Our proposal on adaptive robotics for XR lighting effects ([RAVEN-SCAR](https://xrnetworkplus.xrstories.co.uk/project/raven-scar-adaptive-robotics-for-xr-lighting-effects/)) was granted (£20k).
 - {{< news "paper" >}} Aug 2026: Two workshop papers "RAVEN: A Latency-Aware Predictive Digital Twin Framework for Humanoid Robotic Cinematography in Virtual Production" and "Adaptive Decentralised Coordination Algorithms for Autonomous Swarm Robots in Planetary Surface Missions" are accepted at [TAROS 2026](https://taros-conference.org/)!

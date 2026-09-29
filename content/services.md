@@ -48,7 +48,7 @@ toc: false
 - International Conference on Real-Time Networks and Systems (<u>RTNS'26, RTNS'21</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Application (<u>RTCSA'26</u>)
 - IEEE/ACM International Conference on Embedded Software (<u>EMSOFT'26</u>)
-- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC'26, AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>)
+- Ada-Europe International Conference on Reliable Software Technologies (<u>AEiC'27, AEiC'26, AEiC'25, AEiC'24, AEiC'23, AEiC'22, AEiC'21</u>)
 - IEEE International Conference on Mobility: Operations, Services, and Technologies (<u>MOST'26, MOST'25</u>)
 - International Symposium on Trustworthy Autonomous Systems (<u>TAS'24, TAS'23</u>)
 - Real-time And intelliGent Edge computing workshop (<u>RAGE'24, RAGE'23, RAGE'22</u>)
