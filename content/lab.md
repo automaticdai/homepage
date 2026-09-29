@@ -81,7 +81,7 @@ Past PhDs:
 - [Haochun Liang](https://scholar.google.co.uk/citations?hl=en&user=MVZIQVAAAAAJ) (2025--2026), *Real-time containers for Mixed-Criticality Real-Time Systems*, Visiting PhD Student (CSC)
 
 ### UG Students
-- [Charlie Piper](https://charliepiper.com) (2025/26), *Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions* → work leads to a poster
+- [Charlie Piper](https://charliepiper.com) (2025/26), *Adaptive Decentralised Coordination Algorithms for Autonomous Robotic Swarms in Planetary Surface Missions* [[Project]](https://charliepiper.com/research/swarm-robotics/) → work leads to a poster
 
 Student interns:
 - Jixiang Zhen (2026--), *Digital Twin for Humanoid Robots in Virtual Production*
