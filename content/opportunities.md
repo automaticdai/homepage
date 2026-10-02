@@ -91,6 +91,7 @@ Join a cohort of students in specialized training programs:
     - **[SAINTS Safe AI CDT](https://www.york.ac.uk/study/postgraduate-research/centres-doctoral-training/safe-ai-training/)**: Focus on safe and trustworthy AI systems
     - **[ALBERT CDT](https://www.york.ac.uk/yorrobots/more-projects/albert/cdt-albert-funded-projects/)**: Autonomous Robotic Systems for Laboratory Experiments
 - **China Scholarships Council (CSC)**: If you're from China, the CSC scholarship provides excellent funding opportunities. [Learn more here](https://www.york.ac.uk/study/postgraduate-research/funding/china-council-scholarships/).
+- **Commonwealth Scholarships**: If you're from an eligible Commonwealth country, the Commonwealth Scholarship Commission (CSC UK) offers fully funded PhD scholarships covering tuition fees, travel, and a living allowance. [Learn more here](https://cscuk.fcdo.gov.uk/scholarships/).
 - **Project-Specific Funding**: Some projects (like SCHEME) may have associated funding opportunities. We can discuss these during your application process.
 - **Self-Funding**: Self-funding is also an option. I actively work to secure additional funding opportunities for students, including short-term research assistant positions, teaching assistant roles, and equipment allowances. We can discuss these opportunities during your application.
 

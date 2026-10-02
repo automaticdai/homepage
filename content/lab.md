@@ -11,10 +11,10 @@ toc: false
 
 ---
 
-<blockquote style="font-size: 1.5em;">
-"Cyber-physical systems, such as autonomous robots and self-driving cars, are becoming integral to modern society, with profound economic and societal implications. Our lab envisions leading the advancement of real-time scheduling and assurance techniques that enable safe, reliable, and adaptive robotics and autonomous systems."  <br>
-<footer style="font-size: 0.8em;"> — Dr. Steven Xiaotian Dai, Director of ReFLEX lab</footer>
-</blockquote>
+<figure class="pull-quote">
+<blockquote>Cyber-physical systems, from autonomous robots to self-driving cars, are fast becoming part of everyday life, with profound economic and societal impact. Our vision is to lead the advances in real-time scheduling and assurance that make cyber-physical, robotic and autonomous systems safe, reliable and adaptive.</blockquote>
+<figcaption><strong>Dr. Steven Xiaotian Dai</strong><span>Director, ReFLEX Lab</span></figcaption>
+</figure>
 
 ---
 
