@@ -27,7 +27,7 @@ toc: false
 
 ## Conference Chairing and Organisation
 
-- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'26</u>](https://2026.rtas.org/), [<u>RTAS'25</u>](https://2025.rtas.org/), [<u>RTAS'24</u>](https://2024.rtas.org/))
+- *Publication Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'27</u>](https://2027.rtas.org/), [<u>RTAS'26</u>](https://2026.rtas.org/), [<u>RTAS'25</u>](https://2025.rtas.org/), [<u>RTAS'24</u>](https://2024.rtas.org/))
 - *Local Organisation*, IEEE Real-Time Systems Symposium ([<u>RTSS'24</u>](https://2024.rtss.org/))
 - *Publication Chair*, IEEE International Symposium on Industrial Embedded Systems ([<u>SIES'24</u>](https://ieee-sies.org/))
 - *Web Chair*, IEEE Real-Time and Embedded Technology and Applications Symposium ([<u>RTAS'23</u>](https://2023.rtas.org/))
