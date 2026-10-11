@@ -43,7 +43,7 @@ toc: false
 ## Conference Technical Program Committee (TPC)
 
 - IEEE Real-Time Systems Symposium (<u>RTSS'25, RTSS'24, RTSS'23, RTSS'22</u>)
-- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>)
+- IEEE Real-Time and Embedded Technology and Applications Symposium (<u>RTAS'27, RTAS'25, RTAS'24, RTAS'23, RTAS'21</u>)
 - Euromicro Conference on Real-Time Systems (<u>ECRTS'26, ECRTS'24, ECRTS'23, ECRTS'22, ECRTS'19</u>)
 - International Conference on Real-Time Networks and Systems (<u>RTNS'26, RTNS'21</u>)
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Application (<u>RTCSA'26</u>)

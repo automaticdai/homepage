@@ -29,6 +29,7 @@ My research focuses on modelling, scheduling, and timing analysis for cyber-phys
 
 ## News
 
+- {{< news "service" >}} Oct 2026: Invited as a TPC member of [RTAS 2027](https://2027.rtas.org/).
 - {{< news "grant" >}} Oct 2026: Our cross-cutting project on drone swarms for fabric manipulation ([D-FAB](https://www.york.ac.uk/safe-autonomy/research/cross-cutting/drone-swarm-fabric/)) was funded by the *Institute for Safe Autonomy (ISA)*.
 - {{< news "service" >}} Sep 2026: Invited as a TPC member of [AEiC 2027](https://www.ada-europe.org/conference2027/).
 - {{< news "paper" >}} Aug 2026: Our paper "PAPS: A Predictable and Adaptive Priority Scheme for Tasks with Variable Data Latency" is accepted at [RTSS 2026](https://2026.rtss.org/)!
