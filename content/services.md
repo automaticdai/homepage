@@ -10,8 +10,10 @@ toc: false
 ## Professional Affiliations
 
 - Member of Real-Time and Distributed Systems Research Group (RTDS), University of York, UK
-- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED), Design Automation (ACM SIGDA)
-- Member of IEEE Computer Society (IEEE CS), Robotics and Automation Society (IEEE RAS)
+- Member of ACM Special Interest Group on Embedded Systems (ACM SIGBED)
+- Member of ACM Special Interest Group on Design Automation (ACM SIGDA)
+- Member of IEEE Computer Society (IEEE CS)
+- Member of IEEE Robotics and Automation Society (IEEE RAS)
 - Member of UKRI Digital Twin Network Plus (DTNet+)
 - Member of UKRI XR Networks+
 
